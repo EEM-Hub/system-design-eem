@@ -168,5 +168,4 @@ For full authorship history of any article, append `?action=history` to the URL.
 - [Web crawler](https://en.wikipedia.org/wiki/Web_crawler)
 - [Write-ahead logging](https://en.wikipedia.org/wiki/Write-ahead_logging)
 - [Yen's algorithm](https://en.wikipedia.org/wiki/Yen%27s_algorithm)
-- [Yen's algorithm](https://en.wikipedia.org/wiki/Yen's_algorithm)
 - [YouTube](https://en.wikipedia.org/wiki/YouTube)

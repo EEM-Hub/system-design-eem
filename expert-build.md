@@ -5,7 +5,7 @@
 
 ## Sources
 
-_No sources yet. Add documents to `sources/` to start._
+162 Wikipedia articles on system design topics. See [ATTRIBUTION.md](ATTRIBUTION.md).
 
 ## Certification
 
