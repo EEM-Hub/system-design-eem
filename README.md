@@ -61,6 +61,19 @@ reasons show <node-id>
 - 296 derived beliefs justified via SL justifications
 - 0 nogoods detected
 
+## Exam Results
+
+30 multiple-choice questions across distributed systems, data structures,
+algorithms, stream processing, and domain systems.
+
+| Model | Beliefs | Control | Delta | Agentic |
+|-------|---------|---------|-------|---------|
+| Opus | 100% | 100% | +0% | 100% |
+| Sonnet | 100% | 100% | +0% | 93% |
+| Haiku | 100% | 100% | +0% | 86% |
+
+See [questions/](questions/) and [results/](results/) for details.
+
 ## Limitations
 
 - Auto-generated card — review and customize for your use case
