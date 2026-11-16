@@ -5039,3 +5039,6268 @@ Peer-to-peer VOD distribution eliminates the linear cost scaling of centralized 
 - Source: entries/2026/06/19/wiki-Video_on_demand.md
 - Source URL: https://en.wikipedia.org/wiki/Video_on_demand
 
+
+---
+
+**Generated:** 2026-11-10
+**Source:** 162 entries from /home/forge/workspace/entries/
+**Model:** openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] acid-stands-for-atomicity-consistency-isolation-durability
+ACID stands for Atomicity, Consistency, Isolation, Durability.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-ACID.md
+- Source URL: https://en.wikipedia.org/wiki/ACID
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] acid-guarantees-validity-despite-failures
+ACID properties guarantee data validity for database transactions despite errors, power failures, and other mishaps.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-ACID.md
+- Source URL: https://en.wikipedia.org/wiki/ACID
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] shadow-paging-copy-on-write-commit-activation
+Shadow Paging applies updates to a partial copy of the database and activates the new copy upon commit.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-ACID.md
+- Source URL: https://en.wikipedia.org/wiki/ACID
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] two-phase-locking-guarantees-full-isolation-with-blocking-overhead
+Two-Phase Locking guarantees full isolation but causes blocking and overhead.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-ACID.md
+- Source URL: https://en.wikipedia.org/wiki/ACID
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] snapshot-isolation-is-mvcc-implementation
+Snapshot isolation is one Multiversion Concurrency Control (MVCC) implementation and relaxes isolation slightly.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-ACID.md
+- Source URL: https://en.wikipedia.org/wiki/ACID
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ibm-ims-supported-acid-1973
+IBM IMS supported ACID transactions as early as 1973.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-ACID.md
+- Source URL: https://en.wikipedia.org/wiki/ACID
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] sql-databases-are-acid-databases
+SQL databases such as MySQL, PostgreSQL, and AWS Redshift are ACID databases.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-ACID.md
+- Source URL: https://en.wikipedia.org/wiki/ACID
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] referential-integrity-is-consistency-constraint
+Referential integrity is a specific type of consistency constraint involving primary key-foreign key relationships.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-ACID.md
+- Source URL: https://en.wikipedia.org/wiki/ACID
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] astar-finds-shortest-path-weighted-graph
+A* is a graph traversal and pathfinding algorithm that finds the shortest path from a source node to a goal node in a weighted graph.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-A_search_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/A*_search_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] astar-open-set-priority-queue-by-f
+A* maintains an open set as a priority queue of discovered nodes yet to be expanded, ordered by f(n) value.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-A_search_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/A*_search_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] astar-closed-set-expanded-nodes
+A* maintains a closed set of nodes already visited and expanded.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-A_search_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/A*_search_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] astar-complete-finite-nonnegative-graphs
+A* is complete on finite graphs with non-negative edge weights, guaranteed to find a solution if one exists.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-A_search_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/A*_search_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] astar-consistent-equivalent-dijkstra-reduced-costs
+With a consistent heuristic, A* is equivalent to Dijkstra's algorithm with reduced edge costs d'(x,y) = d(x,y) + h(y) - h(x).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-A_search_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/A*_search_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] astar-lifo-tie-breaking-depth-first
+LIFO tie-breaking in A* causes depth-first behavior among equal-cost paths.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-A_search_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/A*_search_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] weighted-astar-epsilon-admissible
+Weighted A* uses h_w(n) = epsilon * h_a(n) with epsilon > 1 to trade optimality for speed, guaranteeing solutions within a factor epsilon of optimal.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-A_search_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/A*_search_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] astar-memory-bounded-variants-address-space
+Memory-bounded variants IDA*, SMA*, and RBFS address A*'s exponential space usage.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-A_search_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/A*_search_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] admissible-heuristic-optimality-not-efficiency
+Admissibility ensures correctness and optimality but does not guarantee efficiency; the search may still explore many nodes.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Admissible_heuristic.md
+- Source URL: https://en.wikipedia.org/wiki/Admissible_heuristic
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] astar-optimality-proof-uses-admissibility
+A* with an admissible heuristic cannot terminate on a suboptimal path because any remaining optimal path has an f-value no greater than its true cost and would be expanded first.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Admissible_heuristic.md
+- Source URL: https://en.wikipedia.org/wiki/Admissible_heuristic
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] non-admissible-heuristic-causes-suboptimal-astar
+If a heuristic overestimates, A* may skip the optimal path because f(n) appears too expensive, leading to suboptimal solutions.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Admissible_heuristic.md
+- Source URL: https://en.wikipedia.org/wiki/Admissible_heuristic
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hamming-distance-counts-misplaced-tiles
+Hamming distance for the Fifteen Puzzle counts the number of misplaced tiles.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Admissible_heuristic.md
+- Source URL: https://en.wikipedia.org/wiki/Admissible_heuristic
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] manhattan-distance-sums-horizontal-vertical
+Manhattan distance for the Fifteen Puzzle sums each tile's horizontal and vertical distance from its goal position.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Admissible_heuristic.md
+- Source URL: https://en.wikipedia.org/wiki/Admissible_heuristic
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] alerting-system-is-disambiguation-page
+The Wikipedia page for alerting system is a disambiguation page identifying three distinct meanings.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Alerting_system.md
+- Source URL: https://en.wikipedia.org/wiki/Alerting_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] alerting-system-can-refer-to-notification-system
+Alerting system can refer to a notification system, software and hardware that delivers messages to a set of recipients.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Alerting_system.md
+- Source URL: https://en.wikipedia.org/wiki/Alerting_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] alerting-system-can-refer-to-alert-messaging
+Alerting system can refer to alert messaging, machine-to-person communication that is important or time-sensitive.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Alerting_system.md
+- Source URL: https://en.wikipedia.org/wiki/Alerting_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] alerting-system-can-refer-to-emergency-communication-system
+Alerting system can refer to an emergency communication system organized primarily for communicating emergency information.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Alerting_system.md
+- Source URL: https://en.wikipedia.org/wiki/Alerting_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] s3-default-bucket-encryption-nov-2017
+S3 default encryption at bucket level was added in November 2017.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Amazon_S3.md
+- Source URL: https://en.wikipedia.org/wiki/Amazon_S3
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] s3-access-control-via-bucket-acls
+S3 requests are authorized via access control lists (ACLs) associated with each bucket.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Amazon_S3.md
+- Source URL: https://en.wikipedia.org/wiki/Amazon_S3
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] s3-object-can-be-bittorrent-feed
+Any S3 object can be served as a BitTorrent feed, reducing bandwidth costs for popular downloads.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Amazon_S3.md
+- Source URL: https://en.wikipedia.org/wiki/Amazon_S3
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] s3-server-access-logging-to-sibling-bucket
+S3 bucket HTTP access logs can be saved to a sibling bucket for data mining.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Amazon_S3.md
+- Source URL: https://en.wikipedia.org/wiki/Amazon_S3
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] s3-uses-amazon-ecommerce-infrastructure
+Amazon S3 uses the same infrastructure as Amazon.com's e-commerce platform.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Amazon_S3.md
+- Source URL: https://en.wikipedia.org/wiki/Amazon_S3
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] s3-later-introduced-strong-read-after-write-consistency
+AWS later introduced strong read-after-write consistency for S3 after historically using eventual consistency.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Amazon_S3.md
+- Source URL: https://en.wikipedia.org/wiki/Amazon_S3
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] s3-glacier-storage-classes-distinct-from-legacy-amazon-glacier
+S3 Glacier storage classes are distinct from the legacy Amazon Glacier product, which has its own APIs.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Amazon_S3.md
+- Source URL: https://en.wikipedia.org/wiki/Amazon_S3
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] s3-fuse-mounts-via-rclone-or-aws-mountpoint
+S3 buckets can be mounted as filesystems on Linux/Unix via tools such as Rclone or AWS Mountpoint for S3.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Amazon_S3.md
+- Source URL: https://en.wikipedia.org/wiki/Amazon_S3
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] apache-kafka-origin-linkedin-apache-maintained
+Apache Kafka was originally developed at LinkedIn and is now maintained by the Apache Software Foundation.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Apache_Kafka.md
+- Source URL: https://en.wikipedia.org/wiki/Apache_Kafka
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] apache-kafka-written-in-java-and-scala
+Apache Kafka is written in Java and Scala.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Apache_Kafka.md
+- Source URL: https://en.wikipedia.org/wiki/Apache_Kafka
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] apache-kafka-open-sourced-jan-2011-graduated-oct-2012
+Apache Kafka was open-sourced in January 2011 and graduated from the Apache Incubator in October 2012.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Apache_Kafka.md
+- Source URL: https://en.wikipedia.org/wiki/Apache_Kafka
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] kafka-connect-added-in-0-9-0-0
+The Kafka Connect API was added in Kafka version 0.9.0.0.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Apache_Kafka.md
+- Source URL: https://en.wikipedia.org/wiki/Apache_Kafka
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] kafka-streams-added-in-0-10-0-0
+The Kafka Streams API was added in Kafka version 0.10.0.0.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Apache_Kafka.md
+- Source URL: https://en.wikipedia.org/wiki/Apache_Kafka
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] kafka-fault-isolation-partition-consumer
+In Kafka, a failed consumer on one partition does not block other partitions.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Apache_Kafka.md
+- Source URL: https://en.wikipedia.org/wiki/Apache_Kafka
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] kafka-streams-dsl-operators-include-filter-map-grouping-windowing-aggregation-joins-table
+Kafka Streams DSL operators include filter, map, grouping, windowing, aggregation, joins, and table abstractions.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Apache_Kafka.md
+- Source URL: https://en.wikipedia.org/wiki/Apache_Kafka
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] kafka-streams-processor-api-low-level-custom-operators-mixable-with-dsl
+The Kafka Streams Processor API supports low-level custom operator development and can be mixed with the DSL.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Apache_Kafka.md
+- Source URL: https://en.wikipedia.org/wiki/Apache_Kafka
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] append-only-data-structures-provide-consistency-performance-rollback
+Append-only data structures provide data consistency, improved performance, and the ability to rollback to previous states.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Append-only.md
+- Source URL: https://en.wikipedia.org/wiki/Append-only
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] append-only-log-file-reconstructs-current-state-by-replaying-changes
+In an append-only log file, every change is recorded sequentially and the current state is reconstructed by replaying the log.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Append-only.md
+- Source URL: https://en.wikipedia.org/wiki/Append-only
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] log-structured-file-systems-and-databases-log-every-transaction
+Log-structured file systems and databases work by logging every transaction, with retrieval combining pieces from the log.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Append-only.md
+- Source URL: https://en.wikipedia.org/wiki/Append-only
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] blockchain-append-only-log-cryptographic-verification
+Blockchains are append-only logs with cryptographic verification of each transaction.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Append-only.md
+- Source URL: https://en.wikipedia.org/wiki/Append-only
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] purely-functional-languages-immutable-objects-inherently-append-only
+In purely functional programming languages, all objects are immutable, making data structures inherently append-only.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Append-only.md
+- Source URL: https://en.wikipedia.org/wiki/Append-only
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] certificate-transparency-uses-append-only-logs
+Certificate Transparency uses append-only logs to publicly record certificate issuance.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Append-only.md
+- Source URL: https://en.wikipedia.org/wiki/Append-only
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] apm-translates-it-metrics-into-business-value
+APM translates IT metrics into business value.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Application_performance_management.md
+- Source URL: https://en.wikipedia.org/wiki/Application_performance_management
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] apm-load-definition-transactions-requests-pages-per-second
+APM load is the volume of transactions processed, measured in transactions/sec, requests/sec, or pages/sec.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Application_performance_management.md
+- Source URL: https://en.wikipedia.org/wiki/Application_performance_management
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] apm-response-time-definition-time-to-respond-at-given-load
+APM response time is the time required for an application to respond to a user's actions at a given load.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Application_performance_management.md
+- Source URL: https://en.wikipedia.org/wiki/Application_performance_management
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] apm-performance-baseline-empirical-resource-measurement-under-load
+An APM performance baseline is an empirical measurement of computational resources used by an application under load, used to detect changes, correlate with external events, and predict future performance.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Application_performance_management.md
+- Source URL: https://en.wikipedia.org/wiki/Application_performance_management
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] apm-uem-agent-based-captures-latency-javascript-injection
+User Experience Management (UEM) is an agent-based APM subcategory that captures latency and inconsistencies as users interact with applications and may use JavaScript injection.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Application_performance_management.md
+- Source URL: https://en.wikipedia.org/wiki/Application_performance_management
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] gartner-original-apm-five-dimensions
+Gartner's original APM model had five dimensions: end-user experience monitoring, application runtime architecture discovery and modeling, user-defined transaction profiling, application component monitoring, and reporting and application data analytics.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Application_performance_management.md
+- Source URL: https://en.wikipedia.org/wiki/Application_performance_management
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] apm-business-transactions-group-pages-into-8-12-categories
+APM business transactions should group URL/page definitions into 8-12 high-level categories for SLA reporting and trending.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Application_performance_management.md
+- Source URL: https://en.wikipedia.org/wiki/Application_performance_management
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] apm-ddcm-agent-based-middleware-j2ee-dotnet
+Deep Dive Component Monitoring (DDCM) is agent-based monitoring targeting middleware (web, application, messaging servers) that provides real-time views of J2EE and .NET stacks tied to business transactions.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Application_performance_management.md
+- Source URL: https://en.wikipedia.org/wiki/Application_performance_management
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] morris-counter-smaller-values-greater-error-ratios
+In the Morris approximate counting algorithm, smaller counter values have greater error ratios than larger values.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Approximate_counting_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Approximate_counting_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] morris-counter-custom-value-sets-tradeoff-memory-error-range
+Custom counter value sets in approximate counting can be optimized for desired error ratio, memory budget, or counting range.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Approximate_counting_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Approximate_counting_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ice-buckets-mitigate-shared-counter-value-degradation
+Independent Counter Estimation (ICE) buckets mitigate accuracy degradation for smaller counters when multiple counters share value sets.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Approximate_counting_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Approximate_counting_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] morris-counter-computer-implementation-generate-c-bits-and-and
+A computer implementation of the Morris counter generates c pseudo-random bits, computes their logical AND, and adds the result to the counter on each increment request.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Approximate_counting_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Approximate_counting_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] morris-counter-increment-4-to-8-probability-quarter
+When the Morris counter estimate is 4, an increment request moves it to 8 with probability 1/4 and leaves it at 4 with probability 3/4.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Approximate_counting_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Approximate_counting_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] atomic-transaction-not-observable-in-progress
+An atomic database transaction cannot be observed 'in progress' by another client; it either has not happened yet or has fully completed.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Atomicity_database_systems.md
+- Source URL: https://en.wikipedia.org/wiki/Atomicity_(database_systems)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] atomicity-implemented-via-read-copy-update-alternative-to-journaling
+Atomicity can be implemented using read-copy-update (RCU), which keeps a copy of data before changes as an alternative to journaling.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Atomicity_database_systems.md
+- Source URL: https://en.wikipedia.org/wiki/Atomicity_(database_systems)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] posix-open-flock-and-pthreads-provide-os-level-atomicity-primitives
+OS-level atomicity primitives include POSIX open(2) and flock(2) for atomic file open/lock and POSIX Threads for synchronization.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Atomicity_database_systems.md
+- Source URL: https://en.wikipedia.org/wiki/Atomicity_(database_systems)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hardware-atomic-primitives-include-test-and-set-fetch-and-add-cas-llsc-memory-barriers
+Hardware-level atomic operations include test-and-set, fetch-and-add, compare-and-swap (CAS), load-link/store-conditional (LL/SC), combined with memory barriers.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Atomicity_database_systems.md
+- Source URL: https://en.wikipedia.org/wiki/Atomicity_(database_systems)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] distributed-sharded-databases-atomicity-complicated-by-network-latency-and-partial-failures
+In sharded or distributed databases, atomicity is complicated by network latency and partial failures.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Atomicity_database_systems.md
+- Source URL: https://en.wikipedia.org/wiki/Atomicity_(database_systems)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] failure-to-detect-atomicity-violation-cascades-to-isolation-or-consistency
+A failure to detect an atomicity violation and roll back can cascade into isolation or consistency failures.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Atomicity_database_systems.md
+- Source URL: https://en.wikipedia.org/wiki/Atomicity_(database_systems)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] journaling-file-systems-apply-atomicity-at-filesystem-level
+Journaling file systems apply the same atomicity concept at the filesystem level.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Atomicity_database_systems.md
+- Source URL: https://en.wikipedia.org/wiki/Atomicity_(database_systems)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] autocorrect-replaces-strings
+Autocorrect automatically replaces strings, such as fixing 'teh' to 'the'.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Autocomplete.md
+- Source URL: https://en.wikipedia.org/wiki/Autocomplete
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] context-completion-requires-larger-training-datasets
+Context completion predicts words using surrounding text and training data and requires larger training datasets than prefix matching.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Autocomplete.md
+- Source URL: https://en.wikipedia.org/wiki/Autocomplete
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] line-completion-introduced-ted-notepad-2006
+Line completion was introduced in TED Notepad in 2006 and uses the current document as a training set to complete entire lines.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Autocomplete.md
+- Source URL: https://en.wikipedia.org/wiki/Autocomplete
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] frecency-model-combines-frequency-and-recency
+The frecency model combines frequency and recency to rank predictions and is commonly used on AAC devices.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Autocomplete.md
+- Source URL: https://en.wikipedia.org/wiki/Autocomplete
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] word-prediction-origin-assistive-technology
+Word prediction was originally designed as assistive technology for people with physical disabilities, whose speech-generating device output is less than 10% the speed of oral speech.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Autocomplete.md
+- Source URL: https://en.wikipedia.org/wiki/Autocomplete
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] html-autocomplete-attribute-form-input-inheritance
+The HTML autocomplete attribute can be set to 'on' or 'off' on both <form> and <input> elements, and child elements inherit the parent form's value.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Autocomplete.md
+- Source URL: https://en.wikipedia.org/wiki/Autocomplete
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] code-editors-autocomplete-encourages-longer-variable-names
+In code editors, autocomplete encourages longer, more descriptive variable names because typing cost is reduced.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Autocomplete.md
+- Source URL: https://en.wikipedia.org/wiki/Autocomplete
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] database-query-tool-autocomplete-context-aware
+Database query tool autocomplete is context-aware, suggesting table names versus column names based on cursor position within a SQL statement.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Autocomplete.md
+- Source URL: https://en.wikipedia.org/wiki/Autocomplete
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bplus-tree-m-ary-block-storage-search-tree
+A B+ tree is an m-ary search tree optimized for block-oriented storage systems such as filesystems and databases.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-B_tree.md
+- Source URL: https://en.wikipedia.org/wiki/B+_tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bplus-tree-high-fanout-reduces-io
+B+ tree nodes typically have high fanout (order 100+), keeping the tree shallow and reducing disk I/O operations.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-B_tree.md
+- Source URL: https://en.wikipedia.org/wiki/B+_tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bplus-tree-keys-form-total-order
+B+ tree keys form a total order, enabling sorted storage and interval-based routing in internal nodes.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-B_tree.md
+- Source URL: https://en.wikipedia.org/wiki/B+_tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bplus-tree-insertion-split-half-and-copy-key
+When a full B+ tree leaf splits, the original keeps ceil((K+1)/2) items, the new node gets floor((K+1)/2) items, and the ceil((K+1)/2)-th key is copied up to the parent.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-B_tree.md
+- Source URL: https://en.wikipedia.org/wiki/B+_tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bplus-tree-bulk-loading-sorts-and-rightmost-splits
+B+ tree bulk loading sorts all data entries by key, builds bottom-up, and splits only along the rightmost path from root to leaf level.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-B_tree.md
+- Source URL: https://en.wikipedia.org/wiki/B+_tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bplus-tree-deletion-redistribution-or-merge
+B+ tree deletion attempts sibling redistribution when a leaf falls below minimum occupancy, and otherwise merges the leaf with a sibling, updating or deleting the parent entry.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-B_tree.md
+- Source URL: https://en.wikipedia.org/wiki/B+_tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bplus-tree-apfs-lacks-sibling-pointers
+APFS B+ tree implementations lack sibling pointers in leaf nodes.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-B_tree.md
+- Source URL: https://en.wikipedia.org/wiki/B+_tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bplus-tree-space-complexity-linear
+B+ tree space complexity is O(n).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-B_tree.md
+- Source URL: https://en.wikipedia.org/wiki/B+_tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] base62-binary-to-text-encoding
+Base62 is a binary-to-text encoding scheme that represents arbitrary data, including binary data, as ASCII text using 62 printable characters.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Base62.md
+- Source URL: https://en.wikipedia.org/wiki/Base62
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] base62-encode-divide-by-62-remainders
+Base62 encoding treats input bytes as a large integer, repeatedly divides by 62, and maps remainders to the alphabet.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Base62.md
+- Source URL: https://en.wikipedia.org/wiki/Base62
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] base62-decode-multiply-by-62-add-value
+Base62 decoding multiplies the accumulated value by 62 for each character and adds the character's positional value.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Base62.md
+- Source URL: https://en.wikipedia.org/wiki/Base62
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] base62-less-space-efficient-than-base64-3-percent
+Base62 is less space-efficient than Base64 by about 3% because it has a smaller alphabet.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Base62.md
+- Source URL: https://en.wikipedia.org/wiki/Base62
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] base62-positional-numeral-system
+Base62 is a positional numeral system and relates to general radix-based representations.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Base62.md
+- Source URL: https://en.wikipedia.org/wiki/Base62
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] base62-no-standard-cli-tool
+No standard CLI tool exists for Base62; implementations perform positional numeral conversion.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Base62.md
+- Source URL: https://en.wikipedia.org/wiki/Base62
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bellman-ford-single-source-shortest-paths
+Bellman–Ford computes shortest paths from a single source vertex to all other vertices in a weighted directed graph.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-BellmanFord_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Bellman–Ford_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bellman-ford-known-as-bellman-ford-moore
+The algorithm is also known as Bellman–Ford–Moore, with contributions by Shimbel (1955), Bellman (1958), Ford (1956), and Moore (1959).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-BellmanFord_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Bellman–Ford_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bellman-ford-edge-relaxation-core-mechanism
+Bellman–Ford's core mechanism is edge relaxation, iteratively replacing distance overestimates with shorter discovered paths.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-BellmanFord_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Bellman–Ford_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bellman-ford-correctness-invariant-i-edges
+After iteration i, Bellman–Ford's distance[v] holds the shortest path using at most i edges.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-BellmanFord_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Bellman–Ford_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bellman-ford-spfa-queue-improvement
+SPFA (Shortest Path Faster Algorithm) is Moore's 1959 improvement that maintains a queue of vertices whose distances changed and was rediscovered by Duan in 1994.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-BellmanFord_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Bellman–Ford_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bellman-ford-yen-edge-partition-halves-iterations
+Yen's improvement partitions edges into forward and backward sets, reducing Bellman–Ford's worst-case iterations to |V|/2.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-BellmanFord_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Bellman–Ford_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bellman-ford-bannister-eppstein-random-permutation
+Bannister and Eppstein (2012) showed that random vertex permutation reduces Bellman–Ford's expected iterations to |V|/3.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-BellmanFord_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Bellman–Ford_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bellman-ford-fineman-2024-breakthrough
+Fineman (2024) achieved Õ(|V|^{8/9}·|E|) time with high probability, improving the classical Bellman–Ford bound.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-BellmanFord_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Bellman–Ford_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] binary-heap-complete-tree-heap-property
+A binary heap is a complete binary tree satisfying the heap property, where each parent is greater than or equal to (max-heap) or less than or equal to (min-heap) its children.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Binary_heap.md
+- Source URL: https://en.wikipedia.org/wiki/Binary_heap
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] binary-heap-invented-williams-1964-heapsort
+The binary heap was invented by J. W. J. Williams in 1964 for heapsort.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Binary_heap.md
+- Source URL: https://en.wikipedia.org/wiki/Binary_heap
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] binary-heap-up-heap-restores-insert
+Up-heap (bubble-up/sift-up/swim-up) restores the heap property after insertion by swapping with the parent upward.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Binary_heap.md
+- Source URL: https://en.wikipedia.org/wiki/Binary_heap
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] binary-heap-push-pop-single-down-heap
+Push-Pop (insert-then-extract) can be implemented with a single down-heap instead of an up-heap followed by a down-heap.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Binary_heap.md
+- Source URL: https://en.wikipedia.org/wiki/Binary_heap
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] binary-heap-delete-arbitrary-up-or-down
+Deleting an arbitrary binary heap element requires finding its index, swapping with the last element, removing the last, and then up-heaping or down-heaping depending on the new value.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Binary_heap.md
+- Source URL: https://en.wikipedia.org/wiki/Binary_heap
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] binary-heap-b-heap-page-fault-reduction
+The B-heap variant keeps subtrees in a single memory page, reducing virtual memory page faults by up to 10x.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Binary_heap.md
+- Source URL: https://en.wikipedia.org/wiki/Binary_heap
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] binary-heap-build-exact-worst-case-comparisons
+The exact worst-case comparison count for building a binary heap is 2n - 2s2(n) - e2(n), where s2(n) is the binary digit sum and e2(n) is the exponent of 2 in n's factorization.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Binary_heap.md
+- Source URL: https://en.wikipedia.org/wiki/Binary_heap
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bst-ordering-property-left-less-right-greater
+A binary search tree maintains the BST property: each node's key is greater than all keys in its left subtree and less than all keys in its right subtree.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Binary_search_tree.md
+- Source URL: https://en.wikipedia.org/wiki/Binary_search_tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bst-invented-1960-multiple-researchers
+The binary search tree was invented in 1960 by multiple independent researchers, including Windley, Booth, Colin, and Hibbard.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Binary_search_tree.md
+- Source URL: https://en.wikipedia.org/wiki/Binary_search_tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bst-space-complexity-theta-n-average-o-n-worst
+A binary search tree has Θ(n) average-case space complexity and O(n) worst-case space complexity.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Binary_search_tree.md
+- Source URL: https://en.wikipedia.org/wiki/Binary_search_tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bst-self-balancing-variants-include-avl-red-black-treaps
+Self-balancing BST variants include AVL trees, red-black trees, treaps, B-trees, 2-3 trees, splay trees, and T-trees.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Binary_search_tree.md
+- Source URL: https://en.wikipedia.org/wiki/Binary_search_tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] height-balanced-bst-bounded-height-difference
+Height-balanced BSTs such as AVL and red-black trees keep the heights of left and right subtrees different by a bounded constant factor.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Binary_search_tree.md
+- Source URL: https://en.wikipedia.org/wiki/Binary_search_tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] weight-balanced-bst-uses-leaf-count-alpha-ratio
+Weight-balanced BSTs use the number of leaves as the balance criterion and maintain an α-ratio of total weight between subtrees.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Binary_search_tree.md
+- Source URL: https://en.wikipedia.org/wiki/Binary_search_tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bst-successor-smallest-key-greater
+The successor of a BST node is the node with the smallest key greater than that node's key.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Binary_search_tree.md
+- Source URL: https://en.wikipedia.org/wiki/Binary_search_tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bloom-filter-invented-1970-burton-bloom
+The Bloom filter is a space-efficient probabilistic data structure invented by Burton Howard Bloom in 1970.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Bloom_filter.md
+- Source URL: https://en.wikipedia.org/wiki/Bloom_filter
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bloom-filter-structure-bit-array-k-hash-functions
+A Bloom filter consists of a bit array of m bits initially all zero and k independent hash functions mapping elements to array positions.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Bloom_filter.md
+- Source URL: https://en.wikipedia.org/wiki/Bloom_filter
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bloom-filter-add-sets-k-bits-to-one
+Adding an element to a Bloom filter feeds it through all k hash functions and sets the resulting k bit positions to 1.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Bloom_filter.md
+- Source URL: https://en.wikipedia.org/wiki/Bloom_filter
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bloom-filter-cardinality-estimation-formula
+Bloom filter cardinality can be estimated from the number of set bits X using n* = -(m/k) ln(1 - X/m).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Bloom_filter.md
+- Source URL: https://en.wikipedia.org/wiki/Bloom_filter
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bloom-filter-intersection-size-estimation-via-union-count
+Bloom filter intersection size can be estimated from two same-sized filters A and B using n(A ∩ B) = n(A) + n(B) - n(A ∪ B), where union count uses the bitwise OR.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Bloom_filter.md
+- Source URL: https://en.wikipedia.org/wiki/Bloom_filter
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bloom-filter-enhanced-double-hashing-generates-k-hashes
+Efficient Bloom filter hash functions can be generated using enhanced double hashing or triple hashing instead of k truly independent hash functions.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Bloom_filter.md
+- Source URL: https://en.wikipedia.org/wiki/Bloom_filter
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bloom-filter-goel-gupta-bound
+The Goel-Gupta bound for Bloom filter false positive probability is ε ≤ (1 - e^(-k(n+0.5)/(m-1)))^k.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Bloom_filter.md
+- Source URL: https://en.wikipedia.org/wiki/Bloom_filter
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] byzantine-fault-different-symptoms-to-observers
+A Byzantine fault presents different symptoms to different observers.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Byzantine_failure.md
+- Source URL: https://en.wikipedia.org/wiki/Byzantine_failure
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] byzantine-failure-loss-of-service-in-consensus-system
+Byzantine failure is loss of system service due to a Byzantine fault in a system requiring consensus.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Byzantine_failure.md
+- Source URL: https://en.wikipedia.org/wiki/Byzantine_failure
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] byzantine-vs-fail-stop-arbitrary-data
+In the fail-stop model a node crashes visibly, while a Byzantine node can generate arbitrary data and appear functional to some observers.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Byzantine_failure.md
+- Source URL: https://en.wikipedia.org/wiki/Byzantine_failure
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] byzantine-faults-not-only-malicious
+Byzantine faults can arise from physical or software faults, not only malicious actors.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Byzantine_failure.md
+- Source URL: https://en.wikipedia.org/wiki/Byzantine_failure
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] schrodinger-crc-byzantine-bit-different-valid-crcs
+A CRC-protected message with a single Byzantine faulty bit can present valid CRCs with different data to different observers, a situation called Schrödinger CRC.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Byzantine_failure.md
+- Source URL: https://en.wikipedia.org/wiki/Byzantine_failure
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hybrid-fault-model-increments-thresholds-per-benign-fault
+In a hybrid fault model, each additional benign fault tolerated increments all BFT thresholds by one.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Byzantine_failure.md
+- Source URL: https://en.wikipedia.org/wiki/Byzantine_failure
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bft-traditional-o-n-squared-cerberus-linear
+Traditional BFT communication complexity is O(n²), while newer protocols such as Cerberus achieve linear scalability via parallelized consensus.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Byzantine_failure.md
+- Source URL: https://en.wikipedia.org/wiki/Byzantine_failure
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cap-consistency-requires-replication-before-success
+CAP consistency requires that data written to one node be replicated to all other nodes before the write is deemed successful.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-CAP_theorem.md
+- Source URL: https://en.wikipedia.org/wiki/CAP_theorem
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cap-availability-non-failing-node-responds
+CAP availability requires every request received by a non-failing node to result in a response, without guaranteeing the response contains the most recent data.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-CAP_theorem.md
+- Source URL: https://en.wikipedia.org/wiki/CAP_theorem
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cap-partition-tolerance-survives-dropped-delayed-messages
+CAP partition tolerance means the system continues to operate despite an arbitrary number of messages being dropped or delayed by the network between nodes.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-CAP_theorem.md
+- Source URL: https://en.wikipedia.org/wiki/CAP_theorem
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cap-all-three-satisfied-without-partition
+During normal operation without a network partition, a distributed data store can satisfy consistency, availability, and partition tolerance simultaneously.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-CAP_theorem.md
+- Source URL: https://en.wikipedia.org/wiki/CAP_theorem
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cap-two-out-of-three-only-forced-during-partition
+Brewer's 2012 clarification states that the CAP 'two out of three' choice is only forced during partitions and is not a permanent system-wide classification.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-CAP_theorem.md
+- Source URL: https://en.wikipedia.org/wiki/CAP_theorem
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cap-ca-not-meaningful-no-nosql-ca
+CA classification is not meaningful for distributed systems because network partitions cannot be avoided, and no NoSQL databases are classified as CA.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-CAP_theorem.md
+- Source URL: https://en.wikipedia.org/wiki/CAP_theorem
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cap-availability-not-high-availability-uptime
+CAP availability, meaning every non-failing node responds, is not the same as high availability defined by uptime SLAs and redundancy.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-CAP_theorem.md
+- Source URL: https://en.wikipedia.org/wiki/CAP_theorem
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cap-modern-databases-tune-per-operation-or-table
+Most modern distributed databases offer configuration options to tune the consistency-availability trade-off per operation or per table.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-CAP_theorem.md
+- Source URL: https://en.wikipedia.org/wiki/CAP_theorem
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cache-hit-rate-percentage-accesses-served
+A cache hit occurs when requested data is found in cache; hit rate is the percentage of accesses served from cache.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Cache_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Cache_(computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cache-entry-contains-data-and-tag
+A cache entry consists of data copied from the backing store and a tag identifying the matching backing store location.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Cache_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Cache_(computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cache-stale-data-backing-store-changed
+Stale data in a cache occurs when the backing store changes but the cache still holds the old copy.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Cache_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Cache_(computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cache-write-through-writes-both-synchronously
+A write-through cache policy writes to both the cache and the backing store synchronously.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Cache_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Cache_(computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cache-lru-evicts-least-recently-accessed
+The LRU replacement policy evicts the cache entry that was accessed longest ago.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Cache_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Cache_(computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cache-demand-paging-reads-minimum-on-miss
+Demand paging reads the minimum amount on a cache miss rather than speculatively prefetching ahead.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Cache_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Cache_(computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] tlb-caches-virtual-to-physical-translations
+The TLB is a specialized cache for virtual-to-physical address translations in the memory management unit.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Cache_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Cache_(computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] accuweather-gps-truncation-increased-cache-hits-50-percent
+Truncating GPS coordinates increased cache hits by 50% in an AccuWeather example, illustrating that cache key design impacts hit rate.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Cache_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Cache_(computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cache-average-memory-reference-time-formula
+Average memory reference time is defined by T = m × Tm + Th + E, where m is miss ratio, Tm is main-memory access time, Th is hit latency, and E is secondary effects such as queuing in multiprocessor systems.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Cache_replacement_policies.md
+- Source URL: https://en.wikipedia.org/wiki/Cache_replacement_policies
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] slru-probationary-protected-two-access
+Segmented LRU (SLRU) divides the cache into probationary and protected segments; an item must be accessed twice to reach the protected segment.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Cache_replacement_policies.md
+- Source URL: https://en.wikipedia.org/wiki/Cache_replacement_policies
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] clock-pro-approximates-lirs-linux-buffer-cache
+Clock-Pro approximates LIRS at low cost, and Linux (2017+) combines LRU and Clock-Pro for buffer cache replacement.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Cache_replacement_policies.md
+- Source URL: https://en.wikipedia.org/wiki/Cache_replacement_policies
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] rrip-eviction-increments-rrpv-when-no-max
+RRIP eviction on a miss finds a line with RRPV equal to max (e.g., 7 for 3-bit); if none exists, it increments all RRPVs by 1 until one reaches max and evicts that line.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Cache_replacement_policies.md
+- Source URL: https://en.wikipedia.org/wiki/Cache_replacement_policies
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cache-reuse-distance-used-by-lirs-hawkeye-mockingjay
+Reuse distance is the number of distinct accesses between two consecutive accesses to the same item, and it is used by LIRS, Hawkeye, and Mockingjay.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Cache_replacement_policies.md
+- Source URL: https://en.wikipedia.org/wiki/Cache_replacement_policies
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] plru-flips-pointers-away-from-accessed-item
+PLRU on access flips the 1-bit pointers along the path away from the accessed item to find an eviction candidate.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Cache_replacement_policies.md
+- Source URL: https://en.wikipedia.org/wiki/Cache_replacement_policies
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] clob-touch-best-bid-and-lowest-offer
+The touch (best market) is the highest bid and lowest offer together, forming the tightest available market.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Central_limit_order_book.md
+- Source URL: https://en.wikipedia.org/wiki/Central_limit_order_book
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] clob-market-depth-stack-visible-bid-offer-levels
+Market depth ('the stack') is the visible display of bid and offer orders at various price levels and sizes.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Central_limit_order_book.md
+- Source URL: https://en.wikipedia.org/wiki/Central_limit_order_book
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] clob-customers-cross-spread-immediate-execution
+In a CLOB, customers can cross the spread by trading at the opposing side's price for immediate execution.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Central_limit_order_book.md
+- Source URL: https://en.wikipedia.org/wiki/Central_limit_order_book
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] clob-primary-trading-method-most-global-exchanges
+A central limit order book is the primary trading method used by most exchanges globally.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Central_limit_order_book.md
+- Source URL: https://en.wikipedia.org/wiki/Central_limit_order_book
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] rfq-customers-cannot-make-markets
+In the RFQ model, customers cannot make markets themselves; only dealers provide quotes.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Central_limit_order_book.md
+- Source URL: https://en.wikipedia.org/wiki/Central_limit_order_book
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] chord-introduced-2001-stoica-morris-karger-kaashoek-balakrishnan-mit
+Chord was introduced in 2001 by Stoica, Morris, Karger, Kaashoek, and Balakrishnan at MIT.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Chord_peer-to-peer.md
+- Source URL: https://en.wikipedia.org/wiki/Chord_(peer-to-peer)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] chord-one-of-four-original-dht-protocols-with-can-tapestry-pastry
+Chord is one of the four original DHT protocols, alongside CAN, Tapestry, and Pastry.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Chord_peer-to-peer.md
+- Source URL: https://en.wikipedia.org/wiki/Chord_(peer-to-peer)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] chord-2001-paper-won-acm-sigcomm-test-of-time-2011
+The 2001 Chord paper won the ACM SIGCOMM Test of Time award in 2011.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Chord_peer-to-peer.md
+- Source URL: https://en.wikipedia.org/wiki/Chord_(peer-to-peer)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] chord-finger-table-init-costs-mlog-n-to-olog-n
+Chord finger table initialization costs O(m log N) when using m independent lookups, O(log^2 N) when reusing previous entries, and O(log N) when initialized from neighbors.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Chord_peer-to-peer.md
+- Source URL: https://en.wikipedia.org/wiki/Chord_(peer-to-peer)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] chord-first-finger-entry-is-immediate-successor
+The first finger table entry in Chord is the node's immediate successor, so no separate successor field is needed.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Chord_peer-to-peer.md
+- Source URL: https://en.wikipedia.org/wiki/Chord_(peer-to-peer)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] kademlia-uses-xor-distance-not-clockwise-ring
+Kademlia, another DHT protocol used by BitTorrent, uses an XOR distance metric instead of Chord's clockwise ring distance.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Chord_peer-to-peer.md
+- Source URL: https://en.wikipedia.org/wiki/Chord_(peer-to-peer)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] koorde-extends-chord-with-de-bruijn-o-log-n-o1-state
+Koorde extends Chord with de Bruijn graph routing to achieve O(log N) lookup with O(1) state per node.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Chord_peer-to-peer.md
+- Source URL: https://en.wikipedia.org/wiki/Chord_(peer-to-peer)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] clock-drift-causes-divergence-even-initially-set-accurately
+Real clocks inevitably diverge due to clock drift, slight differences in counting rates, even when initially set accurately.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Clock_synchronization.md
+- Source URL: https://en.wikipedia.org/wiki/Clock_synchronization
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] frequency-sync-vs-phase-sync-definitions
+Frequency synchronization ensures clocks tick at the same rate, while phase synchronization ensures clocks agree on the current time.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Clock_synchronization.md
+- Source URL: https://en.wikipedia.org/wiki/Clock_synchronization
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] gps-time-signals-pm10ns-accuracy-unobstructed-sky
+GPS time signals provide ±10 nanosecond accuracy and require an antenna with an unobstructed sky view.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Clock_synchronization.md
+- Source URL: https://en.wikipedia.org/wiki/Clock_synchronization
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] irig-timecodes-originated-1960-us-military-standards
+IRIG timecodes are standard formats for transferring timing information and originated in 1960 from U.S. military standards bodies.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Clock_synchronization.md
+- Source URL: https://en.wikipedia.org/wiki/Clock_synchronization
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] huygens-software-only-probe-based-tens-nanoseconds-datacenters
+Huygens is a software-only, probe-based clock synchronization algorithm achieving tens of nanoseconds accuracy in data centers even under high network load.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Clock_synchronization.md
+- Source URL: https://en.wikipedia.org/wiki/Clock_synchronization
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] rbs-receiver-receiver-paradigm-wireless-sensor-networks
+Reference Broadcast Synchronization (RBS) uses a receiver-receiver paradigm and is used in wireless sensor networks.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Clock_synchronization.md
+- Source URL: https://en.wikipedia.org/wiki/Clock_synchronization
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ftsp-harmonia-multihop-microsecond-wireless-adhoc
+FTSP and Harmonia provide multi-hop synchronization for wireless ad hoc networks with microsecond-level accuracy.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Clock_synchronization.md
+- Source URL: https://en.wikipedia.org/wiki/Clock_synchronization
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cf-core-assumption-past-agreement-predicts-future-agreement
+Collaborative filtering assumes that users who agreed in the past will agree in the future; if users A and B share opinions on some items, they are more likely to agree on other items than a random pairing.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Collaborative_filtering.md
+- Source URL: https://en.wikipedia.org/wiki/Collaborative_filtering
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cf-user-based-vs-item-based-approaches
+User-based CF finds users with similar rating patterns and aggregates their ratings, while item-based CF builds an item-item relationship matrix and matches the current user's data against it.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Collaborative_filtering.md
+- Source URL: https://en.wikipedia.org/wiki/Collaborative_filtering
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cf-lsh-enables-linear-time-nearest-neighbor
+Locality-sensitive hashing enables nearest-neighbor search in linear time for finding similar users at scale in collaborative filtering.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Collaborative_filtering.md
+- Source URL: https://en.wikipedia.org/wiki/Collaborative_filtering
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cf-context-aware-extends-user-item-matrix-to-tensors
+Context-aware collaborative filtering extends the 2D user-item matrix to higher-order tensors incorporating time, location, device, and social context, using tensor factorization for dimensionality reduction.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Collaborative_filtering.md
+- Source URL: https://en.wikipedia.org/wiki/Collaborative_filtering
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cf-slope-one-is-item-based-cf-family
+Slope One is a specific family of item-based collaborative filtering algorithms.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Collaborative_filtering.md
+- Source URL: https://en.wikipedia.org/wiki/Collaborative_filtering
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cf-synonyms-problem-mitigated-by-topic-modeling-lda
+Collaborative filtering treats synonymous item labels such as 'children's movie' and 'children's film' as different items; topic modeling such as LDA can mitigate this synonyms problem.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Collaborative_filtering.md
+- Source URL: https://en.wikipedia.org/wiki/Collaborative_filtering
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cf-popularity-bias-rich-get-richer-suppresses-niche
+Collaborative filtering can create a rich-get-richer effect that favors popular items and suppresses niche discoveries.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Collaborative_filtering.md
+- Source URL: https://en.wikipedia.org/wiki/Collaborative_filtering
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] consistent-hashing-traditional-modular-hash-key-assignment
+Traditional hash tables assign keys to slots with hash(key) % N.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Consistent_hashing.md
+- Source URL: https://en.wikipedia.org/wiki/Consistent_hashing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] consistent-hashing-ring-circular-space-0-359
+Consistent hashing maps keys and servers onto a circular space measured in 0-359 degrees or 0-2π.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Consistent_hashing.md
+- Source URL: https://en.wikipedia.org/wiki/Consistent_hashing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] consistent-hashing-server-removal-keys-move-clockwise
+Removing a server in consistent hashing only affects keys assigned to that server, which move to the next clockwise server.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Consistent_hashing.md
+- Source URL: https://en.wikipedia.org/wiki/Consistent_hashing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] consistent-hashing-hot-key-replication-contiguous-servers
+A hot key can be replicated to multiple contiguous servers by traversing the consistent hashing ring clockwise.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Consistent_hashing.md
+- Source URL: https://en.wikipedia.org/wiki/Consistent_hashing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] consistent-hashing-new-node-cache-miss-no-migration
+In web caching with consistent hashing, newly added servers do not require data migration; a cache miss triggers a fetch from the origin server and eviction policies clean stale copies from old servers.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Consistent_hashing.md
+- Source URL: https://en.wikipedia.org/wiki/Consistent_hashing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] consistent-hashing-linear-hashing-sequential-limitation
+Linear hashing handles sequential server addition and removal but not arbitrary order, a limitation consistent hashing removes.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Consistent_hashing.md
+- Source URL: https://en.wikipedia.org/wiki/Consistent_hashing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] consistent-hashing-stable-marriage-akamai
+Akamai uses the stable marriage algorithm alongside consistent hashing, with consistent hashing balancing within a cluster and stable marriage balancing across clusters.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Consistent_hashing.md
+- Source URL: https://en.wikipedia.org/wiki/Consistent_hashing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] consistent-hashing-grpc-application-routers
+Consistent hashing is used by gRPC load balancers and application routers to distribute requests across changing server pools.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Consistent_hashing.md
+- Source URL: https://en.wikipedia.org/wiki/Consistent_hashing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] recommender-systems-are-information-filtering-systems
+Recommender systems are information filtering systems that suggest items most relevant to a particular user.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Content-based_filtering.md
+- Source URL: https://en.wikipedia.org/wiki/Content-based_filtering
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] collaborative-filtering-uses-similar-users-past-behavior
+Collaborative filtering uses past behavior of similar users and does not require understanding item content.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Content-based_filtering.md
+- Source URL: https://en.wikipedia.org/wiki/Content-based_filtering
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hybrid-recommender-combines-cf-and-content-based
+Hybrid recommender systems combine collaborative filtering and content-based filtering.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Content-based_filtering.md
+- Source URL: https://en.wikipedia.org/wiki/Content-based_filtering
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] session-based-recommenders-use-rnn-transformer-no-history
+Session-based recommender systems use RNNs or transformers and do not require user history.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Content-based_filtering.md
+- Source URL: https://en.wikipedia.org/wiki/Content-based_filtering
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] reinforcement-learning-recommenders-optimize-engagement
+Reinforcement-learning-based recommender systems optimize engagement directly.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Content-based_filtering.md
+- Source URL: https://en.wikipedia.org/wiki/Content-based_filtering
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] generative-recommenders-hstu-token-streams
+Generative recommender systems such as HSTU represent user actions as token streams.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Content-based_filtering.md
+- Source URL: https://en.wikipedia.org/wiki/Content-based_filtering
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] risk-aware-recommenders-use-contextual-bandits
+Risk-aware recommender systems use contextual bandits.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Content-based_filtering.md
+- Source URL: https://en.wikipedia.org/wiki/Content-based_filtering
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cdn-is-geographically-distributed-proxy-network
+A CDN is a geographically distributed network of proxy servers and data centers that delivers content with high availability and low latency.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Content_Delivery_Network.md
+- Source URL: https://en.wikipedia.org/wiki/Content_Delivery_Network
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cdn-content-owners-pay-operators-and-isps
+Content owners pay CDN operators, who in turn pay ISPs and carriers for hosting CDN servers in their data centers.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Content_Delivery_Network.md
+- Source URL: https://en.wikipedia.org/wiki/Content_Delivery_Network
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cdn-pops-range-few-to-thousands
+Points of Presence (PoPs) are physical locations where CDN servers are deployed, and CDNs range from a few PoPs to thousands.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Content_Delivery_Network.md
+- Source URL: https://en.wikipedia.org/wiki/Content_Delivery_Network
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cdn-layer4-7-switches-virtual-ip-load-balancing
+Layer 4-7 switches assign a single virtual IP and distribute incoming traffic to real backend servers for load balancing, health checks, and failover.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Content_Delivery_Network.md
+- Source URL: https://en.wikipedia.org/wiki/Content_Delivery_Network
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cdn-multi-cdn-selector-provider-per-request
+Multi-CDN uses multiple CDN providers simultaneously, and a CDN selector decides which provider handles each request.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Content_Delivery_Network.md
+- Source URL: https://en.wikipedia.org/wiki/Content_Delivery_Network
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cdn-federated-telco-ocx-interconnection
+Federated CDNs interconnect telco CDN networks, for example via OCX, to offer combined geographic coverage competing with traditional CDNs.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Content_Delivery_Network.md
+- Source URL: https://en.wikipedia.org/wiki/Content_Delivery_Network
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cdn-virtualization-dynamic-cache-elasticity
+Virtual CDN (vCDN/sd-CDN) uses virtualization with VMs or containers to dynamically deploy cache instances, increasing elasticity and reducing cost.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Content_Delivery_Network.md
+- Source URL: https://en.wikipedia.org/wiki/Content_Delivery_Network
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cdn-icap-and-opes-content-service-protocols
+ICAP is an open standard from the late 1990s for application server integration, and OPES is a more robust successor content service protocol.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Content_Delivery_Network.md
+- Source URL: https://en.wikipedia.org/wiki/Content_Delivery_Network
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] count-sketch-invented-charikar-chen-farach-colton-2004
+Count Sketch was invented by Charikar, Chen, and Farach-Colton in 2004.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Count_sketch.md
+- Source URL: https://en.wikipedia.org/wiki/Count_sketch
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] count-sketch-improves-ams-with-low-dependence-and-median
+Count Sketch improves upon the AMS Sketch by using hash functions with low dependence and the median trick for aggregation.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Count_sketch.md
+- Source URL: https://en.wikipedia.org/wiki/Count_sketch
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] count-sketch-variance-bound-min-m1-m2
+Count Sketch variance bound is O(min{m_1^2/w^2, m_2^2/w}).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Count_sketch.md
+- Source URL: https://en.wikipedia.org/wiki/Count_sketch
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] count-sketch-data-structure-d-rows-w-columns
+Count Sketch is a 2D matrix of counters with d rows and w columns, totaling w·d counters.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Count_sketch.md
+- Source URL: https://en.wikipedia.org/wiki/Count_sketch
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] count-sketch-nearly-identical-feature-hashing
+Count Sketch is nearly identical to Feature Hashing (Moody 1989), but differs in requiring low-dependence hash functions.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Count_sketch.md
+- Source URL: https://en.wikipedia.org/wiki/Count_sketch
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] count-sketch-fft-accelerates-convolution
+Fast Fourier Transform accelerates convolution of count sketches.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Count_sketch.md
+- Source URL: https://en.wikipedia.org/wiki/Count_sketch
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] count-sketch-enables-bilinear-pooling-kernel-approx
+Count Sketch enables explicit kernel approximations used in bilinear pooling in neural networks.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Count_sketch.md
+- Source URL: https://en.wikipedia.org/wiki/Count_sketch
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] count-min-sketch-invented-cormode-muthukrishnan-2003
+Count-min sketch was invented by Cormode and Muthukrishnan in 2003.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Countmin_sketch.md
+- Source URL: https://en.wikipedia.org/wiki/Count–min_sketch
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] count-min-sketch-structure-w-columns-d-rows
+Count-min sketch uses a 2D array with w columns and d rows, where each row has an independent pairwise-independent hash function.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Countmin_sketch.md
+- Source URL: https://en.wikipedia.org/wiki/Count–min_sketch
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] count-min-sketch-update-increments-hashed-cells
+Count-min sketch update increments count[j, h_j(i)] by 1 for each row j for each event of type i.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Countmin_sketch.md
+- Source URL: https://en.wikipedia.org/wiki/Count–min_sketch
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] count-min-sketch-inner-product-query
+Count-min sketch can estimate the inner product of two frequency vectors by summing element-wise products per row and taking the minimum across rows.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Countmin_sketch.md
+- Source URL: https://en.wikipedia.org/wiki/Count–min_sketch
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] count-min-sketch-sublinear-space-quality-not-distinct-count
+Count-min sketch uses sub-linear space proportional to approximation quality rather than the number of distinct elements.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Countmin_sketch.md
+- Source URL: https://en.wikipedia.org/wiki/Count–min_sketch
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] count-min-sketch-implements-counting-bloom-filter
+Count-min sketch can be seen as an implementation of a counting Bloom filter, but sized for approximation quality rather than element count.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Countmin_sketch.md
+- Source URL: https://en.wikipedia.org/wiki/Count–min_sketch
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] count-min-sketch-query-time-o-d
+Count-min sketch query time is O(d), constant with respect to stream size and universe size.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Countmin_sketch.md
+- Source URL: https://en.wikipedia.org/wiki/Count–min_sketch
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] count-min-sketch-hcount-debiasing-bootstrapping
+The hCount* debiasing technique uses bootstrapping to estimate and subtract bias from count-min sketch estimates.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Countmin_sketch.md
+- Source URL: https://en.wikipedia.org/wiki/Count–min_sketch
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] crypto-hash-avalanche-effect
+A single-bit change in the input of a cryptographic hash function produces a completely different hash output (the avalanche effect).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Cryptographic_hash_function.md
+- Source URL: https://en.wikipedia.org/wiki/Cryptographic_hash_function
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] crypto-hash-second-preimage-resistance-definition
+Second pre-image resistance means that given m1, it is hard to find m2 not equal to m1 such that hash(m1) equals hash(m2).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Cryptographic_hash_function.md
+- Source URL: https://en.wikipedia.org/wiki/Cryptographic_hash_function
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] crc-non-cryptographic-hash-only-detects-accidental-errors
+Non-cryptographic hash functions such as CRC provide no resistance to deliberate attacks and only detect accidental errors.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Cryptographic_hash_function.md
+- Source URL: https://en.wikipedia.org/wiki/Cryptographic_hash_function
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] random-oracle-model-hash-behaves-random-deterministic
+In the random oracle model, an ideal cryptographic hash behaves like a random function while remaining deterministic and efficiently computable.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Cryptographic_hash_function.md
+- Source URL: https://en.wikipedia.org/wiki/Cryptographic_hash_function
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] block-ciphers-and-hash-functions-mutually-constructible
+Block ciphers can build hash functions via the Davies-Meyer construction, and hash functions can build block ciphers via the Luby-Rackoff construction.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Cryptographic_hash_function.md
+- Source URL: https://en.wikipedia.org/wiki/Cryptographic_hash_function
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] digital-signatures-computed-over-hash-digest
+Digital signatures are computed over the hash digest, not the full message.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Cryptographic_hash_function.md
+- Source URL: https://en.wikipedia.org/wiki/Cryptographic_hash_function
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] content-addressable-storage-uses-hash-as-address
+Content-addressable storage uses a hash as the file identifier or address, so identical content always maps to the same address.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Cryptographic_hash_function.md
+- Source URL: https://en.wikipedia.org/wiki/Cryptographic_hash_function
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] git-uses-sha1-for-content-and-ancestry
+Git uses SHA-1 hashes to identify file content, directory trees, and ancestry.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Cryptographic_hash_function.md
+- Source URL: https://en.wikipedia.org/wiki/Cryptographic_hash_function
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] concurrent-data-structures-allow-multiple-thread-access
+Concurrent data structures allow multiple threads to access a single data structure instance simultaneously.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Data_structure.md
+- Source URL: https://en.wikipedia.org/wiki/Data_structure
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] stack-lifo-queue-fifo
+Stacks are LIFO (push/pop) and queues are FIFO (enqueue/dequeue).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Data_structure.md
+- Source URL: https://en.wikipedia.org/wiki/Data_structure
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] balanced-binary-tree-search-log-n
+A balanced binary tree provides O(log n) search.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Data_structure.md
+- Source URL: https://en.wikipedia.org/wiki/Data_structure
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] graph-traversal-bfs-dfs
+Graphs are traversed with breadth-first search (BFS) or depth-first search (DFS).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Data_structure.md
+- Source URL: https://en.wikipedia.org/wiki/Data_structure
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] heaps-used-for-priority-queues
+Heaps are used to implement priority queues.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Data_structure.md
+- Source URL: https://en.wikipedia.org/wiki/Data_structure
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] trie-node-represents-one-character
+In a trie, each node represents one character of a key.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Data_structure.md
+- Source URL: https://en.wikipedia.org/wiki/Data_structure
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] filesystems-use-btrees-search-engines-use-inverted-index
+Filesystems rely on B-trees and search engines rely on inverted indexes as specialized data structures.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Data_structure.md
+- Source URL: https://en.wikipedia.org/wiki/Data_structure
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] transaction-two-purposes-recovery-and-isolation
+Transactions serve two primary purposes: reliable units of work enabling correct failure recovery and consistency, and isolation between concurrently accessing programs.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Database_transaction.md
+- Source URL: https://en.wikipedia.org/wiki/Database_transaction
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] transactional-database-provides-acid-begin-commit
+A transactional database is a DBMS that provides ACID properties for a bracketed set of begin-commit operations.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Database_transaction.md
+- Source URL: https://en.wikipedia.org/wiki/Database_transaction
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] commit-persists-rollback-reverts
+COMMIT persists all results of data manipulations in the transaction, while ROLLBACK discards partial results and reverts to the pre-transaction state.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Database_transaction.md
+- Source URL: https://en.wikipedia.org/wiki/Database_transaction
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] transaction-id-xid-internal-identifier
+A transaction ID (XID) is an internal identifier used by multi-user databases to store and process transactions.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Database_transaction.md
+- Source URL: https://en.wikipedia.org/wiki/Database_transaction
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] read-committed-hides-uncommitted-changes
+At READ COMMITTED isolation level, changes made by a transaction are invisible to other transactions until the transaction ends.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Database_transaction.md
+- Source URL: https://en.wikipedia.org/wiki/Database_transaction
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] nested-transactions-contain-subtransactions
+Nested transactions contain statements that start sub-transactions.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Database_transaction.md
+- Source URL: https://en.wikipedia.org/wiki/Database_transaction
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] compensating-transaction-undoes-committed-effects
+A compensating transaction undoes the effects of a previously committed transaction.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Database_transaction.md
+- Source URL: https://en.wikipedia.org/wiki/Database_transaction
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] autocommit-disabled-during-transaction
+Autocommit is automatically disabled when a transaction starts and re-enabled when it ends.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Database_transaction.md
+- Source URL: https://en.wikipedia.org/wiki/Database_transaction
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dlq-dedicated-holding-area-for-undeliverable-messages
+A dead letter queue is a dedicated holding area for messages that a messaging system cannot or should not deliver.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dead_letter_queue.md
+- Source URL: https://en.wikipedia.org/wiki/Dead_letter_queue
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] poison-message-repeated-consumer-failure
+A poison message repeatedly causes consumer failure and is closely related to the DLQ max-receive-count routing reason.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dead_letter_queue.md
+- Source URL: https://en.wikipedia.org/wiki/Dead_letter_queue
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dlq-management-monitor-alert-remediate
+DLQ management typically involves monitoring, alerting, and either automated remediation handlers or manual reprocessing workflows.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dead_letter_queue.md
+- Source URL: https://en.wikipedia.org/wiki/Dead_letter_queue
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] google-cloud-pubsub-dead-letter-topic-max-delivery-attempts
+Google Cloud Pub/Sub configures a dead letter topic on the subscription with a max delivery attempts threshold.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dead_letter_queue.md
+- Source URL: https://en.wikipedia.org/wiki/Dead_letter_queue
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] apache-pulsar-dead-letter-topic-pip-22
+Apache Pulsar uses a Dead Letter Topic (PIP-22) configured at the consumer level.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dead_letter_queue.md
+- Source URL: https://en.wikipedia.org/wiki/Dead_letter_queue
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] growing-dlq-depth-signals-consumer-or-infrastructure-failure
+A growing DLQ depth signals consumer failures, schema mismatches, or infrastructure problems.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dead_letter_queue.md
+- Source URL: https://en.wikipedia.org/wiki/Dead_letter_queue
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] deadlock-game-theory-mutually-beneficial-dominant-strategy
+In game theory, a deadlock is a 2x2 game where the mutually beneficial action is also the dominant strategy.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Deadlock.md
+- Source URL: https://en.wikipedia.org/wiki/Deadlock
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] deadlock-game-theory-differs-from-prisoners-dilemma
+Game-theory deadlock differs from Prisoner's Dilemma because dominant strategies align with mutual benefit.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Deadlock.md
+- Source URL: https://en.wikipedia.org/wiki/Deadlock
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] deadlock-term-overloaded-across-politics-law-locksmithing-sports
+The term deadlock is overloaded across politics (gridlock), negotiation (impasse), law (hung jury), locksmithing (deadbolt), and sports (tie/draw).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Deadlock.md
+- Source URL: https://en.wikipedia.org/wiki/Deadlock
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bankers-algorithm-addresses-mutual-exclusion
+Banker's Algorithm addresses the mutual exclusion Coffman condition.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Deadlock_prevention_algorithms.md
+- Source URL: https://en.wikipedia.org/wiki/Deadlock_prevention_algorithms
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] recursive-locks-require-n-exits
+Recursive locks allow the owning thread to re-enter n times and require n exits to release.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Deadlock_prevention_algorithms.md
+- Source URL: https://en.wikipedia.org/wiki/Deadlock_prevention_algorithms
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] non-recursive-locks-single-entry-reentry-deadlock
+Non-recursive locks allow a single entry; re-entry by the same thread causes deadlock or exception.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Deadlock_prevention_algorithms.md
+- Source URL: https://en.wikipedia.org/wiki/Deadlock_prevention_algorithms
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] super-thread-mechanism-breaks-deadlock-cycle
+The super-thread mechanism designates one thread as super-thread and allows it to run to completion, breaking the deadlock cycle.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Deadlock_prevention_algorithms.md
+- Source URL: https://en.wikipedia.org/wiki/Deadlock_prevention_algorithms
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] temporary-deadlocks-resolve-when-unrelated-thread-completes
+Temporary deadlocks are not true deadlocks but performance killers that resolve when an unrelated thread completes.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Deadlock_prevention_algorithms.md
+- Source URL: https://en.wikipedia.org/wiki/Deadlock_prevention_algorithms
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] distributed-deadlocks-require-global-wfg-or-edge-chasing
+Distributed deadlocks require either a global Wait-For Graph constructed from local graphs or distributed algorithms like edge chasing.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Deadlock_prevention_algorithms.md
+- Source URL: https://en.wikipedia.org/wiki/Deadlock_prevention_algorithms
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] super-thread-approach-does-not-solve-halting-problem
+The super-thread approach does not solve the halting problem; it works only because locking conditions are known and bounded.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Deadlock_prevention_algorithms.md
+- Source URL: https://en.wikipedia.org/wiki/Deadlock_prevention_algorithms
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] deadlock-prevention-techniques-incur-costs
+Every deadlock prevention technique pays a cost in performance/overhead, data corruption risk, or both.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Deadlock_prevention_algorithms.md
+- Source URL: https://en.wikipedia.org/wiki/Deadlock_prevention_algorithms
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] defense-in-depth-no-single-control-sufficient
+Defense in depth's core principle is that no single security control is sufficient; multiple independent methods must defend each asset so failure of one does not compromise the system.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Defense_in_depth_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Defense_in_depth_(computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] defense-in-depth-physical-controls-examples
+Defense in depth physical controls include fences, guards, dogs, and CCTV.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Defense_in_depth_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Defense_in_depth_(computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] defense-in-depth-technical-controls-examples
+Defense in depth technical controls include disk encryption, authentication, firewalls, antivirus, intrusion detection, EDR, sandboxing, vulnerability scanners, WAFs, VPNs, DMZs, and network segmentation.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Defense_in_depth_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Defense_in_depth_(computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] defense-in-depth-administrative-controls-examples
+Defense in depth administrative/operational controls include MFA, password policies, security awareness training, patch management, risk assessment, information assurance, and principle of least privilege.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Defense_in_depth_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Defense_in_depth_(computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] defense-in-depth-osi-layer-redundancy
+Defense in depth requires OSI layer redundancy: if an attacker penetrates at one OSI layer, a defense should exist at another layer.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Defense_in_depth_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Defense_in_depth_(computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hipaa-security-rule-requires-defense-in-depth
+The HIPAA Security Rule implicitly requires defense in depth through administrative (45 CFR 164.308), physical (45 CFR 164.310), and technical (45 CFR 164.312) safeguards.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Defense_in_depth_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Defense_in_depth_(computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hipaa-2024-proposed-rule-codifies-layered-defenses
+December 2024 proposed HIPAA rulemaking would explicitly codify layered defenses including network segmentation, encryption, MFA, anti-malware, and continuous monitoring.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Defense_in_depth_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Defense_in_depth_(computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dependency-injection-separates-construction-from-use
+Dependency injection separates object construction from object use, producing loosely coupled, testable, and maintainable programs.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dependency_injection.md
+- Source URL: https://en.wikipedia.org/wiki/Dependency_injection
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dependency-injection-makes-dependencies-explicit
+Dependency injection makes hidden dependencies visible (implicit to explicit), enabling different configurations without code changes.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dependency_injection.md
+- Source URL: https://en.wikipedia.org/wiki/Dependency_injection
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dependency-injection-hollywood-principle
+Dependency injection follows the Hollywood Principle of 'Don't call us, we'll call you' — the framework constructs dependencies and hands them to the client.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dependency_injection.md
+- Source URL: https://en.wikipedia.org/wiki/Dependency_injection
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] method-injection-passes-dependencies-as-arguments
+Method injection passes dependencies as method arguments for temporary or per-call use, with no long-term reference held.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dependency_injection.md
+- Source URL: https://en.wikipedia.org/wiki/Dependency_injection
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] setter-injection-risks-incomplete-initialization
+Setter injection allows post-construction dependency changes but risks incomplete initialization.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dependency_injection.md
+- Source URL: https://en.wikipedia.org/wiki/Dependency_injection
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] interface-injection-dependency-controls-injection
+Interface injection lets the dependency's interface provide an inject method, allowing the dependency to control injection and track client count.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dependency_injection.md
+- Source URL: https://en.wikipedia.org/wiki/Dependency_injection
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] di-frameworks-optional-manual-wiring
+Dependency injection frameworks are optional; manual wiring at the composition root is a valid approach, especially for smaller projects.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dependency_injection.md
+- Source URL: https://en.wikipedia.org/wiki/Dependency_injection
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] di-keeps-domain-classes-pojo
+Well-designed dependency injection keeps framework-specific annotations out of domain classes (e.g., Spring beans remain POJOs).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dependency_injection.md
+- Source URL: https://en.wikipedia.org/wiki/Dependency_injection
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dbc-contract-includes-preconditions-postconditions-invariants
+A Design by Contract contract consists of preconditions, postconditions, and invariants.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Design_by_contract.md
+- Source URL: https://en.wikipedia.org/wiki/Design_by_contract
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dbc-class-invariant-holds-on-entry-and-exit
+A class invariant in Design by Contract must hold true both on entry and on exit of every public method.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Design_by_contract.md
+- Source URL: https://en.wikipedia.org/wiki/Design_by_contract
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dbc-correctness-criterion-invariant-precondition-to-invariant-postcondition
+Design by Contract's correctness criterion is: if class invariant AND precondition are true before a call, then invariant AND postcondition will be true after completion.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Design_by_contract.md
+- Source URL: https://en.wikipedia.org/wiki/Design_by_contract
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cpp26-contract-syntax-pre-post-contract-assert
+C++26 contract syntax includes pre(), post(), and contract_assert() for preconditions, postconditions, and assertion statements.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Design_by_contract.md
+- Source URL: https://en.wikipedia.org/wiki/Design_by_contract
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dbc-native-support-languages-list
+Languages with native Design by Contract support include Eiffel, Ada 2012, C++ (C++26), D, Kotlin, Scala, Racket, Clojure, and Dafny.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Design_by_contract.md
+- Source URL: https://en.wikipedia.org/wiki/Design_by_contract
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dbc-complements-testing
+Design by Contract complements testing; it does not replace unit, integration, or system testing.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Design_by_contract.md
+- Source URL: https://en.wikipedia.org/wiki/Design_by_contract
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dbc-contracts-serve-as-living-documentation
+Design by Contract contracts serve as living documentation of module behavior, facilitating code reuse.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Design_by_contract.md
+- Source URL: https://en.wikipedia.org/wiki/Design_by_contract
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dbc-applied-to-exception-handling
+Meyer's original Design by Contract contribution included applying contracts to exception handling semantics.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Design_by_contract.md
+- Source URL: https://en.wikipedia.org/wiki/Design_by_contract
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] digital-wallet-enables-electronic-transactions
+A digital wallet is an electronic device, online service, or software program that enables electronic transactions between parties.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Digital_wallet.md
+- Source URL: https://en.wikipedia.org/wiki/Digital_wallet
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] digital-wallet-stores-identity-documents
+Digital wallets can store identity documents such as driver's licenses, health cards, and loyalty cards.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Digital_wallet.md
+- Source URL: https://en.wikipedia.org/wiki/Digital_wallet
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cryptocurrency-wallet-stores-private-keys
+A cryptocurrency wallet is a specialized digital wallet that stores private keys for cryptocurrencies.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Digital_wallet.md
+- Source URL: https://en.wikipedia.org/wiki/Digital_wallet
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] digital-wallets-improve-financial-inclusion
+2025 research shows digital wallets lower access barriers and improve financial service availability for underserved populations.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Digital_wallet.md
+- Source URL: https://en.wikipedia.org/wiki/Digital_wallet
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] digital-wallets-enable-mobile-payments
+Digital wallets are the primary enabler of mobile payment systems such as M-PESA, Apple Pay, and Google Wallet.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Digital_wallet.md
+- Source URL: https://en.wikipedia.org/wiki/Digital_wallet
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] digital-wallets-autofill-payment-and-shipping-info
+Digital wallets auto-fill payment and shipping information across merchant sites for e-commerce.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Digital_wallet.md
+- Source URL: https://en.wikipedia.org/wiki/Digital_wallet
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] m-pesa-mobile-payment-adoption-kenya-tanzania
+M-PESA is a key example of mobile payment adoption in Kenya and Tanzania.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Digital_wallet.md
+- Source URL: https://en.wikipedia.org/wiki/Digital_wallet
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] epi-acquired-ideal-for-pan-european-wallet
+The European Payments Initiative (EPI) acquired iDEAL to create a pan-European digital wallet.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Digital_wallet.md
+- Source URL: https://en.wikipedia.org/wiki/Digital_wallet
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dijkstra-conceived-1956-published-1959
+Dijkstra's algorithm was conceived by Edsger Dijkstra in 1956 and published in 1959.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dijkstra_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Dijkstra_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dijkstra-relaxation-condition-updates-dist-prev
+Dijkstra's algorithm relaxes edge (u,v) when dist[u] + weight(u,v) < dist[v], updating dist[v] and setting prev[v] to u.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dijkstra_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Dijkstra_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dijkstra-predecessor-array-reconstructs-path
+Dijkstra's algorithm uses a predecessor array prev[] to reconstruct a shortest path by reverse iteration from target to source.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dijkstra_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Dijkstra_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dijkstra-priority-queue-decrease-key-or-lazy
+Dijkstra's priority-queue implementation can use decrease_priority on updated nodes or a lazy variant that starts with only the source and uses add_with_priority for newly discovered nodes.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dijkstra_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Dijkstra_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] johnson-dijkstra-subroutine-sparse-all-pairs
+Johnson's algorithm uses Dijkstra as a subroutine for all-pairs shortest paths in sparse graphs after reweighting edges via Bellman-Ford.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dijkstra_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Dijkstra_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] prim-structurally-similar-to-dijkstra-but-mst
+Prim's algorithm is structurally similar to Dijkstra's algorithm as a greedy priority-queue algorithm but solves minimum spanning tree rather than shortest paths, and Dijkstra rediscovered Prim's algorithm.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dijkstra_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Dijkstra_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dijkstra-correctness-proof-induction-invariant
+Dijkstra's correctness is proven by induction on visited nodes, with the invariant that visited nodes have true shortest distances and unvisited nodes have shortest distances using only visited intermediate nodes.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dijkstra_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Dijkstra_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ospf-isis-use-dijkstra-derived-shortest-path
+OSPF and IS-IS network routing protocols use shortest-path algorithms derived from Dijkstra's algorithm.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dijkstra_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Dijkstra_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dag-definition-no-directed-cycles
+A directed acyclic graph (DAG) is a directed graph containing no directed cycles.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Directed_acyclic_graph.md
+- Source URL: https://en.wikipedia.org/wiki/Directed_acyclic_graph
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dag-reachability-forms-partial-order
+The reachability relation of a DAG forms a partial order on its vertices, where u <= v iff a directed path exists from u to v.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Directed_acyclic_graph.md
+- Source URL: https://en.wikipedia.org/wiki/Directed_acyclic_graph
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dag-transitive-closure-most-edges
+The transitive closure is the DAG with the most edges that preserves the same reachability relation, adding a direct edge for every reachable pair.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Directed_acyclic_graph.md
+- Source URL: https://en.wikipedia.org/wiki/Directed_acyclic_graph
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hasse-diagram-is-transitive-reduction-layout
+A Hasse diagram is a drawing of the transitive reduction where edge orientation is shown by vertical position, with the start vertex below the end vertex.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Directed_acyclic_graph.md
+- Source URL: https://en.wikipedia.org/wiki/Directed_acyclic_graph
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dag-multitree-at-most-one-path-between-vertices
+A multitree is a DAG with at most one directed path between any two vertices.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Directed_acyclic_graph.md
+- Source URL: https://en.wikipedia.org/wiki/Directed_acyclic_graph
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] polytree-is-oriented-undirected-tree
+A polytree is a multitree formed by orienting the edges of an undirected tree.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Directed_acyclic_graph.md
+- Source URL: https://en.wikipedia.org/wiki/Directed_acyclic_graph
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] arborescence-is-polytree-oriented-from-root
+An arborescence is a polytree oriented away from a designated root vertex.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Directed_acyclic_graph.md
+- Source URL: https://en.wikipedia.org/wiki/Directed_acyclic_graph
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] pert-critical-path-is-longest-path
+In PERT/critical path scheduling, vertices are milestones, edges are tasks with time estimates, and the longest path is the critical path controlling project duration.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Directed_acyclic_graph.md
+- Source URL: https://en.wikipedia.org/wiki/Directed_acyclic_graph
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] distributed-cache-extends-single-node-across-servers
+A distributed cache extends single-node caching across multiple servers, increasing storage capacity and transactional throughput.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_cache.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_cache
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] distributed-cache-sharding-assigns-keys-to-shards
+In a distributed cache, sharding assigns each cache key to a specific shard as the fundamental distribution mechanism.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_cache.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_cache
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] icn-is-network-level-distributed-cache
+Information-Centric Networking (ICN) is a network-level architecture that itself forms a distributed cache network, and traditional cache management schemes do not map well to ICN.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_cache.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_cache
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] distributed-cache-sits-on-read-path-between-app-and-db
+Distributed caches sit on the read path between application servers and database servers, offloading expensive database queries.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_cache.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_cache
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cache-stampede-causes-backend-overload
+Cache stampede is a failure mode where many requests simultaneously miss the cache and overwhelm the backend.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_cache.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_cache
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] distributed-cache-major-implementations
+Major distributed cache implementations include Redis, Memcached, Hazelcast, Apache Ignite, Ehcache, and Couchbase.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_cache.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_cache
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] distributed-cache-uses-eviction-policies
+Cache algorithms such as LRU and LFU are eviction policies that govern what stays in a distributed cache when capacity is reached.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_cache.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_cache
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] distributed-system-partial-failure-property
+In a distributed system, when one component fails, the entire system does not necessarily fail; this is the partial failure property.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_computer_system.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_computer_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] message-delivery-guarantees-three-types
+Distributed systems commonly distinguish three delivery guarantees: at-least-once, at-most-once, and exactly-once.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_computer_system.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_computer_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] scalability-marginal-cost-nearly-constant
+Marc Brooker defines a system as scalable when the marginal cost of additional workload is nearly constant.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_computer_system.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_computer_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] distributed-node-limited-incomplete-view
+Each node in a distributed system has a limited, incomplete view of the system, and no single node knows the full state.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_computer_system.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_computer_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] distributed-message-passing-protocols-http-rpc-queues
+Message passing in distributed systems uses protocols such as pure HTTP, RPC-like connectors, and message queues.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_computer_system.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_computer_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] distributed-delivery-patterns-pubsub-p2p-request-reply
+Distributed systems use delivery patterns including publish/subscribe for one-to-many, point-to-point for one-to-one, and request/reply.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_computer_system.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_computer_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] saga-pattern-handles-distributed-transactions
+The saga pattern handles distributed transactions across services.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_computer_system.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_computer_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] local-model-synchronous-rounds
+In the LOCAL theoretical model, nodes receive, compute, and send in synchronous lockstep rounds.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_computer_system.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_computer_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] distributed-db-three-architecture-types
+Distributed database architectures are classified as shared-memory, shared-disk, and shared-nothing.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_database.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_database
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] shared-memory-processors-share-ram-rarely-distributed
+In a shared-memory distributed database architecture, processors share RAM, and this architecture is very rarely used in distributed settings.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_database.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_database
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] shared-disk-nodes-share-storage-separate-compute
+In a shared-disk architecture, nodes share storage but have separate compute.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_database.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_database
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] microsoft-distributed-query-ole-db
+A Microsoft distributed query is any SELECT, INSERT, UPDATE, or DELETE statement referencing tables from one or more external OLE DB data sources.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_database.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_database
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] oracle-distributed-sql-synchronous-access
+Oracle Distributed SQL synchronously accesses and updates data distributed among multiple databases and includes distributed queries and distributed transactions.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_database.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_database
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] rendezvous-hashing-highest-weight-owns-key
+In rendezvous hashing (HRW), each client computes a hash weight h(S_i, k) for every server S_i, and the server with the highest weight owns key k.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_hash_table.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_hash_table
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dht-greedy-key-based-routing
+DHT overlay networks route messages by forwarding to the neighbor whose ID is closest to the target key, a strategy called key-based routing.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_hash_table.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_hash_table
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dht-put-sha1-160-bit-key
+A basic DHT put operation hashes the filename with SHA-1 to produce a 160-bit key, then routes the key-value pair to the responsible node for storage.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_hash_table.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_hash_table
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dht-content-addressable-key-content-hash
+In content-addressable DHT storage, key k is often the hash of file content rather than the filename, so renaming a file does not break lookups.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_hash_table.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_hash_table
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dht-implementations-store-on-multiple-nodes
+Real DHT implementations store each (k, data) pair on i nodes, where i is an implementation-specific redundancy parameter, rather than only one node.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_hash_table.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_hash_table
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dht-batch-optimization-sort-condense-send
+DHT batch optimization sorts a local batch of b operations by responsible node identifier, condenses duplicate operations on the same key, and sends batched operations to the respective nodes.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_hash_table.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_hash_table
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] koorde-constant-degree-logarithmic-route-length
+Koorde is a DHT design with O(1) degree and O(log n) route length, while an O(sqrt(n)) degree design can achieve O(1) hops at the cost of worst storage.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_hash_table.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_hash_table
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] napster-centralized-index-single-point-failure
+Napster used a centralized index that created a single point of failure, in contrast to DHT structured routing.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_hash_table.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_hash_table
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] partial-failure-does-not-fail-whole-system
+In a distributed system, the partial failure principle means when one component fails, the entire system does not fail, distinguishing distributed systems from monolithic architectures.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_system.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] distributed-node-limited-incomplete-view
+Each node in a distributed system has a limited, incomplete view of the overall system state, and no node knows the full state.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_system.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] three-tier-architecture-stateless-clients-middle-tier-logic
+Three-tier architecture uses stateless clients with intelligence in the middle tier, and is the architecture of most web applications.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_system.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] peer-to-peer-architecture-no-special-server-machines
+Peer-to-peer architecture has no special server machines; all peers serve as both client and server, as in BitTorrent and Bitcoin.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_system.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] pub-sub-one-to-many-point-to-point-one-to-one
+Publish/subscribe is a one-to-many delivery pattern, while point-to-point is a one-to-one delivery pattern.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_system.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] local-model-complexity-communication-rounds
+The LOCAL model measures distributed computational complexity in synchronous communication rounds rather than computational steps, and any problem is solvable in approximately 2D rounds where D is network diameter.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_system.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] nc-polylogarithmic-time-polynomial-processors
+The NC complexity class captures problems solvable in polylogarithmic time with polynomial processors and is equivalent under PRAM and Boolean circuit models.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_system.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] distributed-coordination-message-passing-or-shared-database
+Distributed coordination alternatives include direct inter-process message passing and database-centric architecture using a shared database without direct IPC.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_system.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] distributed-transaction-spans-multiple-nodes
+A distributed transaction is a transaction that spans multiple nodes across a network and is not limited to databases alone.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_transaction.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_transaction
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] distributed-transaction-atomicity-all-or-nothing
+Atomicity in a distributed transaction guarantees that the transaction completes entirely or not at all.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_transaction.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_transaction
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] event-driven-distributed-transaction-sync-dual-vs-ephemeral-queues
+Event-driven synchronization for distributed transactions uses request-response over message queues, implemented either with dual queues or an ephemeral queue per request.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_transaction.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_transaction
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ejb-and-mts-full-distributed-transaction-support
+Jakarta Enterprise Beans (EJB) and Microsoft Transaction Server (MTS) are named technologies with full distributed transaction support.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Distributed_transaction.md
+- Source URL: https://en.wikipedia.org/wiki/Distributed_transaction
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] debit-left-credit-right-definition
+In double-entry bookkeeping, a debit records a transfer of value to an account on the left side of the ledger, and a credit records a transfer of value from an account on the right side.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Double-entry_bookkeeping.md
+- Source URL: https://en.wikipedia.org/wiki/Double-entry_bookkeeping
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] double-entry-two-approaches-traditional-accounting-equation
+Double-entry bookkeeping has two main approaches: the traditional (British) approach using real, personal, and nominal accounts, and the accounting equation (American) approach using five account types.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Double-entry_bookkeeping.md
+- Source URL: https://en.wikipedia.org/wiki/Double-entry_bookkeeping
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] traditional-account-categories-real-personal-nominal
+Traditional double-entry accounting classifies accounts as real accounts (tangible and intangible assets), personal accounts (persons and organizations such as debtors and creditors), and nominal accounts (revenue, expenses, gains, and losses).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Double-entry_bookkeeping.md
+- Source URL: https://en.wikipedia.org/wiki/Double-entry_bookkeeping
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] daybooks-feed-nominal-ledger-and-reduce-ledger-entries
+Daybooks (journals) are preliminary records that feed into the nominal ledger; transactions can be totaled in daybooks before entry into the ledger to reduce the number of ledger entries.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Double-entry_bookkeeping.md
+- Source URL: https://en.wikipedia.org/wiki/Double-entry_bookkeeping
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] double-entry-recording-procedure-steps
+The double-entry recording procedure is: identify the transaction and affected accounts, determine debit and credit entries, record the journal entry, post to the nominal ledger, and prepare a trial balance.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Double-entry_bookkeeping.md
+- Source URL: https://en.wikipedia.org/wiki/Double-entry_bookkeeping
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] traditional-and-accounting-equation-produce-identical-results
+The traditional (British) and accounting equation (American) approaches to double-entry bookkeeping produce identical results; only the classification framework differs.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Double-entry_bookkeeping.md
+- Source URL: https://en.wikipedia.org/wiki/Double-entry_bookkeeping
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] downsampling-subsampling-decimation-related-terms-sample-rate-reduction
+Downsampling, subsampling, compression, and decimation are related terms for reducing the sample rate in a multi-rate DSP system.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Downsampling_signal_processing.md
+- Source URL: https://en.wikipedia.org/wiki/Downsampling_(signal_processing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] aliasing-occurs-when-downsampling-without-anti-aliasing-filter
+Aliasing occurs if sample-rate reduction is performed without the anti-aliasing filter, causing high-frequency components to fold into the lower frequency band.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Downsampling_signal_processing.md
+- Source URL: https://en.wikipedia.org/wiki/Downsampling_(signal_processing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] decimating-fir-filter-output-formula-dot-product
+For a decimating FIR filter, the nth output is computed as y[n] = Σ(k=0 to K-1) x[nM - k] · h[k], where h[k] is the length-K impulse response and M is the decimation factor.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Downsampling_signal_processing.md
+- Source URL: https://en.wikipedia.org/wiki/Downsampling_(signal_processing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] first-noble-identity-polyphase-naive-equivalence
+The First Noble identity establishes mathematical equivalence between the polyphase implementation and the naive zero-stuffing approach in decimation.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Downsampling_signal_processing.md
+- Source URL: https://en.wikipedia.org/wiki/Downsampling_(signal_processing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] decimation-reduces-dtft-periodicity-and-amplitude-by-m
+Decimation reduces DTFT periodicity and amplitude by factor M, making the periodic spectral summation M times less frequent.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Downsampling_signal_processing.md
+- Source URL: https://en.wikipedia.org/wiki/Downsampling_(signal_processing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cd-audio-44100-decimated-by-5-over-4-yields-35280
+Decimating CD audio at 44,100 samples/sec by a factor of 5/4 yields 35,280 samples/sec.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Downsampling_signal_processing.md
+- Source URL: https://en.wikipedia.org/wiki/Downsampling_(signal_processing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] realizable-anti-aliasing-cutoff-below-theoretical-maximum-due-transition-band
+Realizable anti-aliasing filters have a transition band, so the practical cutoff must be placed below the theoretical maximum 0.5/(M·T) to ensure adequate alias suppression.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Downsampling_signal_processing.md
+- Source URL: https://en.wikipedia.org/wiki/Downsampling_(signal_processing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] in-place-updates-discouraged-maintain-change-history
+In-place updates are discouraged in durable database systems; systems should maintain a history of changes to support recovery.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Durability_database_systems.md
+- Source URL: https://en.wikipedia.org/wiki/Durability_(database_systems)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] durability-resilience-committed-transactions-survive-failures
+Durability requires resilience: committed transactions survive failures, possibly through reconstruction of effects.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Durability_database_systems.md
+- Source URL: https://en.wikipedia.org/wiki/Durability_(database_systems)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] durability-recoverability-undo-uncommitted-transactions
+Durability requires recoverability: incomplete or uncommitted transactions can be undone without affecting database state.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Durability_database_systems.md
+- Source URL: https://en.wikipedia.org/wiki/Durability_(database_systems)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] volatile-storage-faster-but-loses-data-nonvolatile-persists
+Volatile storage such as RAM is faster but loses data on failure, while non-volatile storage such as disk or SSD is slower but persists data.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Durability_database_systems.md
+- Source URL: https://en.wikipedia.org/wiki/Durability_(database_systems)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] recovery-optimization-checkpoints-incremental-dumps-differential-files
+Checkpoints, incremental dumps, and differential files are recovery optimization techniques that reduce the cost of replaying full log history.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Durability_database_systems.md
+- Source URL: https://en.wikipedia.org/wiki/Durability_(database_systems)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] serializability-enables-discarding-uncommitted-changes
+Serializability enables transaction-level durability by allowing uncommitted changes to be discerned and discarded.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Durability_database_systems.md
+- Source URL: https://en.wikipedia.org/wiki/Durability_(database_systems)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dynamic-pricing-algorithms-adjust-prices-real-time
+Dynamic pricing algorithms adjust prices in real time using competitor pricing, supply/demand signals, and external market factors.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dynamic_pricing.md
+- Source URL: https://en.wikipedia.org/wiki/Dynamic_pricing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] price-elasticity-high-vs-low-sensitivity
+High-elasticity products are price-sensitive, while low-elasticity products are less price-sensitive and typically more valued by consumers.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dynamic_pricing.md
+- Source URL: https://en.wikipedia.org/wiki/Dynamic_pricing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] amazon-2000-differential-pricing-incident
+Amazon's year 2000 differential pricing incident showed different prices to different customers simultaneously.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dynamic_pricing.md
+- Source URL: https://en.wikipedia.org/wiki/Dynamic_pricing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] uber-surge-pricing-caps-2015-after-2013-nyc-storm
+Uber implemented emergency surge pricing caps starting in 2015 after backlash from 2013 NYC storm fares reaching 8x normal.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dynamic_pricing.md
+- Source URL: https://en.wikipedia.org/wiki/Dynamic_pricing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] colorado-first-state-mandatory-residential-tou-pricing-2025
+Colorado became the first US state with mandatory residential time-of-use pricing for a major utility statewide in November 2025, with peak rates about $0.213/kWh and off-peak about $0.079/kWh.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dynamic_pricing.md
+- Source URL: https://en.wikipedia.org/wiki/Dynamic_pricing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] new-york-algorithmic-pricing-disclosure-act-2025
+New York's Algorithmic Pricing Disclosure Act (November 2025) requires disclosure when personal data sets prices and provides up to $1,000 per violation.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dynamic_pricing.md
+- Source URL: https://en.wikipedia.org/wiki/Dynamic_pricing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] maryland-hb0895-grocery-personal-data-price-raise-ban
+Maryland HB0895 (signed April 2026, effective October 2026) bans grocery stores from using personal data to raise prices, with $10K first offense and $25K repeat penalties.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dynamic_pricing.md
+- Source URL: https://en.wikipedia.org/wiki/Dynamic_pricing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] fifa-dynamic-pricing-2026-world-cup-and-2025-club-world-cup
+FIFA will use dynamic pricing for 2026 World Cup and 2025 Club World Cup tickets.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dynamic_pricing.md
+- Source URL: https://en.wikipedia.org/wiki/Dynamic_pricing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dynamo-combines-database-and-distributed-hash-table-properties
+Amazon Dynamo combines properties of both databases and distributed hash tables (DHTs).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dynamo_storage_system.md
+- Source URL: https://en.wikipedia.org/wiki/Dynamo_(storage_system)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dynamo-design-principles-incremental-scalability-symmetry-decentralization-heterogeneity
+Dynamo's design principles include incremental scalability, symmetry, decentralization, and heterogeneity.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dynamo_storage_system.md
+- Source URL: https://en.wikipedia.org/wiki/Dynamo_(storage_system)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dynamo-heterogeneity-work-proportional-to-server-capability
+Dynamo's heterogeneity principle distributes work proportionally to individual server capabilities, allowing mixed-capacity nodes.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dynamo_storage_system.md
+- Source URL: https://en.wikipedia.org/wiki/Dynamo_(storage_system)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dynamo-vector-clocks-reconciled-during-reads
+Dynamo uses vector clocks (dotted-version-vector sets) and reconciles divergent versions during reads.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dynamo_storage_system.md
+- Source URL: https://en.wikipedia.org/wiki/Dynamo_(storage_system)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] s3-index-layer-implements-and-extends-dynamo-core-features
+Amazon S3's index layer implements and extends Dynamo's core features.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Dynamo_storage_system.md
+- Source URL: https://en.wikipedia.org/wiki/Dynamo_(storage_system)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] etag-term-overloaded-across-unrelated-domains
+The term Etag is overloaded across unrelated domains including text editors, electricity markets, tolling systems, and EU technical standards.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-ETag.md
+- Source URL: https://en.wikipedia.org/wiki/ETag
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] etag-disambiguation-page-provides-no-technical-commands-or-syntax
+The ETag disambiguation page lists uses only and provides no commands or configuration syntax.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-ETag.md
+- Source URL: https://en.wikipedia.org/wiki/ETag
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] etag-disambiguation-page-points-to-http-etag-article
+The ETag disambiguation page points readers to the HTTP ETag article for technical details relevant to system design.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-ETag.md
+- Source URL: https://en.wikipedia.org/wiki/ETag
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] email-header-body-blank-line-separator
+An email message structure separates the header section (structured fields like From, To, Subject, Date) from the body by a blank line.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Email.md
+- Source URL: https://en.wikipedia.org/wiki/Email
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] email-mime-extends-beyond-7bit-ascii
+MIME (Multipurpose Internet Mail Extensions) extends email beyond 7-bit ASCII to support multimedia content, non-Latin character sets, and attachments.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Email.md
+- Source URL: https://en.wikipedia.org/wiki/Email
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] email-return-path-inserted-by-final-delivery-server
+The Return-Path: header field is inserted by the final delivery server.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Email.md
+- Source URL: https://en.wikipedia.org/wiki/Email
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] email-maildir-one-file-per-message-mbox-single-file
+Maildir stores one file per message, while mbox stores messages in a single file.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Email.md
+- Source URL: https://en.wikipedia.org/wiki/Email
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] email-smtp-implemented-on-arpanet-1983
+SMTP was implemented on ARPANET in 1983.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Email.md
+- Source URL: https://en.wikipedia.org/wiki/Email
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] email-webmail-bundles-mua-mta-mda-server-side
+Webmail is browser-based access that bundles MUA, MTA, and MDA functions, with mail staying server-side.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Email.md
+- Source URL: https://en.wikipedia.org/wiki/Email
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] email-header-line-limits-78-998
+Email header field line length is recommended to be at most 78 characters, with a hard limit of 998 characters.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Email.md
+- Source URL: https://en.wikipedia.org/wiki/Email
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] email-pop3-downloads-imap-keeps-server-synchronized
+POP3 typically downloads mail to the client, while IMAP typically keeps mail on the server with synchronized access.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Email.md
+- Source URL: https://en.wikipedia.org/wiki/Email
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] eda-core-components-emitters-consumers-channels
+EDA core components are event emitters (producers), event consumers (sinks), and event channels.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Event-driven_architecture.md
+- Source URL: https://en.wikipedia.org/wiki/Event-driven_architecture
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] eda-event-structure-header-body
+An EDA event structure consists of a header (name, timestamp, type) and a body or payload containing state change details.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Event-driven_architecture.md
+- Source URL: https://en.wikipedia.org/wiki/Event-driven_architecture
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] eda-four-logical-layers-event-flow
+EDA event flow has four logical layers: event producer, event channel, event processing engine, and downstream event-driven activity.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Event-driven_architecture.md
+- Source URL: https://en.wikipedia.org/wiki/Event-driven_architecture
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] eda-cep-correlation-techniques
+Complex Event Processing (CEP) detects patterns across multiple events using causal, temporal, and spatial correlation techniques to infer higher-order events.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Event-driven_architecture.md
+- Source URL: https://en.wikipedia.org/wiki/Event-driven_architecture
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] eda-synchronous-request-response-dual-or-ephemeral-queue
+Synchronous request-response in EDA can be implemented with dual queues (request and reply) or an ephemeral queue created per request.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Event-driven_architecture.md
+- Source URL: https://en.wikipedia.org/wiki/Event-driven_architecture
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] eda-circuit-breaker-replaces-arbitrary-timeouts
+The Circuit Breaker Pattern replaces arbitrary timeouts with service health monitoring via heartbeats, synthetic transactions, and real-time usage monitoring for faster failure detection.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Event-driven_architecture.md
+- Source URL: https://en.wikipedia.org/wiki/Event-driven_architecture
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] eda-complements-soa-via-event-driven-soa
+EDA complements Service-Oriented Architecture (SOA); SOA 2.0 or event-driven SOA combines both paradigms by activating services through event triggers.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Event-driven_architecture.md
+- Source URL: https://en.wikipedia.org/wiki/Event-driven_architecture
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] eda-domain-events-map-to-ddd-bounded-contexts
+Domain events align with DDD bounded contexts, while integration events bridge bounded contexts, mapping to DDD context mapping.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Event-driven_architecture.md
+- Source URL: https://en.wikipedia.org/wiki/Event-driven_architecture
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] eventual-consistency-originated-bayou-mobile-computing
+Eventual consistency originated in early mobile computing projects, including the Bayou system.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Eventual_consistency.md
+- Source URL: https://en.wikipedia.org/wiki/Eventual_consistency
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] eventual-consistency-synonymous-optimistic-replication
+Eventual consistency is also called optimistic replication, where replicas accept writes independently and reconcile later.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Eventual_consistency.md
+- Source URL: https://en.wikipedia.org/wiki/Eventual_consistency
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] eventual-consistency-weaker-than-linearizability-sequential-causal
+Eventual consistency is weaker than linearizability, sequential consistency, and causal consistency; stronger models are trivially eventually consistent.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Eventual_consistency.md
+- Source URL: https://en.wikipedia.org/wiki/Eventual_consistency
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] eventual-consistency-convergence-definition
+A system has achieved eventual consistency (replica convergence) when all replicas agree on the same value after updates stop.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Eventual_consistency.md
+- Source URL: https://en.wikipedia.org/wiki/Eventual_consistency
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] eventual-consistency-concurrency-detection-lamport-vector-clocks
+Eventual consistency systems use Lamport timestamps and vector clocks to detect concurrent updates and order events for conflict resolution.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Eventual_consistency.md
+- Source URL: https://en.wikipedia.org/wiki/Eventual_consistency
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] eventual-consistency-alternative-conflict-handlers
+Besides Last Writer Wins, eventual consistency reconciliation can use First Writer Wins or application-defined user-specified conflict handlers.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Eventual_consistency.md
+- Source URL: https://en.wikipedia.org/wiki/Eventual_consistency
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] exponential-backoff-closed-loop-control
+Exponential backoff is a closed-loop control algorithm that multiplicatively decreases a process rate in response to adverse events such as failures, collisions, or error responses.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Exponential_backoff.md
+- Source URL: https://en.wikipedia.org/wiki/Exponential_backoff
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] sip-udp-rfc3261-exponential-retransmission
+SIP over UDP (RFC 3261) starts retransmission at T1 = 500 ms, doubles each retry, caps at T2 = 4 s, producing intervals of 500 ms, 1 s, 2 s, 4 s, 4 s, 4 s.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Exponential_backoff.md
+- Source URL: https://en.wikipedia.org/wiki/Exponential_backoff
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] heuristic-rcp-generalized-backoff
+Heuristic RCP is Lam's generalized adaptive backoff framework where K(m) increases with collision count m, with BEB as the special case K(m) = 2^m.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Exponential_backoff.md
+- Source URL: https://en.wikipedia.org/wiki/Exponential_backoff
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] slotted-aloha-infinite-users-unstable
+Slotted ALOHA with Poisson arrivals and infinite users is inherently unstable; finite users with a sufficiently large retransmission interval K can be made stable.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Exponential_backoff.md
+- Source URL: https://en.wikipedia.org/wiki/Exponential_backoff
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] exponential-backoff-integral-to-csma-cd-ca
+Exponential backoff is integral to CSMA/CD and CSMA/CA channel access methods used in Ethernet and wireless networks.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Exponential_backoff.md
+- Source URL: https://en.wikipedia.org/wiki/Exponential_backoff
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] exponential-backoff-enables-dynamic-rate-limiting
+Exponential backoff enables dynamic rate limiting without pre-shared configuration; services signal overload via error responses and clients self-throttle.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Exponential_backoff.md
+- Source URL: https://en.wikipedia.org/wiki/Exponential_backoff
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] fan-out-part-of-structural-metrics-set
+Fan-out is one of several structural software metrics, alongside fan-in, cyclomatic complexity, and cohesion, used to assess code quality.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Fan-out_software.md
+- Source URL: https://en.wikipedia.org/wiki/Fan-out_(software)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] fan-out-core-messaging-pattern-alongside-pubsub-p2p-request-reply
+In message-oriented middleware, fan-out is a core messaging pattern alongside publish-subscribe, point-to-point, and request-reply.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Fan-out_software.md
+- Source URL: https://en.wikipedia.org/wiki/Fan-out_(software)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] mcconnell-code-complete-defines-fan-out-design-construction
+McConnell's Code Complete defines fan-out in the context of design construction as a key consideration for managing complexity.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Fan-out_software.md
+- Source URL: https://en.wikipedia.org/wiki/Fan-out_(software)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] fibonacci-heap-is-priority-queue-of-heap-ordered-trees
+A Fibonacci heap is a priority queue data structure consisting of a collection of heap-ordered trees.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Fibonacci_heap.md
+- Source URL: https://en.wikipedia.org/wiki/Fibonacci_heap
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] fib-heap-find-min-o1
+Fibonacci heap find-min runs in Θ(1) by maintaining a pointer to the root with the minimum key.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Fibonacci_heap.md
+- Source URL: https://en.wikipedia.org/wiki/Fibonacci_heap
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] fib-heap-delete-min-uses-degree-indexed-array
+Fibonacci heap delete-min consolidates roots of equal degree using a degree-indexed array of size O(log n).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Fibonacci_heap.md
+- Source URL: https://en.wikipedia.org/wiki/Fibonacci_heap
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] fibonacci-heap-marked-node-second-child-cut
+In a Fibonacci heap, a node is marked when one child is cut; if a second child is cut, the node itself is cut and becomes an unmarked root in a cascading cut.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Fibonacci_heap.md
+- Source URL: https://en.wikipedia.org/wiki/Fibonacci_heap
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] fib-heap-root-and-child-lists-circular-doubly-linked
+Fibonacci heap roots and children are stored in circular doubly linked lists.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Fibonacci_heap.md
+- Source URL: https://en.wikipedia.org/wiki/Fibonacci_heap
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] fib-heap-prim-improvement
+Prim's algorithm with a Fibonacci heap runs in O(|E| + |V| log |V|), matching the improvement over a binary heap.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Fibonacci_heap.md
+- Source URL: https://en.wikipedia.org/wiki/Fibonacci_heap
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] file-sync-one-way-mirroring
+One-way file synchronization (mirroring) copies updated files from a source to one or more targets and does not copy changes back to the source.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-File_synchronization.md
+- Source URL: https://en.wikipedia.org/wiki/File_synchronization
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] file-sync-two-way-bidirectional
+Two-way file synchronization copies updated files in both directions to keep locations identical.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-File_synchronization.md
+- Source URL: https://en.wikipedia.org/wiki/File_synchronization
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] file-sync-open-files-support
+Open Files Support in file synchronization ensures data integrity when copying files that are in-use or exclusively locked, such as database files.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-File_synchronization.md
+- Source URL: https://en.wikipedia.org/wiki/File_synchronization
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] file-sync-is-subset-of-data-synchronization
+File synchronization is a specific case of the broader data synchronization concept, which also includes database replication and information synchronization.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-File_synchronization.md
+- Source URL: https://en.wikipedia.org/wiki/File_synchronization
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] fsm-exactly-one-active-state
+A finite-state machine is an abstract machine that is in exactly one of a finite number of states at any given time.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Finite-state_machine.md
+- Source URL: https://en.wikipedia.org/wiki/Finite-state_machine
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] fsm-nfa-transition-function-powerset
+In a non-deterministic finite automaton (NFA), the transition function maps a state and input symbol to a set of states: δ: S × Σ → P(S).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Finite-state_machine.md
+- Source URL: https://en.wikipedia.org/wiki/Finite-state_machine
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] fsm-read-only-left-to-right-turing-equivalent
+A finite-state machine is equivalent in computational power to a read-only, left-to-right Turing machine.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Finite-state_machine.md
+- Source URL: https://en.wikipedia.org/wiki/Finite-state_machine
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] fsm-classification-acceptors-classifiers-transducers-sequencers
+Finite-state machines are classified as acceptors with binary output, classifiers with n-ary output, transducers with Moore or Mealy output, and sequencers with a single-letter input alphabet.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Finite-state_machine.md
+- Source URL: https://en.wikipedia.org/wiki/Finite-state_machine
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] fsm-acyclic-minimization-linear-time
+Acyclic finite-state automaton minimization runs in linear time.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Finite-state_machine.md
+- Source URL: https://en.wikipedia.org/wiki/Finite-state_machine
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] gcs-latitude-angle-from-equator
+Latitude is the angle north or south of the Equator, ranging from 0° to 90°N/S.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Geographic_coordinate_system.md
+- Source URL: https://en.wikipedia.org/wiki/Geographic_coordinate_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] gcs-longitude-angle-from-prime-meridian
+Longitude is the angle east or west of the prime meridian, ranging from 0° to 180°E/W.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Geographic_coordinate_system.md
+- Source URL: https://en.wikipedia.org/wiki/Geographic_coordinate_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] gcs-meridians-converge-at-poles
+Lines of constant longitude (meridians) are halves of great ellipses that converge at the poles.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Geographic_coordinate_system.md
+- Source URL: https://en.wikipedia.org/wiki/Geographic_coordinate_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] gcs-greenwich-prime-meridian-1884
+The Greenwich prime meridian was adopted internationally in 1884 at the International Meridian Conference.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Geographic_coordinate_system.md
+- Source URL: https://en.wikipedia.org/wiki/Geographic_coordinate_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] gcs-horizontal-datum-vs-vertical-datum
+A horizontal datum measures latitude and longitude, while a vertical datum measures elevation using a geoid model.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Geographic_coordinate_system.md
+- Source URL: https://en.wikipedia.org/wiki/Geographic_coordinate_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] gcs-null-island-0n-0e
+Null Island is the 0°N, 0°E origin point located in the Gulf of Guinea about 625 km south of Tema, Ghana.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Geographic_coordinate_system.md
+- Source URL: https://en.wikipedia.org/wiki/Geographic_coordinate_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] gcs-180-meridian-not-international-date-line
+The 180° meridian is not identical to the International Date Line.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Geographic_coordinate_system.md
+- Source URL: https://en.wikipedia.org/wiki/Geographic_coordinate_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] gcs-alternative-encodings-are-latlon-encodings
+Geohash, Plus Codes, what3words, and Maidenhead are encodings of latitude/longitude, not separate coordinate systems.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Geographic_coordinate_system.md
+- Source URL: https://en.wikipedia.org/wiki/Geographic_coordinate_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] geohash-invented-by-niemeyer-2008
+Geohash was invented by Gustavo Niemeyer in 2008.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Geohash.md
+- Source URL: https://en.wikipedia.org/wiki/Geohash
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] geohash-base32-alphabet-excludes-a-i-l-o
+The Geohash base-32 alphabet uses digits 0-9 and lowercase letters excluding a, i, l, and o.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Geohash.md
+- Source URL: https://en.wikipedia.org/wiki/Geohash
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] geohash-public-domain-2008-02-26
+Geohash was explicitly placed in the public domain by Gustavo Niemeyer on 2008-02-26.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Geohash.md
+- Source URL: https://en.wikipedia.org/wiki/Geohash
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] geohash-standard-cta-5009-2023
+Geohash was codified as standard CTA-5009 in 2023 by the CTA WAVE organization.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Geohash.md
+- Source URL: https://en.wikipedia.org/wiki/Geohash
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] geohash-requires-haversine-for-true-distance
+True distance calculations between geohash cells require the Haversine formula because geohash distance reflects coordinate distance, not surface distance.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Geohash.md
+- Source URL: https://en.wikipedia.org/wiki/Geohash
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] geohash-proximity-search-uses-prefix-filter-lists
+Bounding-box geohash searches between SW and NE corner geohashes can return false positives, so practical systems use prefix filter lists such as Solr's approach.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Geohash.md
+- Source URL: https://en.wikipedia.org/wiki/Geohash
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] google-drive-launched-april-24-2012
+Google Drive launched on April 24, 2012.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Google_Drive.md
+- Source URL: https://en.wikipedia.org/wiki/Google_Drive
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] google-drive-cloud-file-hosting-sync-service
+Google Drive is Google's cloud-based file-hosting and synchronization service.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Google_Drive.md
+- Source URL: https://en.wikipedia.org/wiki/Google_Drive
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] google-drive-integrates-docs-editors-workspace
+Google Drive integrates with the Google Docs Editors suite (Docs, Sheets, Slides) and is a core component of Google Workspace for business customers.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Google_Drive.md
+- Source URL: https://en.wikipedia.org/wiki/Google_Drive
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] google-drive-two-billion-users-dec-2024
+Google Drive had 2 billion users as of December 2024.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Google_Drive.md
+- Source URL: https://en.wikipedia.org/wiki/Google_Drive
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] google-one-paid-storage-plans
+Google One paid storage plans include 100 GB at $1.99/mo, 2 TB at $9.99/mo, and 2 TB with Gemini AI at $19.99/mo.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Google_Drive.md
+- Source URL: https://en.wikipedia.org/wiki/Google_Drive
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] google-drive-shared-drive-upload-limit-400000
+Google Drive shared drives have a 400,000 item upload limit per shared drive.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Google_Drive.md
+- Source URL: https://en.wikipedia.org/wiki/Google_Drive
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] google-drive-five-million-file-creation-limit-history
+Google Drive introduced a 5 million file creation limit in February 2023 and removed it in April 2023 after user backlash.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Google_Drive.md
+- Source URL: https://en.wikipedia.org/wiki/Google_Drive
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] google-drive-quick-access-ml-predicts-files
+Google Drive Quick Access uses machine learning to predict files users need before searching.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Google_Drive.md
+- Source URL: https://en.wikipedia.org/wiki/Google_Drive
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] gossip-protocols-also-called-epidemic
+Gossip protocols are also called epidemic protocols and are modeled after how epidemics spread in biological populations.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Gossip_protocol.md
+- Source URL: https://en.wikipedia.org/wiki/Gossip_protocol
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] gossip-node-periodically-random-peer-exchange
+Each node in a gossip protocol periodically selects a random peer and exchanges information with it.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Gossip_protocol.md
+- Source URL: https://en.wikipedia.org/wiki/Gossip_protocol
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] gossip-used-without-central-registry
+Gossip protocols are used in distributed systems where there is no central registry and data must be disseminated through neighbor-to-neighbor communication.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Gossip_protocol.md
+- Source URL: https://en.wikipedia.org/wiki/Gossip_protocol
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] gossip-dissemination-flooding-bounded-load
+Dissemination protocols (rumor-mongering) spread information via flooding with bounded worst-case load.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Gossip_protocol.md
+- Source URL: https://en.wikipedia.org/wiki/Gossip_protocol
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] gossip-event-dissemination-periodic-high-latency
+Gossip event dissemination occurs periodically rather than being triggered by events, so latency may be high.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Gossip_protocol.md
+- Source URL: https://en.wikipedia.org/wiki/Gossip_protocol
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] gossip-background-data-dissemination-tolerates-staleness
+Background data dissemination continuously gossips about node-associated data; latency is not a concern because data changes slowly or staleness is acceptable.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Gossip_protocol.md
+- Source URL: https://en.wikipedia.org/wiki/Gossip_protocol
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] gossip-search-25000-node-example
+In a 25,000-node gossip network, a search completes in about 30 rounds (15 to spread the query plus 15 to find the best match), taking about 3 seconds at 10 exchanges per second.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Gossip_protocol.md
+- Source URL: https://en.wikipedia.org/wiki/Gossip_protocol
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] graph-order-size-definitions
+Graph order is the number of vertices |V|, usually denoted n; graph size is the number of edges |E|, usually denoted m.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Graph_discrete_mathematics.md
+- Source URL: https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] vertex-degree-loops-count-twice
+Vertex degree (valency) is the number of edges incident to a vertex; loops count twice.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Graph_discrete_mathematics.md
+- Source URL: https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] simple-graph-vs-multigraph
+A simple graph has no loops and no multiple edges between the same pair of vertices; a multigraph allows multiple edges between the same pair of endpoints.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Graph_discrete_mathematics.md
+- Source URL: https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] directed-graph-ordered-pairs-tail-head
+A directed graph has edges that are ordered pairs (x, y) with a tail and head; G = (V, E) where E contains ordered pairs of distinct vertices.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Graph_discrete_mathematics.md
+- Source URL: https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] mixed-graph-directed-undirected
+A mixed graph contains both directed and undirected edges and is written G = (V, E, A).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Graph_discrete_mathematics.md
+- Source URL: https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] weighted-graph-edge-weights
+A weighted graph (network) assigns a numerical weight such as cost, length, or capacity to each edge.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Graph_discrete_mathematics.md
+- Source URL: https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] oriented-graph-at-most-one-direction
+An oriented graph is a directed graph where at most one of (x, y) and (y, x) exists.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Graph_discrete_mathematics.md
+- Source URL: https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] regular-graph-same-degree
+A regular graph has every vertex of the same degree; a k-regular graph has all vertices of degree k.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Graph_discrete_mathematics.md
+- Source URL: https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hmac-combines-hash-and-secret-key
+HMAC combines a cryptographic hash function with a secret key to verify both data integrity and authenticity of a message.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-HMAC.md
+- Source URL: https://en.wikipedia.org/wiki/HMAC
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hmac-naming-convention-hmac-x
+HMAC naming convention is HMAC-x where x is the hash function, for example HMAC-SHA256.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-HMAC.md
+- Source URL: https://en.wikipedia.org/wiki/HMAC
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hmac-ipad-opad-large-hamming-distance
+HMAC's ipad (0x36) and opad (0x5c) are chosen for large Hamming distance from each other.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-HMAC.md
+- Source URL: https://en.wikipedia.org/wiki/HMAC
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hmac-output-size-equals-hash-output
+HMAC output size equals the underlying hash output size, such as 256 bits for SHA-256, though it can be truncated.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-HMAC.md
+- Source URL: https://en.wikipedia.org/wiki/HMAC
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hmac-security-depends-on-hash-key
+HMAC cryptographic strength depends on hash function strength, hash output size, and key size/quality.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-HMAC.md
+- Source URL: https://en.wikipedia.org/wiki/HMAC
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hmac-is-prf-under-compression-prf
+HMAC is a pseudorandom function under the assumption that the compression function is a PRF, proven by Bellare.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-HMAC.md
+- Source URL: https://en.wikipedia.org/wiki/HMAC
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hmac-block-output-sizes-table
+HMAC block sizes and output lengths are SHA-256 64 bytes input block and 32 bytes output, SHA-512 128 and 64, SHA3-256 136 and 32, SHA3-512 72 and 64.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-HMAC.md
+- Source URL: https://en.wikipedia.org/wiki/HMAC
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hmac-building-block-hkdf-pbkdf2
+HMAC is a building block for HKDF and PBKDF2.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-HMAC.md
+- Source URL: https://en.wikipedia.org/wiki/HMAC
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] happened-before-causal-ordering-distributed-systems
+Happened-before (→) defines a causal ordering between events in concurrent and asynchronous distributed systems.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Happened-before.md
+- Source URL: https://en.wikipedia.org/wiki/Happened-before
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] happened-before-two-base-rules
+The happened-before base relation is defined by same-process ordering (a → b if a occurred before b in the same process) and message causality (send event a → receive event b).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Happened-before.md
+- Source URL: https://en.wikipedia.org/wiki/Happened-before
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] concurrent-events-isolated-processes-no-messages
+Two events are concurrent if they occur in different isolated processes that do not exchange messages directly or transitively.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Happened-before.md
+- Source URL: https://en.wikipedia.org/wiki/Happened-before
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] happened-before-extended-process-creation-edge
+The happened-before relation can be extended with additional causal edges such as process creation → first event in that process.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Happened-before.md
+- Source URL: https://en.wikipedia.org/wiki/Happened-before
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] java-c-cpp-rust-memory-models-adopt-happens-before
+Java, C, C++, and Rust memory models adopt a happens-before relation to define memory visibility between writes and reads across threads.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Happened-before.md
+- Source URL: https://en.wikipedia.org/wiki/Happened-before
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] data-race-concurrent-access-one-write
+A data race occurs when two accesses to shared state are concurrent (no happened-before edge) and at least one is a write.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Happened-before.md
+- Source URL: https://en.wikipedia.org/wiki/Happened-before
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] chandy-lamport-snapshots-use-happened-before
+Consistent global snapshot algorithms such as Chandy-Lamport rely on happened-before to capture a consistent cut of system state.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Happened-before.md
+- Source URL: https://en.wikipedia.org/wiki/Happened-before
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] processes-unknown-happened-before-without-logical-clock
+Processes have no knowledge of the happened-before relation unless they use a logical clock.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Happened-before.md
+- Source URL: https://en.wikipedia.org/wiki/Happened-before
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] locality-sensitive-hashing-maximizes-collisions-for-similar-inputs
+Locality-sensitive hashing (LSH) uses hash functions designed to maximize collisions for similar inputs, supporting similarity search such as DNA sequences and audio fingerprinting.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Hash_collision.md
+- Source URL: https://en.wikipedia.org/wiki/Hash_collision
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] checksums-minimize-similar-input-collisions-cryptographic-hashes-universal
+Checksums minimize collisions between similar inputs, while cryptographic hashes minimize collisions universally and resist intentional attacks.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Hash_collision.md
+- Source URL: https://en.wikipedia.org/wiki/Hash_collision
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] linear-probing-causes-primary-clustering
+Linear probing resolves collisions by checking consecutive slots h+1, h+2, h+3, and so on, and causes primary clustering.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Hash_collision.md
+- Source URL: https://en.wikipedia.org/wiki/Hash_collision
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] quadratic-probing-reduces-primary-clustering
+Quadratic probing resolves collisions by checking slots h+1 squared, h+2 squared, h+3 squared, and so on, and reduces primary clustering compared with linear probing.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Hash_collision.md
+- Source URL: https://en.wikipedia.org/wiki/Hash_collision
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] double-hashing-uses-second-hash-function-for-probe-step
+Double hashing uses a second hash function to determine the probe step size when resolving collisions.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Hash_collision.md
+- Source URL: https://en.wikipedia.org/wiki/Hash_collision
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] open-addressing-slot-holds-at-most-one-item
+Open addressing stores at most one item per slot and resolves a collision by probing for the next empty slot.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Hash_collision.md
+- Source URL: https://en.wikipedia.org/wiki/Hash_collision
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hash-function-maps-arbitrary-size-input-to-fixed-size-output
+A hash function maps input of arbitrary size to a fixed-size hash value, also called a hash code, digest, or hash.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Hash_function.md
+- Source URL: https://en.wikipedia.org/wiki/Hash_function
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hash-function-uniformity-even-output-distribution
+A good hash function has uniformity, meaning it distributes outputs evenly across the output range.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Hash_function.md
+- Source URL: https://en.wikipedia.org/wiki/Hash_function
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] data-normalization-before-hashing-ensures-equivalent-inputs
+Data normalization before hashing ensures equivalent inputs, such as case-insensitive strings, yield the same hash.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Hash_function.md
+- Source URL: https://en.wikipedia.org/wiki/Hash_function
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] mid-squares-hashing-extracts-middle-digits
+Mid-squares hashing squares the key and extracts middle digits to produce the hash value.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Hash_function.md
+- Source URL: https://en.wikipedia.org/wiki/Hash_function
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] folding-hashing-combines-key-chunks-via-xor-or-add
+Folding hashing breaks a key into chunks and combines them with XOR or addition.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Hash_function.md
+- Source URL: https://en.wikipedia.org/wiki/Hash_function
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bit-masking-replaces-modulo-for-power-of-two-table-size
+When the hash table size is a power of two, modulo can be replaced by bit masking the m least-significant bits, which is faster.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Hash_function.md
+- Source URL: https://en.wikipedia.org/wiki/Hash_function
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] fibonacci-hashing-multiplies-by-golden-ratio-constant
+Fibonacci hashing multiplies the key by a constant related to the golden ratio and extracts upper bits.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Hash_function.md
+- Source URL: https://en.wikipedia.org/wiki/Hash_function
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hash-table-invented-1953-by-hans-peter-luhn
+Hash tables were invented in 1953 by Hans Peter Luhn at IBM.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Hash_table.md
+- Source URL: https://en.wikipedia.org/wiki/Hash_table
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hash-table-space-complexity-on
+Hash tables use O(n) space for n stored entries.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Hash_table.md
+- Source URL: https://en.wikipedia.org/wiki/Hash_table
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hash-table-is-space-time-tradeoff
+Hash tables represent a space-time tradeoff between direct indexing with infinite memory and linear search with infinite time.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Hash_table.md
+- Source URL: https://en.wikipedia.org/wiki/Hash_table
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] balanced-bst-associative-array-guarantees-ologn-worst-case
+Self-balancing binary search trees are an alternative associative array implementation with O(log n) guaranteed worst-case lookup, compared with hash tables' O(1) average and O(n) worst case.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Hash_table.md
+- Source URL: https://en.wikipedia.org/wiki/Hash_table
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] sets-implemented-as-hash-tables-tracking-key-presence
+Sets can be implemented as hash tables by omitting the value and tracking only key presence.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Hash_table.md
+- Source URL: https://en.wikipedia.org/wiki/Hash_table
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] string-hashing-left-shift-xor-or-polynomial-rolling
+String hashing can use repeated left-shift plus XOR of character values followed by modulo table size, or a polynomial rolling hash.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Hash_table.md
+- Source URL: https://en.wikipedia.org/wiki/Hash_table
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] great-circle-distance-is-shortest-surface-path
+Great-circle distance is the shortest distance between two points on a sphere's surface, measured along the surface as d = r * theta.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Haversine_formula.md
+- Source URL: https://en.wikipedia.org/wiki/Haversine_formula
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] haversine-distance-calculation-requires-radians
+The haversine formula requires all angles in radians for the final distance calculation d = R * theta.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Haversine_formula.md
+- Source URL: https://en.wikipedia.org/wiki/Haversine_formula
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] haversine-near-antipodal-floating-point-weakness
+Near-antipodal points make h approach 1 and can cause floating-point errors in the haversine formula, but the resulting distance error is small relative to the large distance involved.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Haversine_formula.md
+- Source URL: https://en.wikipedia.org/wiki/Haversine_formula
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] law-of-haversines-general-spherical-triangle
+The law of haversines for spherical triangles is hav(c) = hav(a - b) + sin(a) * sin(b) * hav(C).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Haversine_formula.md
+- Source URL: https://en.wikipedia.org/wiki/Haversine_formula
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] haversine-navigation-formula-special-case-north-pole
+The haversine navigation formula is a special case of the law of haversines where one vertex is the north pole, reducing co-latitudes to cos(phi) terms.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Haversine_formula.md
+- Source URL: https://en.wikipedia.org/wiki/Haversine_formula
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] haversine-term-coined-by-james-inman-1835
+The term haversine was coined by James Inman in 1835 as a contraction of half-versed sine.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Haversine_formula.md
+- Source URL: https://en.wikipedia.org/wiki/Haversine_formula
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] crs-also-called-central-reservation-systems
+Computer reservation systems (CRS) are also called central reservation systems.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Hotel_reservation_system.md
+- Source URL: https://en.wikipedia.org/wiki/Hotel_reservation_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] centralized-crs-gds-single-point-of-failure
+Centralized CRS/GDS architectures are vulnerable to network-wide system disruptions that can affect entire airlines simultaneously.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Hotel_reservation_system.md
+- Source URL: https://en.wikipedia.org/wiki/Hotel_reservation_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] us-1987-required-crs-neutral-flight-display
+US regulations by 1987 required computer reservation systems to display flights neutrally rather than favoring the owning airline.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Hotel_reservation_system.md
+- Source URL: https://en.wikipedia.org/wiki/Hotel_reservation_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] airlines-bypass-gds-fees-via-direct-sales
+Airlines increasingly sell directly through their own websites or direct connections to travel agencies to bypass GDS fees.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Hotel_reservation_system.md
+- Source URL: https://en.wikipedia.org/wiki/Hotel_reservation_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] reservec-first-airline-crs-remote-terminals-1962
+ReserVec, built for Trans-Canada Airlines in 1962, was the first airline reservation system with remote terminals in all ticketing offices and had about one-second response time.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Hotel_reservation_system.md
+- Source URL: https://en.wikipedia.org/wiki/Hotel_reservation_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] travicom-first-multi-access-reservation-system-1976
+Travicom, launched in the UK in 1976, was the world's first multi-access reservations system, connecting 49 airlines and handling 97% of UK airline bookings by 1987.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Hotel_reservation_system.md
+- Source URL: https://en.wikipedia.org/wiki/Hotel_reservation_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] navitaire-new-skies-powers-low-cost-carriers
+Navitaire's New Skies powers low-cost carriers including Ryanair, IndiGo, AirAsia, Wizz Air, Spirit, and Frontier.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Hotel_reservation_system.md
+- Source URL: https://en.wikipedia.org/wiki/Hotel_reservation_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] pnr-is-core-booking-record-managed-by-crs
+A Passenger Name Record (PNR) is the core data record created and managed by a CRS for each booking.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Hotel_reservation_system.md
+- Source URL: https://en.wikipedia.org/wiki/Hotel_reservation_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hll-add-updates-register-with-leftmost-one-position
+HyperLogLog's Add operation hashes an element v, uses the first b bits of the hash as the register index j, computes ρ(w) as the position of the leftmost 1-bit in the remaining bits, and sets M[j] := max(M[j], ρ(w)).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-HyperLogLog.md
+- Source URL: https://en.wikipedia.org/wiki/HyperLogLog
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hll-count-estimate-formula-alpha-m-m-squared-sum
+HyperLogLog's Count operation computes E = α_m · m² · (Σ_{j=1..m} 2^(-M[j]))^(-1).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-HyperLogLog.md
+- Source URL: https://en.wikipedia.org/wiki/HyperLogLog
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hll-large-range-correction-32bit-hash
+For 32-bit hashes, HyperLogLog applies large-range correction E* = -2^32 · ln(1 - E / 2^32) when E > 2^32 / 30.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-HyperLogLog.md
+- Source URL: https://en.wikipedia.org/wiki/HyperLogLog
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hll-add-constant-count-merge-linear-registers
+HyperLogLog Add is O(1), while Count and Merge are O(m) for m registers.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-HyperLogLog.md
+- Source URL: https://en.wikipedia.org/wiki/HyperLogLog
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hll-space-complexity-epsilon-inverse-squared-log-log-n
+HyperLogLog's space complexity is O(ε^(-2) · log log n + log n), where n is the set cardinality.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-HyperLogLog.md
+- Source URL: https://en.wikipedia.org/wiki/HyperLogLog
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hll-alpha-m-table-small-register-counts
+HyperLogLog's α_m values are 0.673 for m=16, 0.697 for m=32, and 0.709 for m=64.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-HyperLogLog.md
+- Source URL: https://en.wikipedia.org/wiki/HyperLogLog
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hll-derived-operations-use-inclusion-exclusion
+HyperLogLog computes intersection and set-difference cardinalities from merged sketches via the inclusion–exclusion principle.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-HyperLogLog.md
+- Source URL: https://en.wikipedia.org/wiki/HyperLogLog
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hll-cardinality-means-distinct-count
+In HyperLogLog literature, 'cardinality' means the count of distinct elements, not the multiset-theoretic sum of multiplicities.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-HyperLogLog.md
+- Source URL: https://en.wikipedia.org/wiki/HyperLogLog
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] idempotence-term-coined-benjamin-peirce-1870
+The term idempotence was coined by Benjamin Peirce in 1870 from Latin idem (same) and potence (power).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Idempotence.md
+- Source URL: https://en.wikipedia.org/wiki/Idempotence
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] idempotent-function-output-fixed-point
+An idempotent function f satisfies f(f(x)) = f(x) for all x, so every output of f is a fixed point of f.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Idempotence.md
+- Source URL: https://en.wikipedia.org/wiki/Idempotence
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] imperative-idempotence-same-system-state
+An imperative subroutine with side effects is idempotent if multiple calls produce the same system state as a single call.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Idempotence.md
+- Source URL: https://en.wikipedia.org/wiki/Idempotence
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] nullipotent-operation-no-side-effects
+A nullipotent operation has no side effects at all; HTTP GET is given as an example.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Idempotence.md
+- Source URL: https://en.wikipedia.org/wiki/Idempotence
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] identity-and-absorbing-elements-always-idempotent
+In abstract algebra, identity elements and absorbing elements are always idempotent.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Idempotence.md
+- Source URL: https://en.wikipedia.org/wiki/Idempotence
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] union-intersection-boolean-and-or-idempotent
+Set union, set intersection, Boolean AND, and Boolean OR are idempotent operations.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Idempotence.md
+- Source URL: https://en.wikipedia.org/wiki/Idempotence
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] idempotent-endomorphisms-are-projections
+Idempotent endomorphisms of vector spaces are projections, and idempotent matrices have determinant 0 or 1.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Idempotence.md
+- Source URL: https://en.wikipedia.org/wiki/Idempotence
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] idempotent-functions-count-formula-oeis-a000248
+The number of idempotent functions on a set of n elements is Σ_{k=0..n} C(n,k)·k^(n-k), OEIS A000248.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Idempotence.md
+- Source URL: https://en.wikipedia.org/wiki/Idempotence
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] immutability-compile-time-guarantee-not-memory-protection
+Immutability is a compile-time or interface-level guarantee, not a physical memory protection, and can be bypassed by type-system circumvention such as C/C++ const-casting.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Immutable_object.md
+- Source URL: https://en.wikipedia.org/wiki/Immutable_object
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] weak-immutability-some-fields-mutable
+Weak immutability means some fields of an object are immutable while other fields are mutable.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Immutable_object.md
+- Source URL: https://en.wikipedia.org/wiki/Immutable_object
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] apparent-immutability-memoization-external-state
+An object can be considered apparently immutable if internal attributes such as memoization caches change while its externally observable state does not.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Immutable_object.md
+- Source URL: https://en.wikipedia.org/wiki/Immutable_object
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] java-string-immutable-stringbuilder-stringbuffer-mutable
+Java strings are immutable, and Java provides StringBuilder and StringBuffer as mutable alternatives.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Immutable_object.md
+- Source URL: https://en.wikipedia.org/wiki/Immutable_object
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] java-primitive-wrapper-classes-immutable
+All Java primitive wrapper classes such as Integer, Long, and Double are immutable.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Immutable_object.md
+- Source URL: https://en.wikipedia.org/wiki/Immutable_object
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cpp-const-immutable-mutable-exception
+In C++, const makes an instance immutable, while the mutable keyword allows specific fields to change inside const methods, such as for caching.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Immutable_object.md
+- Source URL: https://en.wikipedia.org/wiki/Immutable_object
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] d-immutable-vs-const-transitive-alias-guarantee
+In D, immutable guarantees no mutable references to the value exist anywhere, whereas const only guarantees the current reference will not mutate; both qualifiers are transitive.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Immutable_object.md
+- Source URL: https://en.wikipedia.org/wiki/Immutable_object
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] object-freeze-shallow-immutability-javascript
+JavaScript's Object.freeze(obj) provides shallow immutability for an object.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Immutable_object.md
+- Source URL: https://en.wikipedia.org/wiki/Immutable_object
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] instant-messaging-synchronous-vs-email-asynchronous
+Instant messaging is synchronous real-time communication, unlike asynchronous email.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Instant_messaging.md
+- Source URL: https://en.wikipedia.org/wiki/Instant_messaging
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] serverless-im-no-central-server-examples
+Serverless instant messaging is an architectural class with only clients and no central server, exemplified by RetroShare, Tox, and Bitmessage.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Instant_messaging.md
+- Source URL: https://en.wikipedia.org/wiki/Instant_messaging
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] proprietary-im-protocols-create-walled-gardens
+Most major IM networks use proprietary protocols, creating walled gardens, while open standards such as XMPP and SIP/SIMPLE have attempted interoperability.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Instant_messaging.md
+- Source URL: https://en.wikipedia.org/wiki/Instant_messaging
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] im-feature-convergence-super-app-wechat
+Modern IM platforms have converged features such as VoIP, video chat, file transfer, payments, games, and location sharing into super-apps such as WeChat.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Instant_messaging.md
+- Source URL: https://en.wikipedia.org/wiki/Instant_messaging
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ibm-lotus-sametime-1998-pioneered-enterprise-im
+IBM Lotus Sametime (1998) pioneered enterprise instant messaging; modern examples include Slack, Microsoft Teams, and Skype for Business.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Instant_messaging.md
+- Source URL: https://en.wikipedia.org/wiki/Instant_messaging
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] rcs-telco-standard-intended-replace-sms
+RCS (Rich Communication Services) is a telco-developed protocol intended to replace SMS with IM-like features under a unified standard.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Instant_messaging.md
+- Source URL: https://en.wikipedia.org/wiki/Instant_messaging
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] sip-simple-ietf-standard-im-presence
+SIP/SIMPLE is an IETF standard where SIMPLE extends session initiation for instant messaging and presence.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Instant_messaging.md
+- Source URL: https://en.wikipedia.org/wiki/Instant_messaging
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] whatsapp-1-3-billion-monthly-active-users-2018
+WhatsApp reached 1.3 billion monthly active users by 2018.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Instant_messaging.md
+- Source URL: https://en.wikipedia.org/wiki/Instant_messaging
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] invariant-equivalence-relation-constant-on-class
+An invariant with respect to an equivalence relation is a property that is constant on each equivalence class.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Invariant_mathematics.md
+- Source URL: https://en.wikipedia.org/wiki/Invariant_(mathematics)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] coinvariants-orbits-dual-formalize-congruence
+Coinvariants, or orbits, are dual to invariants and formalize congruence — objects that can be mapped to each other by a group action.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Invariant_mathematics.md
+- Source URL: https://en.wikipedia.org/wiki/Invariant_(mathematics)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] invariant-three-formal-framings
+Mathematical invariance has three formal framings: group action invariance, presentation independence, and perturbation stability.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Invariant_mathematics.md
+- Source URL: https://en.wikipedia.org/wiki/Invariant_(mathematics)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] aaa-incomplete-congruence-complete-similarity
+Three angles (AAA) are an incomplete invariant set for triangle congruence but a complete invariant set for triangle similarity.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Invariant_mathematics.md
+- Source URL: https://en.wikipedia.org/wiki/Invariant_(mathematics)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] homeomorphism-invariants-dimension-homology-groups
+Homeomorphism invariants of topological spaces include dimension and homology groups.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Invariant_mathematics.md
+- Source URL: https://en.wikipedia.org/wiki/Invariant_(mathematics)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] gauss-bonnet-integral-curvature-invariant-under-metric-change
+The Gauss–Bonnet theorem states that ∫K dμ is invariant under metric changes.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Invariant_mathematics.md
+- Source URL: https://en.wikipedia.org/wiki/Invariant_(mathematics)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] determinant-trace-eigenvalues-invariant-under-basis-change
+In linear algebra, determinant, trace, and eigenvalues are invariant under a change of basis.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Invariant_mathematics.md
+- Source URL: https://en.wikipedia.org/wiki/Invariant_(mathematics)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] erlangen-program-geometry-by-transformation-group-invariants
+The Erlangen Program defines geometries by their transformation groups and the invariants those groups preserve.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Invariant_mathematics.md
+- Source URL: https://en.wikipedia.org/wiki/Invariant_(mathematics)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] k-shortest-path-generalizes-shortest-path-routing
+K shortest path routing generalizes shortest path routing by finding the top K shortest paths between a source and destination instead of only the single shortest path.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-K_shortest_path_routing.md
+- Source URL: https://en.wikipedia.org/wiki/K_shortest_path_routing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] k-shortest-path-research-dates-to-1957
+Research on the K shortest path routing problem dates back to 1957.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-K_shortest_path_routing.md
+- Source URL: https://en.wikipedia.org/wiki/K_shortest_path_routing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] eppstein-implicit-representation-outputs-path-in-on-time
+Eppstein's algorithm computes an implicit representation of the K shortest paths, and each path can be output in O(n) extra time.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-K_shortest_path_routing.md
+- Source URL: https://en.wikipedia.org/wiki/K_shortest_path_routing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] fox-loopy-k-shortest-path-time-complexity
+Fox (1975) solved the loopy variant of the K shortest paths problem in O(m + kn log n) time.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-K_shortest_path_routing.md
+- Source URL: https://en.wikipedia.org/wiki/K_shortest_path_routing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] akiba-pruned-landmark-labeling-top-k-distance-queries
+Akiba et al. (2015) devised a pruned landmark labeling indexing method for top-k distance queries.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-K_shortest_path_routing.md
+- Source URL: https://en.wikipedia.org/wiki/K_shortest_path_routing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hershberger-suri-improves-yens-via-replacement-paths
+Hershberger and Suri (2007) improved Yen's algorithm by O(n) for many graphs using a replacement paths technique while leaving the asymptotic bound unchanged.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-K_shortest_path_routing.md
+- Source URL: https://en.wikipedia.org/wiki/K_shortest_path_routing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] yens-builds-on-lawlers-procedure
+Yen's algorithm builds on Lawler's procedure for computing K best solutions to discrete optimization problems.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-K_shortest_path_routing.md
+- Source URL: https://en.wikipedia.org/wiki/K_shortest_path_routing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] kv-store-core-data-model-associative-arrays
+A key-value database stores associative arrays (dictionaries), with each record identified by a unique key mapped to an opaque value.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-KeyE28093value_database.md
+- Source URL: https://en.wikipedia.org/wiki/Key%E2%80%93value_database
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] kv-store-operations-limited-to-key-crud
+Key-value store operations are typically limited to store, retrieve, update, and delete by key, without complex joins or multi-table queries.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-KeyE28093value_database.md
+- Source URL: https://en.wikipedia.org/wiki/Key%E2%80%93value_database
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] kv-store-consistency-configurable-per-operation
+Some key-value systems allow consistency to be configured per operation as a trade-off against latency and availability.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-KeyE28093value_database.md
+- Source URL: https://en.wikipedia.org/wiki/Key%E2%80%93value_database
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] kv-store-storage-tiers-in-memory-ssd-disk
+Key-value store implementations span in-memory, SSD-backed, and disk-backed storage tiers.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-KeyE28093value_database.md
+- Source URL: https://en.wikipedia.org/wiki/Key%E2%80%93value_database
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] oracle-nosql-composite-keys-major-minor
+Oracle NoSQL supports composite keys with major and minor components analogous to file-system directory paths.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-KeyE28093value_database.md
+- Source URL: https://en.wikipedia.org/wiki/Key%E2%80%93value_database
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] arangodb-uses-kv-store-internally
+ArangoDB uses a key-value store internally and adds pointer-based relationships as a first-class data type.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-KeyE28093value_database.md
+- Source URL: https://en.wikipedia.org/wiki/Key%E2%80%93value_database
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] kv-store-limited-transaction-support
+Key-value stores are limited in transaction support compared with relational databases.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-KeyE28093value_database.md
+- Source URL: https://en.wikipedia.org/wiki/Key%E2%80%93value_database
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] kv-store-nosql-growth-post-2010
+Key-value stores are part of the NoSQL movement, whose growth was driven by cloud computing, big data, and distributed systems after 2010.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-KeyE28093value_database.md
+- Source URL: https://en.wikipedia.org/wiki/Key%E2%80%93value_database
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] lamport-timestamps-invented-by-leslie-lamport
+Lamport timestamps are a logical clock algorithm invented by Leslie Lamport.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Lamport_clock.md
+- Source URL: https://en.wikipedia.org/wiki/Lamport_clock
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] happened-before-defined-by-process-order-and-message-send-receive
+Event a happened-before event b if a path can be traced from a to b by moving forward within a process or following a message from send to receive.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Lamport_clock.md
+- Source URL: https://en.wikipedia.org/wiki/Lamport_clock
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] lamport-clock-sender-increments-and-attaches-timestamp
+In Lamport clocks, the sender increments its counter before each local event and attaches the current counter value to every outgoing message.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Lamport_clock.md
+- Source URL: https://en.wikipedia.org/wiki/Lamport_clock
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] lamport-total-order-tiebreak-does-not-imply-causality
+A total order constructed by breaking Lamport timestamp ties with process IDs is artificial and does not imply causality.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Lamport_clock.md
+- Source URL: https://en.wikipedia.org/wiki/Lamport_clock
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] lamport-happened-before-captures-potential-not-true-causality
+The happened-before relation captured by Lamport timestamps represents potential causality only, not true causality.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Lamport_clock.md
+- Source URL: https://en.wikipedia.org/wiki/Lamport_clock
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] lamport-clock-unique-timestamps-require-tick-between-events
+To ensure unique Lamport timestamps within a process, at least one tick must separate any two events.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Lamport_timestamp.md
+- Source URL: https://en.wikipedia.org/wiki/Lamport_timestamp
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] lamport-clock-crash-recovery-causal-replay
+Lamport clocks are useful for crash recovery because replaying messages in causal order can restore node state.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Lamport_timestamp.md
+- Source URL: https://en.wikipedia.org/wiki/Lamport_timestamp
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] singh-information-protocols-true-causality
+Information protocols proposed by Singh (2011) address true causality via semantic constraints on communication content.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Lamport_timestamp.md
+- Source URL: https://en.wikipedia.org/wiki/Lamport_timestamp
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] lamport-clock-meaning-relative-to-message-exchange
+A Lamport logical clock counter has meaning only relative to message exchange between processes.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Lamport_timestamp.md
+- Source URL: https://en.wikipedia.org/wiki/Lamport_timestamp
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] leaky-bucket-checks-average-and-peak-rate-conformance
+The leaky bucket algorithm determines whether a sequence of packets conforms to defined limits on average and peak rates.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Leaky_bucket.md
+- Source URL: https://en.wikipedia.org/wiki/Leaky_bucket
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] leaky-bucket-meter-counter-increment-decrement-threshold
+The leaky bucket as a meter increments a counter per packet arrival, decrements it at a fixed rate, and treats a packet as conforming if the counter stays below a threshold.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Leaky_bucket.md
+- Source URL: https://en.wikipedia.org/wiki/Leaky_bucket
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] turner-original-leaky-bucket-description
+Jonathan S. Turner is credited with the original description of the leaky bucket algorithm.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Leaky_bucket.md
+- Source URL: https://en.wikipedia.org/wiki/Leaky_bucket
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] leaky-bucket-emission-interval-inverse-bandwidth
+The leaky bucket emission interval T is the inverse of the bandwidth limit and is the minimum interval between conforming packets once the bucket is full.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Leaky_bucket.md
+- Source URL: https://en.wikipedia.org/wiki/Leaky_bucket
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] leaky-bucket-delay-variation-tolerance-tau
+Leaky bucket delay variation tolerance tau defines how much earlier a packet can arrive than expected, with bucket capacity equal to T plus tau.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Leaky_bucket.md
+- Source URL: https://en.wikipedia.org/wiki/Leaky_bucket
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] leaky-bucket-atm-dual-rate-parameters-scr-pcr
+For ATM SCR/PCR dual-rate leaky bucket scenarios, delta equals T_PCR, T equals T_SCR, and at UNI/NNI with delay variation the tolerance is tau_SCR plus tau_PCR.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Leaky_bucket.md
+- Source URL: https://en.wikipedia.org/wiki/Leaky_bucket
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dual-leaky-bucket-enforces-multiple-parameter-sets
+A dual leaky bucket controller can enforce multiple parameter sets, such as SCR and PCR, on a single connection simultaneously.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Leaky_bucket.md
+- Source URL: https://en.wikipedia.org/wiki/Leaky_bucket
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] leaky-bucket-variable-length-packets-mbs-in-bytes
+For variable-length packets, the amount added to the leaky bucket is proportional to packet length and Maximum Burst Size must be expressed in bytes rather than packet count.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Leaky_bucket.md
+- Source URL: https://en.wikipedia.org/wiki/Leaky_bucket
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ledger-is-principal-book-of-accounts
+A ledger is the principal book of accounts in which financial transactions are permanently recorded.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Ledger.md
+- Source URL: https://en.wikipedia.org/wiki/Ledger
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ledger-account-uses-separate-debit-credit-columns
+Ledger accounts record transactions as debits or credits in separate columns.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Ledger.md
+- Source URL: https://en.wikipedia.org/wiki/Ledger
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] journals-may-be-totaled-monthly-before-ledger-posting
+Journals may be totaled monthly and posted to ledgers as summary totals depending on company procedures.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Ledger.md
+- Source URL: https://en.wikipedia.org/wiki/Ledger
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] sales-ledger-alias-debtors-ledger
+The sales ledger is also called the debtors ledger.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Ledger.md
+- Source URL: https://en.wikipedia.org/wiki/Ledger
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] purchase-ledger-alias-creditors-ledger
+The purchase ledger is also called the creditors ledger.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Ledger.md
+- Source URL: https://en.wikipedia.org/wiki/Ledger
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] market-order-can-split-across-counterparties
+A market order may be split across multiple counterparties, resulting in different prices for portions of the fill.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Limit_order.md
+- Source URL: https://en.wikipedia.org/wiki/Limit_order
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] limit-buy-executes-at-limit-or-lower
+A buy limit order executes at the limit price or lower; a sell limit order executes at the limit price or higher.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Limit_order.md
+- Source URL: https://en.wikipedia.org/wiki/Limit_order
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] marketable-limit-order-satisfiable-by-current-book
+A marketable limit order has a limit price already satisfiable by the current order book, such as a buy limit at $90 when the ask is $86.41.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Limit_order.md
+- Source URL: https://en.wikipedia.org/wiki/Limit_order
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] market-if-touched-triggers-opposite-stop-direction
+Market-if-touched (MIT) orders trigger in the opposite direction from stop orders: a buy MIT triggers when price drops to a level, and a sell MIT triggers when price rises to a level.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Limit_order.md
+- Source URL: https://en.wikipedia.org/wiki/Limit_order
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] time-in-force-auction-order-combinations
+Time-in-force combinations include Market + On Close = MOC, Market + On Open = MOO, Limit + On Close = LOC, and Limit + On Open = LOO.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Limit_order.md
+- Source URL: https://en.wikipedia.org/wiki/Limit_order
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] linear-hashing-hash-family-c-mod-2-i
+Linear hashing typically uses the hash function family h_i(c) = c mod 2^i, based on the i rightmost binary digits of the key.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Linear_hashing.md
+- Source URL: https://en.wikipedia.org/wiki/Linear_hashing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] linear-hashing-level-reset-when-s-reaches-2-l
+When the split pointer reaches s >= 2^l, the level increments and the split pointer resets to 0.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Linear_hashing.md
+- Source URL: https://en.wikipedia.org/wiki/Linear_hashing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] linear-hashing-controlled-vs-uncontrolled-splitting
+Controlled linear hashing splitting is triggered when load factor exceeds a threshold and allows overflow chains; uncontrolled splitting triggers immediately when any bucket overflows.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Linear_hashing.md
+- Source URL: https://en.wikipedia.org/wiki/Linear_hashing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] linear-hashing-contraction-merge-on-low-load
+When a controlled split causes the load factor to drop below a lower threshold, the last split is undone via a merge in file contraction.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Linear_hashing.md
+- Source URL: https://en.wikipedia.org/wiki/Linear_hashing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] linear-hashing-needs-no-directory
+Linear hashing needs no directory, unlike extendible hashing which uses a doubling directory.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Linear_hashing.md
+- Source URL: https://en.wikipedia.org/wiki/Linear_hashing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] linear-hashing-berkeley-db-c-implementation
+Berkeley DB uses a C implementation of linear hashing derived from the original CACM article.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Linear_hashing.md
+- Source URL: https://en.wikipedia.org/wiki/Linear_hashing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] linear-hashing-lh-star-image-adjustment-messages
+In LH* distributed linear hashing, clients maintain an approximate file state and forward requests; Image Adjustment Messages update client state after forwards.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Linear_hashing.md
+- Source URL: https://en.wikipedia.org/wiki/Linear_hashing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] load-balancing-unique-vs-dynamic-assignment
+Unique assignment fixes tasks to processors based on state at assignment time; dynamic assignment continuously redistributes as system state evolves.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Load_balancing_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Load_balancing_(computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] round-robin-dns-short-ttl-enables-failover
+Short TTL on A-records in round-robin DNS ensures quick failover when a server goes down.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Load_balancing_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Load_balancing_(computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] round-robin-dns-caching-skews-distribution
+Round-robin DNS distribution is skewed by DNS caching; client-side random selection provides better uniformity.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Load_balancing_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Load_balancing_(computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] server-side-load-balancers-must-not-be-single-point-of-failure
+Server-side load balancers must not be single points of failure and should be deployed in high-availability pairs.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Load_balancing_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Load_balancing_(computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] load-balancer-acts-as-reverse-proxy
+Server-side load balancers act as reverse proxies, hiding backend topology and providing security isolation.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Load_balancing_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Load_balancing_(computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] moldable-vs-malleable-load-balancing-algorithms
+Moldable algorithms adapt to varying processor counts but must be fixed before execution; malleable algorithms handle fluctuating processor counts during execution.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Load_balancing_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Load_balancing_(computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] load-balancing-server-scheduling-algorithms
+Server-side load balancer scheduling algorithms include random, round-robin, least connections, least response time, weighted variants, and geographic-aware selection.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Load_balancing_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Load_balancing_(computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] advisory-vs-mandatory-locks
+Advisory locks rely on threads cooperating to acquire locks before access; mandatory locks force exceptions on unauthorized access attempts.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Lock_computer_science.md
+- Source URL: https://en.wikipedia.org/wiki/Lock_(computer_science)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] lock-convoy-definition
+A lock convoy occurs when all threads stall because a lock-holding thread is descheduled by a time-slice interrupt or page fault.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Lock_computer_science.md
+- Source URL: https://en.wikipedia.org/wiki/Lock_(computer_science)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] livelock-definition
+Livelock occurs when threads actively respond to each other but make no progress.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Lock_computer_science.md
+- Source URL: https://en.wikipedia.org/wiki/Lock_(computer_science)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] two-phase-locking-serializable-but-deadlock-prone
+Two-phase locking (2PL) ensures serializable transaction execution but can cause deadlocks.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Lock_computer_science.md
+- Source URL: https://en.wikipedia.org/wiki/Lock_(computer_science)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] database-locking-granularity-hierarchy
+Database locking granularity hierarchy from coarse to fine is table > page > record > field > part of field.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Lock_computer_science.md
+- Source URL: https://en.wikipedia.org/wiki/Lock_(computer_science)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] pessimistic-locking-requires-persistent-db-connection
+Pessimistic locking requires a persistent database connection and is not suitable for web applications.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Lock_computer_science.md
+- Source URL: https://en.wikipedia.org/wiki/Lock_(computer_science)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] lock-overhead-components
+Lock overhead includes memory, CPU time for initialization and destruction, and time to acquire and release the lock.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Lock_computer_science.md
+- Source URL: https://en.wikipedia.org/wiki/Lock_(computer_science)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] lsm-multi-level-sorted-runs
+In multi-level LSM trees, on-disk levels are organized into sorted runs — single files or collections of files with non-overlapping key ranges — while Level 0 resides in memory.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Log-structured_merge-tree.md
+- Source URL: https://en.wikipedia.org/wiki/Log-structured_merge-tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] lsm-compaction-merge-sort-like
+LSM tree data migrates between levels using a compaction process similar to merge sort, consolidating entries and maintaining sorted order.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Log-structured_merge-tree.md
+- Source URL: https://en.wikipedia.org/wiki/Log-structured_merge-tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] lsm-stepped-merge-multiple-trees-per-level
+The Stepped-Merge LSM variant supports multiple tree structures at each level.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Log-structured_merge-tree.md
+- Source URL: https://en.wikipedia.org/wiki/Log-structured_merge-tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] lsm-lsbm-tree-addresses-buffer-cache-invalidation
+The LSbM-tree LSM variant addresses read performance degradation caused by compaction invalidating buffer caches in mixed read/write workloads.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Log-structured_merge-tree.md
+- Source URL: https://en.wikipedia.org/wiki/Log-structured_merge-tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] lsm-range-query-path
+An LSM range query scans C0, scans each disk level for the range, and merges results via a priority queue while reconciling duplicates and tombstones.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Log-structured_merge-tree.md
+- Source URL: https://en.wikipedia.org/wiki/Log-structured_merge-tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] lsm-point-lookup-path-with-bloom
+An LSM point lookup searches C0 in memory, checks Bloom filters for each disk level, searches C1, C2, C3..., and returns the first match (most recent version).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Log-structured_merge-tree.md
+- Source URL: https://en.wikipedia.org/wiki/Log-structured_merge-tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] logical-clock-non-interacting-processes-unobservable
+In logical clock theory, if two processes never interact, the lack of clock synchronization is unobservable, justifying logical ordering over physical clocks.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Logical_clock.md
+- Source URL: https://en.wikipedia.org/wiki/Logical_clock
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] logical-clock-update-protocol
+Logical clock update protocol: increment logical local time on a local event; attach current logical time to outgoing messages; on receiving a message, update logical global time using the received timestamp, then increment local time.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Logical_clock.md
+- Source URL: https://en.wikipedia.org/wiki/Logical_clock
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] logical-clocks-underpin-causal-consistency-crdts
+Logical clocks underpin causal consistency models, distributed snapshots, and conflict-free replicated data types (CRDTs).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Logical_clock_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Logical_clock_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] lamport-timestamps-are-software-counters
+Lamport timestamps are monotonically increasing software counters that provide the simplest logical clock, capturing happens-before relationships.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Logical_clock_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Logical_clock_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] market-order-may-split-multiple-fill-prices
+A market order may be split across multiple counterparties, resulting in different fill prices for the same order.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Market_order.md
+- Source URL: https://en.wikipedia.org/wiki/Market_order
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] limit-order-execution-price-condition
+A buy limit order executes at the limit price or lower; a sell limit order executes at the limit price or higher.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Market_order.md
+- Source URL: https://en.wikipedia.org/wiki/Market_order
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] marketable-limit-order-immediate-execution
+A marketable limit order is a limit order whose price allows immediate execution against the current order book (e.g., buy limit at $90 when ask is $86.41).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Market_order.md
+- Source URL: https://en.wikipedia.org/wiki/Market_order
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] peg-order-tracks-reference-price
+A peg order automatically tracks a reference price such as the best bid, best offer, or midpoint.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Market_order.md
+- Source URL: https://en.wikipedia.org/wiki/Market_order
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] auction-orders-single-price-auction
+Auction-session orders (MOO, MOC, LOO, LOC) participate in single-price auctions at market open or close; a buy LOO is filled if the open price is at or below the limit, and not filled if above.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Market_order.md
+- Source URL: https://en.wikipedia.org/wiki/Market_order
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] oco-order-one-cancels-other
+In a One Cancels Other (OCO) order pair, when one leg executes, the other is automatically canceled.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Market_order.md
+- Source URL: https://en.wikipedia.org/wiki/Market_order
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] oso-order-one-sends-other
+In a One Sends Other (OSO) order pair, execution of the primary order triggers submission of the dependent order.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Market_order.md
+- Source URL: https://en.wikipedia.org/wiki/Market_order
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] matrix-clock-entry-interpretation
+In a matrix clock, entry [i][j] of the N×N matrix represents host i's knowledge of host j's logical time.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Matrix_clock.md
+- Source URL: https://en.wikipedia.org/wiki/Matrix_clock
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] matrix-clock-generalizes-vector-clocks
+Matrix clocks generalize vector clocks: a vector clock is a single row, and a matrix clock is the full set of rows across all hosts.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Matrix_clock.md
+- Source URL: https://en.wikipedia.org/wiki/Matrix_clock
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] matrix-clock-message-includes-full-matrix
+When a message is sent in a matrix clock system, the sender includes its entire matrix — not just its own vector clock — so the receiver learns what the sender knows about all other hosts.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Matrix_clock.md
+- Source URL: https://en.wikipedia.org/wiki/Matrix_clock
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] matrix-clock-diagonal-own-logical-clock
+In a matrix clock, the diagonal entry [i][i] corresponds to host i's own logical clock, equivalent to its vector clock entry.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Matrix_clock.md
+- Source URL: https://en.wikipedia.org/wiki/Matrix_clock
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] merkle-tree-structure-leaf-and-internal-node-hashes
+A Merkle tree leaf node contains the cryptographic hash of a data block, and each internal node contains the hash of its children's concatenated hashes.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Merkle_tree.md
+- Source URL: https://en.wikipedia.org/wiki/Merkle_tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] merkle-tree-arbitrary-branching-factors
+Merkle trees can use arbitrary branching factors, though most implementations are binary.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Merkle_tree.md
+- Source URL: https://en.wikipedia.org/wiki/Merkle_tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] merkle-tree-generalizes-hash-lists-and-hash-chains
+A Merkle tree generalizes both hash lists and hash chains.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Merkle_tree.md
+- Source URL: https://en.wikipedia.org/wiki/Merkle_tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] merkle-tree-cryptographic-hash-sha2-crc-corruption
+Merkle trees typically use a cryptographic hash such as SHA-2 for tamper resistance, while CRCs suffice when protecting only against accidental corruption.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Merkle_tree.md
+- Source URL: https://en.wikipedia.org/wiki/Merkle_tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] tiger-tree-hash-variant-1024-byte-blocks-gnutella
+Tiger tree hash is a Merkle tree variant using binary trees, 1024-byte data blocks, and the Tiger hash function, and it is used in Gnutella and Direct Connect.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Merkle_tree.md
+- Source URL: https://en.wikipedia.org/wiki/Merkle_tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] git-mercurial-use-dags-not-pure-merkle-trees
+Git and Mercurial use directed acyclic graphs of content-addressed hashes rather than pure trees, though the hashing principle is the same as Merkle trees.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Merkle_tree.md
+- Source URL: https://en.wikipedia.org/wiki/Merkle_tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] mac-system-three-algorithms
+A MAC system consists of three algorithms: key generation, MAC generation, and verification.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Message_authentication_code.md
+- Source URL: https://en.wikipedia.org/wiki/Message_authentication_code
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] mac-key-generation-uniform-random
+A MAC system's key generation algorithm selects the key uniformly at random.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Message_authentication_code.md
+- Source URL: https://en.wikipedia.org/wiki/Message_authentication_code
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] mac-non-repudiation-via-hsm-verification-only
+Non-repudiation can be achieved with MACs if key usage is bound via hardware, such as when one party's key copy is restricted to verification-only in an HSM.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Message_authentication_code.md
+- Source URL: https://en.wikipedia.org/wiki/Message_authentication_code
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] one-time-mac-pairwise-independent-hash-formula
+A one-time MAC based on a pairwise independent hash can use the formula tag = (a*m + b) mod p, with key (a,b) and p prime.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Message_authentication_code.md
+- Source URL: https://en.wikipedia.org/wiki/Message_authentication_code
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] mac-commitment-context-discovery-adversary-key
+Commitment and context-discovery security are stronger MAC properties needed when an adversary can control the MAC key, analogous to collision resistance and preimage security for hash functions.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Message_authentication_code.md
+- Source URL: https://en.wikipedia.org/wiki/Message_authentication_code
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] message-queue-and-pub-sub-sibling-patterns
+Message queues and publish/subscribe are related but distinct patterns, and most middleware systems such as JMS support both.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Message_queue.md
+- Source URL: https://en.wikipedia.org/wiki/Message_queue
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] message-queue-scope-os-internal-vs-cross-system
+Message queues can be internal to an OS or application (SYS V, POSIX queues) or span multiple systems (IBM MQ, RabbitMQ, SQS).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Message_queue.md
+- Source URL: https://en.wikipedia.org/wiki/Message_queue
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] rtos-message-queue-primary-ipc
+Real-time operating systems such as VxWorks and QNX use message queuing as the primary IPC mechanism, integrated with CPU scheduling.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Message_queue.md
+- Source URL: https://en.wikipedia.org/wiki/Message_queue
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] gui-event-queues-use-message-queue-event-loop
+GUIs use message queues (event/input queues) to pass user input events to application code via an event loop.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Message_queue.md
+- Source URL: https://en.wikipedia.org/wiki/Message_queue
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] sysv-msgget-returns-queue-descriptor-ipc-creat
+SYS V msgget() takes a key and returns a queue descriptor, creating the queue if the IPC_CREAT flag is set.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Message_queue.md
+- Source URL: https://en.wikipedia.org/wiki/Message_queue
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] sysv-msgrcv-blocking-and-nonblocking
+SYS V msgrcv() supports blocking mode (sleeps until a message is available) and non-blocking mode (returns immediately with failure).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Message_queue.md
+- Source URL: https://en.wikipedia.org/wiki/Message_queue
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] jms-java-api-queue-provider-portability
+JMS is a Java-only client API abstraction that allows switching between queue providers, similar to SQL database portability.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Message_queue.md
+- Source URL: https://en.wikipedia.org/wiki/Message_queue
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] min-max-heap-invented-1986
+The min-max heap was invented in 1986 by Atkinson, Sack, Santoro, and Strothotte.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Min-max_heap.md
+- Source URL: https://en.wikipedia.org/wiki/Min-max_heap
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] min-max-heap-level-index-floor-log2
+In an array-backed min-max heap indexed from 1, the level of the node at index i is floor(log2(i)).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Min-max_heap.md
+- Source URL: https://en.wikipedia.org/wiki/Min-max_heap
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] max-min-heap-analogue-root-max-min-child
+A max-min heap is the analogue of a min-max heap with the maximum at the root and the minimum at a child of the root.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Min-max_heap.md
+- Source URL: https://en.wikipedia.org/wiki/Min-max_heap
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] min-max-median-heap-supports-order-statistics
+A min-max-median heap is a variant that supports order-statistic operations including find-median, delete-median, find(k), and delete(k).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Min-max_heap.md
+- Source URL: https://en.wikipedia.org/wiki/Min-max_heap
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] min-max-heap-push-up-grandparent-comparison
+In min-max heap push-up, insertion compares with the grandparent two levels up because same-type levels alternate every two levels.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Min-max_heap.md
+- Source URL: https://en.wikipedia.org/wiki/Min-max_heap
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] min-max-heap-tail-recursion-o1-space
+Both push-up and push-down in a min-max heap are tail-recursive and can be implemented iteratively in O(1) space.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Min-max_heap.md
+- Source URL: https://en.wikipedia.org/wiki/Min-max_heap
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] modular-programming-interface-and-implementation
+In modular programming, a module exposes a well-defined interface and contains an implementation behind that interface.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Modular_programming.md
+- Source URL: https://en.wikipedia.org/wiki/Modular_programming
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] modular-programming-1968-symposium-larry-constantine
+The term modular programming was used at the 1968 National Symposium on Modular Programming organized by Larry Constantine.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Modular_programming.md
+- Source URL: https://en.wikipedia.org/wiki/Modular_programming
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] modula-1975-designed-for-modular-programming
+Modula (1975) by Niklaus Wirth was one of the first languages designed from the start for modular programming.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Modular_programming.md
+- Source URL: https://en.wikipedia.org/wiki/Modular_programming
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] separation-of-concerns-1974
+Separation of concerns, the principle that each module handles a logically discrete function, dates to 1974.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Modular_programming.md
+- Source URL: https://en.wikipedia.org/wiki/Modular_programming
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] module-vs-component-scope
+A module is a piece of an individual program, while a component is a higher-level piece of a whole system.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Modular_programming.md
+- Source URL: https://en.wikipedia.org/wiki/Modular_programming
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dot-qualified-names-originated-from-modula
+Dot-qualified names such as M.a originated from Modula and are now widespread across languages including C++, C#, Java, Python, and Go.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Modular_programming.md
+- Source URL: https://en.wikipedia.org/wiki/Modular_programming
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] python-file-is-module-and-package-directory-with-init
+In Python, each file is a module and directories with __init__.py are packages that group modules.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Modular_programming.md
+- Source URL: https://en.wikipedia.org/wiki/Modular_programming
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] monotonic-increasing-preserves-order
+A monotonically increasing function satisfies x ≤ y implies f(x) ≤ f(y), preserving order.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Monotonic_function.md
+- Source URL: https://en.wikipedia.org/wiki/Monotonic_function
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] monotonic-decreasing-reverses-order
+A monotonically decreasing function satisfies x ≤ y implies f(x) ≥ f(y), reversing order.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Monotonic_function.md
+- Source URL: https://en.wikipedia.org/wiki/Monotonic_function
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] strictly-monotone-uses-strict-inequality
+A strictly monotone function uses strict inequality (<) instead of ≤ in its order condition.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Monotonic_function.md
+- Source URL: https://en.wikipedia.org/wiki/Monotonic_function
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] absolutely-monotonic-all-derivatives-nonnegative-or-nonpositive
+An absolutely monotonic function has all derivatives of all orders nonnegative (or all nonpositive) on an interval.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Monotonic_function.md
+- Source URL: https://en.wikipedia.org/wiki/Monotonic_function
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] topological-monotone-map-has-connected-fibers
+A monotone map in topology has all fibers (preimages of points) as connected subspaces.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Monotonic_function.md
+- Source URL: https://en.wikipedia.org/wiki/Monotonic_function
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] differentiable-increasing-function-has-nonnegative-derivative
+A differentiable increasing function has a nonnegative derivative.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Monotonic_function.md
+- Source URL: https://en.wikipedia.org/wiki/Monotonic_function
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] convex-function-derivatives-are-monotone-operators
+By Kachurovskii's theorem, derivatives of convex functions on Banach spaces are monotone operators.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Monotonic_function.md
+- Source URL: https://en.wikipedia.org/wiki/Monotonic_function
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cumulative-distribution-functions-are-monotonically-increasing
+Cumulative distribution functions in probability theory are monotonically increasing.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Monotonic_function.md
+- Source URL: https://en.wikipedia.org/wiki/Monotonic_function
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] mutual-exclusion-prevents-race-conditions
+Mutual exclusion prevents race conditions by ensuring only one thread of execution can access a critical section at a time.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Mutual_exclusion.md
+- Source URL: https://en.wikipedia.org/wiki/Mutual_exclusion
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] concurrent-reads-permitted-but-writes-exclusive
+Two concurrent reads of shared data are permitted under mutual exclusion, but concurrent writes or a concurrent read and write must be prevented.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Mutual_exclusion.md
+- Source URL: https://en.wikipedia.org/wiki/Mutual_exclusion
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] mutex-four-process-states-cycle
+Mutual exclusion processes cycle through Non-Critical Section, Trying, Critical Section, and Exit.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Mutual_exclusion.md
+- Source URL: https://en.wikipedia.org/wiki/Mutual_exclusion
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] k-bounded-waiting-stronger-than-lockout-freedom
+k-bounded waiting, a finite upper bound on how many times other processes can enter the critical section while a process waits, is stronger than lockout-freedom.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Mutual_exclusion.md
+- Source URL: https://en.wikipedia.org/wiki/Mutual_exclusion
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] disabling-interrupts-uniprocessor-only
+Disabling interrupts for mutual exclusion works only on uniprocessor systems and risks system halt and clock drift.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Mutual_exclusion.md
+- Source URL: https://en.wikipedia.org/wiki/Mutual_exclusion
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] binary-test-and-set-deadlock-free-but-may-starve
+One binary test-and-set register suffices for deadlock-free mutual exclusion but may cause starvation.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Mutual_exclusion.md
+- Source URL: https://en.wikipedia.org/wiki/Mutual_exclusion
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] compare-and-swap-enables-lock-free-linked-lists
+Compare-and-swap (CAS) is used for lock-free linked list operations.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Mutual_exclusion.md
+- Source URL: https://en.wikipedia.org/wiki/Mutual_exclusion
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] recoverable-mutual-exclusion-handles-crashes-inside-critical-section
+Recoverable mutual exclusion algorithms are designed to handle process crashes inside the critical section without deadlocking the system.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Mutual_exclusion.md
+- Source URL: https://en.wikipedia.org/wiki/Mutual_exclusion
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] network-partition-division-into-independent-subnets
+A network partition is a division of a computer network into relatively independent subnets.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Network_partitioning.md
+- Source URL: https://en.wikipedia.org/wiki/Network_partitioning
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] partition-can-be-intentional-or-failure-induced
+Network partitions can be created intentionally for optimization or caused by failure of network devices such as switches or routers.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Network_partitioning.md
+- Source URL: https://en.wikipedia.org/wiki/Network_partitioning
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] distributed-software-requires-partition-tolerance
+Distributed software must be designed to be partition-tolerant to continue functioning correctly when parts of the network cannot communicate.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Network_partitioning.md
+- Source URL: https://en.wikipedia.org/wiki/Network_partitioning
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] partition-tolerance-continues-processing-during-communication-errors
+Partition tolerance is the ability of a system to continue processing data even when a network partition causes communication errors between subsystems.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Network_partitioning.md
+- Source URL: https://en.wikipedia.org/wiki/Network_partitioning
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] partition-tolerance-affects-consistency-model
+Partition tolerance directly affects whether a system can maintain strong consistency or must fall back to eventual consistency.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Network_partitioning.md
+- Source URL: https://en.wikipedia.org/wiki/Network_partitioning
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] web-feed-is-machine-readable-xml-or-json-document
+A web feed is an XML or JSON document containing discrete content items with links back to the source.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-News_feed.md
+- Source URL: https://en.wikipedia.org/wiki/News_feed
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] feed-reader-polls-feed-urls
+A feed reader or news aggregator polls feed URLs and presents new items to the user.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-News_feed.md
+- Source URL: https://en.wikipedia.org/wiki/News_feed
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] rss2-uses-channel-and-item-structure
+RSS 2.0 uses channel as the top-level container and item for entries.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-News_feed.md
+- Source URL: https://en.wikipedia.org/wiki/News_feed
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] atom-uses-feed-and-entry-structure
+Atom 1.0 uses feed as the top-level container and entry for items.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-News_feed.md
+- Source URL: https://en.wikipedia.org/wiki/News_feed
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] rss-channel-maps-to-atom-feed
+In RSS 2.0 to Atom 1.0 element mapping, channel maps to feed.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-News_feed.md
+- Source URL: https://en.wikipedia.org/wiki/News_feed
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] rss-item-maps-to-atom-entry
+In RSS 2.0 to Atom 1.0 element mapping, item maps to entry.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-News_feed.md
+- Source URL: https://en.wikipedia.org/wiki/News_feed
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] opml-imports-exports-feed-subscription-lists
+OPML (Outline Processor Markup Language) is used for importing/exporting feed subscription lists between aggregators.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-News_feed.md
+- Source URL: https://en.wikipedia.org/wiki/News_feed
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] websub-push-complements-pull-feed-polling
+WebSub (formerly PubSubHubbub) is a push-based protocol that complements the pull-based polling model of traditional feed consumption.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-News_feed.md
+- Source URL: https://en.wikipedia.org/wiki/News_feed
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] nosql-means-not-only-sql
+NoSQL means 'Not Only SQL' and can coexist with SQL databases in polyglot-persistent architectures.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-NoSQL.md
+- Source URL: https://en.wikipedia.org/wiki/NoSQL
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] nosql-emerged-early-2000s-web2-scalability
+The NoSQL term emerged in the early 2000s driven by Web 2.0 scalability needs.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-NoSQL.md
+- Source URL: https://en.wikipedia.org/wiki/NoSQL
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] non-relational-databases-date-to-late-1960s
+Non-relational databases date back to the late 1960s.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-NoSQL.md
+- Source URL: https://en.wikipedia.org/wiki/NoSQL
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] nosql-scales-horizontally-across-commodity-machines
+NoSQL databases are designed to scale horizontally across clusters of commodity machines.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-NoSQL.md
+- Source URL: https://en.wikipedia.org/wiki/NoSQL
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] some-nosql-databases-support-acid-transactions
+Some NoSQL databases such as MongoDB, ArangoDB, Couchbase, and DynamoDB support ACID transactions, but not all NoSQL systems do.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-NoSQL.md
+- Source URL: https://en.wikipedia.org/wiki/NoSQL
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] multi-model-databases-support-multiple-data-models
+Multi-model NoSQL databases such as ArangoDB, Cosmos DB, and MarkLogic support multiple data models in a single engine.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-NoSQL.md
+- Source URL: https://en.wikipedia.org/wiki/NoSQL
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] nosql-systems-use-wal-to-prevent-lost-writes
+Some NoSQL systems use write-ahead logging (WAL) to prevent data loss from lost writes.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-NoSQL.md
+- Source URL: https://en.wikipedia.org/wiki/NoSQL
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] nosql-performance-measured-by-throughput-ycsb
+NoSQL performance is often measured by throughput in operations per second using benchmarks such as YCSB.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-NoSQL.md
+- Source URL: https://en.wikipedia.org/wiki/NoSQL
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] notification-non-emergency-flight-status-updates
+Non-emergency notification services can send airline flight status updates to passengers via cellphone.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Notification_service.md
+- Source URL: https://en.wikipedia.org/wiki/Notification_service
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] notification-fan-out-one-to-many-core
+The core architectural concern of notification services is one-to-many message delivery (fan-out).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Notification_service.md
+- Source URL: https://en.wikipedia.org/wiki/Notification_service
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] notification-vs-message-queuing-fanout-focus
+Notification services relate to message queuing because both deal with asynchronous message delivery, but notification services focus on fan-out to end users rather than inter-service communication.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Notification_service.md
+- Source URL: https://en.wikipedia.org/wiki/Notification_service
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] notification-enterprise-sqlserver-blackboard
+SQL Server Notification Services and Blackboard Connect are domain-specific notification implementations for database events and education respectively.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Notification_service.md
+- Source URL: https://en.wikipedia.org/wiki/Notification_service
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] object-storage-separates-metadata-and-data-operations
+Object storage separates metadata operations from data operations to optimize performance and scale them independently.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Object_storage.md
+- Source URL: https://en.wikipedia.org/wiki/Object_storage
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] object-storage-per-object-and-per-command-access-control
+Object storage supports per-object and per-command access control at the device level.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Object_storage.md
+- Source URL: https://en.wikipedia.org/wiki/Object_storage
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] object-storage-complements-not-replaces-nas-san
+Object storage complements but does not replace NAS (no file-level locking) or SAN (no block-level access).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Object_storage.md
+- Source URL: https://en.wikipedia.org/wiki/Object_storage
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] object-storage-objects-no-fixed-size
+Objects in object storage have no fixed size; partitions and objects grow dynamically subject only to physical or quota limits.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Object_storage.md
+- Source URL: https://en.wikipedia.org/wiki/Object_storage
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] occ-proposed-1979-kung-robinson
+Optimistic concurrency control was first proposed by H.T. Kung and John T. Robinson in 1979.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Optimistic_concurrency_control.md
+- Source URL: https://en.wikipedia.org/wiki/Optimistic_concurrency_control
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] occ-aka-optimistic-locking-non-locking
+OCC is also called optimistic locking despite being a non-locking technique; the name refers to the optimistic assumption, not the mechanism.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Optimistic_concurrency_control.md
+- Source URL: https://en.wikipedia.org/wiki/Optimistic_concurrency_control
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] occ-hidden-form-field-web-pattern
+In web applications, a hidden form field storing original content, timestamp, or sequence number can be compared on submit to detect OCC conflicts.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Optimistic_concurrency_control.md
+- Source URL: https://en.wikipedia.org/wiki/Optimistic_concurrency_control
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] occ-validation-checks-read-write-conflicts
+The OCC validate phase checks whether other transactions committed after this one started, or still active, modified data this transaction read or wrote.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Optimistic_concurrency_control.md
+- Source URL: https://en.wikipedia.org/wiki/Optimistic_concurrency_control
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] occ-can-be-implemented-on-mvcc
+OCC can be implemented on top of Multiversion Concurrency Control (MVCC), a related technique used by Firebird and PostgreSQL.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Optimistic_concurrency_control.md
+- Source URL: https://en.wikipedia.org/wiki/Optimistic_concurrency_control
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] optimistic-replication-pessimistic-identical-at-all-times
+Pessimistic replication enforces that all replicas are identical at all times, as if there were a single copy.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Optimistic_replication.md
+- Source URL: https://en.wikipedia.org/wiki/Optimistic_replication
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] optimistic-replication-syntactic-vs-semantic-resolution
+Optimistic replication scheduling and conflict resolution can be syntactic (using general metadata such as timestamps or origin) or semantic (using application-specific knowledge).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Optimistic_replication.md
+- Source URL: https://en.wikipedia.org/wiki/Optimistic_replication
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] optimistic-replication-cvs-five-element-example
+CVS illustrates the five optimistic replication elements: local file edits as submission, manual push/pull propagation, arrival order at central server as schedule, manual conflict fixes as resolution, and central server acceptance as commitment.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Optimistic_replication.md
+- Source URL: https://en.wikipedia.org/wiki/Optimistic_replication
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] optimistic-replication-usenet-thomas-write-rule
+Usenet and similar systems use the Thomas Write Rule for conflict resolution.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Optimistic_replication.md
+- Source URL: https://en.wikipedia.org/wiki/Optimistic_replication
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] optimistic-replication-coda-disconnected-operation
+The Coda distributed file system applies optimistic replication for disconnected operation.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Optimistic_replication.md
+- Source URL: https://en.wikipedia.org/wiki/Optimistic_replication
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] optimistic-replication-crdts-avoid-explicit-conflict-resolution
+CRDTs avoid conflicts by design, eliminating the need for explicit conflict resolution.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Optimistic_replication.md
+- Source URL: https://en.wikipedia.org/wiki/Optimistic_replication
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] order-book-price-level
+A price level is a group of orders sharing the same price; an incoming order at that price can potentially be matched against all orders on that level.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Order_book.md
+- Source URL: https://en.wikipedia.org/wiki/Order_book
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] order-book-depth-fixed-or-unlimited
+Book depth is the number of price levels available and may be fixed, with orders beyond the depth rejected, or unlimited.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Order_book.md
+- Source URL: https://en.wikipedia.org/wiki/Order_book
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] order-book-maintained-by-trading-venue
+An order book is maintained by a trading venue such as a stock exchange and lists outstanding buy and sell orders for a particular financial instrument.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Order_book.md
+- Source URL: https://en.wikipedia.org/wiki/Order_book
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] order-book-multi-specialist-extension-mertens
+Mertens' 2003 multi-specialist book extension allows order matching across specialists, with bids and offers expressed as linear functions of other traded items.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Order_book.md
+- Source URL: https://en.wikipedia.org/wiki/Order_book
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] order-book-depth-chart-visualization
+An order book depth chart visualizes price on the x-axis and cumulative order depth on the y-axis, with bids on the left and asks on the right.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Order_book.md
+- Source URL: https://en.wikipedia.org/wiki/Order_book
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] order-matching-system-core-electronic-exchange
+An order matching system is an electronic system that matches buy and sell orders and is the core component of all electronic exchanges.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Order_matching_system.md
+- Source URL: https://en.wikipedia.org/wiki/Order_matching_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] order-matching-replaced-open-outcry-early-1980s
+Order matching systems replaced and supplemented open outcry trading starting in the early 1980s.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Order_matching_system.md
+- Source URL: https://en.wikipedia.org/wiki/Order_matching_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] order-matching-operates-with-settlement-and-csd
+Order matching systems operate within an electronic trading ecosystem that includes settlement systems and central securities depositories.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Order_matching_system.md
+- Source URL: https://en.wikipedia.org/wiki/Order_matching_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] implied-order-system-derives-synthetic-orders
+An implied order system (implication engine) derives synthetic orders from existing orders and is common in derivatives markets.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Order_matching_system.md
+- Source URL: https://en.wikipedia.org/wiki/Order_matching_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] best-execution-rules-vary-by-system-and-jurisdiction
+Best execution rules governing how orders are matched vary by order matching system and jurisdiction.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Order_matching_system.md
+- Source URL: https://en.wikipedia.org/wiki/Order_matching_system
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] overselling-deliberate-sale-above-supply
+Overselling (overbooking) is the deliberate sale of a volatile good or service in excess of actual supply, based on the expectation that some buyers will cancel or not consume their entitlement.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Overbooking.md
+- Source URL: https://en.wikipedia.org/wiki/Overbooking
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] overbooking-relies-on-statistical-no-show-rates
+Overbooking relies on statistical no-show rates to maximize utilization of available capacity.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Overbooking.md
+- Source URL: https://en.wikipedia.org/wiki/Overbooking
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] non-refundable-tickets-alternative-to-overbooking
+Non-refundable tickets are an alternative to overbooking that discourages no-shows by making cancellation costly, common with low-cost carriers.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Overbooking.md
+- Source URL: https://en.wikipedia.org/wiki/Overbooking
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] 2018-us-airline-bumping-statistics
+In 2018, U.S. airlines bumped 351,904 passengers annually, of which only 10,938 were involuntary (roughly 3% of bumps).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Overbooking.md
+- Source URL: https://en.wikipedia.org/wiki/Overbooking
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] typical-docsis-download-oversubscription-ratios
+Typical DOCSIS download oversubscription is about 28:1, with a best case of about 12:1.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Overbooking.md
+- Source URL: https://en.wikipedia.org/wiki/Overbooking
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] government-priority-telecom-services-saturated-networks
+Government priority telecom services such as GETS and WPS in the US and GTPS and ACCOLC in the UK exist to guarantee official communications when oversubscribed networks are saturated during emergencies.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Overbooking.md
+- Source URL: https://en.wikipedia.org/wiki/Overbooking
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] payment-processor-enables-merchant-customer-transactions
+A payment processor is a system that enables financial transactions between merchants and customers across channels such as credit cards, debit cards, and bank accounts.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Payment_processor.md
+- Source URL: https://en.wikipedia.org/wiki/Payment_processor
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] payment-processor-transaction-flow-includes-issuer-verification-and-anti-fraud
+In the payment transaction flow, the processor forwards card details to the issuing bank or card association for verification and runs anti-fraud checks before returning approval or denial via the payment gateway.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Payment_processor.md
+- Source URL: https://en.wikipedia.org/wiki/Payment_processor
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] tokenization-replaces-card-data-with-token
+Tokenization replaces sensitive card data with a unique placeholder token so merchants never store actual payment card data.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Payment_processor.md
+- Source URL: https://en.wikipedia.org/wiki/Payment_processor
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] saas-payment-processing-integrated-receivables
+SaaS payment processing is a cloud-based model where the processor handles regulatory compliance, recurring billing, RDC, ACH, credit card, and web payments through a single integrated platform.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Payment_processor.md
+- Source URL: https://en.wikipedia.org/wiki/Payment_processor
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ach-founded-1972-california
+The Automated Clearing House (ACH) was founded in 1972 in California and remains a primary method of electronic funds transfer for agencies, businesses, and individuals.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Payment_processor.md
+- Source URL: https://en.wikipedia.org/wiki/Payment_processor
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] high-risk-processing-specializes-in-chargeback-prone-industries
+High-risk payment processing is a specialized service for industries with frequent chargebacks, such as adult content distribution.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Payment_processor.md
+- Source URL: https://en.wikipedia.org/wiki/Payment_processor
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] software-pipeline-chain-output-to-next-input
+A software pipeline is a chain of processing elements (processes, threads, coroutines, or functions) where the output of each element becomes the input of the next.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Pipeline_software.md
+- Source URL: https://en.wikipedia.org/wiki/Pipeline_(software)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] pipes-and-filters-design-pattern
+The software pipeline pattern is also known as the pipes and filters design pattern and is analogous to physical plumbing and function composition.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Pipeline_software.md
+- Source URL: https://en.wikipedia.org/wiki/Pipeline_(software)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] pipeline-buffering-handles-rate-differences
+Buffering is typically provided between consecutive pipeline elements to handle rate differences between producer and consumer.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Pipeline_software.md
+- Source URL: https://en.wikipedia.org/wiki/Pipeline_(software)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] unix-pipe-operator-chains-processes
+The Unix pipe operator '|' chains processes, with the operating system managing data flow between them.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Pipeline_software.md
+- Source URL: https://en.wikipedia.org/wiki/Pipeline_(software)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] pipeline-return-channel-allows-reverse-communication
+A pipeline return channel (backchannel) allows limited reverse communication, such as the lexer hack.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Pipeline_software.md
+- Source URL: https://en.wikipedia.org/wiki/Pipeline_(software)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] pipe-buffers-exist-at-kernel-and-user-level
+Pipe buffers exist at both the kernel level (automatic, small) and user level (the buffer command, configurable size).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Pipeline_software.md
+- Source URL: https://en.wikipedia.org/wiki/Pipeline_(software)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] prometheus-open-source-monitoring-alerting-toolkit
+Prometheus is an open-source monitoring and alerting toolkit that records metrics in a time-series database.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Prometheus_software.md
+- Source URL: https://en.wikipedia.org/wiki/Prometheus_(software)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] prometheus-written-in-go-apache-2
+Prometheus is written in Go and licensed under Apache 2.0.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Prometheus_software.md
+- Source URL: https://en.wikipedia.org/wiki/Prometheus_(software)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] prometheus-multidimensional-data-model-labels
+Prometheus metrics are identified by a name plus arbitrary key-value label pairs (e.g., instance, job, HTTP method, status code), enabling flexible slicing and querying.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Prometheus_software.md
+- Source URL: https://en.wikipedia.org/wiki/Prometheus_(software)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] promql-supports-instant-range-vectors-and-rate
+PromQL is Prometheus's native query language and supports instant vectors, range vectors, and functions such as rate().
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Prometheus_software.md
+- Source URL: https://en.wikipedia.org/wiki/Prometheus_(software)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] prometheus-service-discovery-locates-scrape-targets
+Prometheus service discovery automatically locates scrape targets in dynamic environments such as containerized or cloud-native infrastructure.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Prometheus_software.md
+- Source URL: https://en.wikipedia.org/wiki/Prometheus_(software)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] prometheus-white-box-monitoring-exporters
+Prometheus favors white-box monitoring, where applications expose internal metrics via exporters rather than external probing.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Prometheus_software.md
+- Source URL: https://en.wikipedia.org/wiki/Prometheus_(software)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] proximity-search-linguistic-assumption-proximity-implies-semantic-relatedness
+Proximity search relies on the linguistic assumption that words appearing near each other in a document are more likely to be semantically related because authors cluster related ideas into sentences and paragraphs.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Proximity_search_text.md
+- Source URL: https://en.wikipedia.org/wiki/Proximity_search_(text)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] yandex-proximity-operator-slash-n-matches-up-to-n-minus-1-words-apart
+Yandex proximity syntax keyword1 /n keyword2 matches terms up to n-1 words apart.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Proximity_search_text.md
+- Source URL: https://en.wikipedia.org/wiki/Proximity_search_(text)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] walhello-proximity-distance-measured-in-characters
+Walhello's proximity search syntax measures distance in characters rather than words.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Proximity_search_text.md
+- Source URL: https://en.wikipedia.org/wiki/Proximity_search_(text)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] google-wildcard-asterisk-matches-one-or-more-words-yahoo-exactly-one
+In wildcard-based ordered proximity, Google's asterisk in a quoted phrase matches one or more words, while Yahoo!'s asterisk matches exactly one word.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Proximity_search_text.md
+- Source URL: https://en.wikipedia.org/wiki/Proximity_search_(text)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] edit-distance-measures-character-level-distance-vs-proximity-word-level
+Edit distance measures character-level distance between strings, whereas proximity search measures word-level distance within documents.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Proximity_search_text.md
+- Source URL: https://en.wikipedia.org/wiki/Proximity_search_(text)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] multi-keyword-proximity-specifies-which-subsets-should-be-proximate
+With three or more keywords, multi-keyword proximity search requires specifying which subsets of keywords should be proximate.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Proximity_search_text.md
+- Source URL: https://en.wikipedia.org/wiki/Proximity_search_(text)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] pubsub-message-broker-routes-messages-from-publishers-to-subscribers
+In publish-subscribe, a message broker or event bus receives messages from publishers and routes them to subscribers, optionally performing store-and-forward, priority queuing, or routing logic.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-PublishE28093subscribe_pattern.md
+- Source URL: https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] pubsub-topic-based-filtering-delivers-all-messages-on-subscribed-topics
+In topic-based publish-subscribe filtering, subscribers receive all messages published on the topics they have subscribed to.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-PublishE28093subscribe_pattern.md
+- Source URL: https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] pubsub-subscription-registration-timing-includes-build-initialization-runtime
+Pub/sub subscription registration can occur at build time via hardcoded handlers, at initialization time via XML config or metadata, or at runtime via dynamically added or removed subscriptions.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-PublishE28093subscribe_pattern.md
+- Source URL: https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] pubsub-is-sibling-of-message-queue-paradigm-not-replacement
+Pub/sub is a sibling of the message queue paradigm rather than a replacement; queues deliver to one consumer while pub/sub delivers to all matching subscribers.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-PublishE28093subscribe_pattern.md
+- Source URL: https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] pubsub-implemented-by-kafka-mqtt-jms-and-dds
+Apache Kafka, MQTT, JMS, and DDS are frameworks or protocols that implement publish-subscribe messaging.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-PublishE28093subscribe_pattern.md
+- Source URL: https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] pubsub-security-risk-includes-broker-misdirection-and-unauthorized-publisher-injection
+Pub/sub security risks include brokers being tricked into misdirecting messages and unauthorized publishers injecting bad data.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-PublishE28093subscribe_pattern.md
+- Source URL: https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] push-clients-express-interest-via-publish-subscribe-channels
+In push technology, clients typically express interest by subscribing to channels using the publish-subscribe pattern, and the server pushes updates to those channels automatically.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Push_technology.md
+- Source URL: https://en.wikipedia.org/wiki/Push_technology
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] push-simulated-by-polling-when-http-inbound-blocked
+When security policies block incoming HTTP requests, push technology is sometimes simulated using polling techniques.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Push_technology.md
+- Source URL: https://en.wikipedia.org/wiki/Push_technology
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] local-notifications-app-scheduled-vs-remote-require-server-registration-unique-key
+Local notifications are scheduled by the app on the device OS, while remote notifications require server registration with a unique key such as a UUID or device token and an agreed protocol such as HTTP or XMPP.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Push_technology.md
+- Source URL: https://en.wikipedia.org/wiki/Push_technology
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] sse-uses-text-event-stream-mime-type
+Server-Sent Events push events over HTTP using the text/event-stream MIME type and are unidirectional server-to-client.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Push_technology.md
+- Source URL: https://en.wikipedia.org/wiki/Push_technology
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bosh-is-long-polling-alternative-for-bidirectional-http-streams
+BOSH (Bidirectional-streams Over Synchronous HTTP) is a long-polling alternative to persistent TCP connections used as underlying technology in XMPP.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Push_technology.md
+- Source URL: https://en.wikipedia.org/wiki/Push_technology
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cdf-replaced-by-rss-as-content-distribution-mechanism
+CDF (Channel Definition Format) was an early push standard integrated into browsers during the browser wars but was replaced by RSS, a pull-based content distribution mechanism.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Push_technology.md
+- Source URL: https://en.wikipedia.org/wiki/Push_technology
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] region-quadtree-subdivides-into-four-equal-quadrants
+A region quadtree subdivides space into four equal quadrants at each internal node.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Quadtree.md
+- Source URL: https://en.wikipedia.org/wiki/Quadtree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] point-quadtree-centers-subdivision-on-inserted-points-with-rectangular-cells
+A point quadtree centers subdivision on inserted points, producing cells that are rectangular but not necessarily square.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Quadtree.md
+- Source URL: https://en.wikipedia.org/wiki/Quadtree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] point-quadtree-average-olog-n-worst-linear-sensitive-to-insertion-order
+A point quadtree operates in O(log n) average time but has worst-case linear height sensitive to insertion order.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Quadtree.md
+- Source URL: https://en.wikipedia.org/wiki/Quadtree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] edge-quadtree-stores-line-segments-subdividing-until-one-segment-per-cell
+An edge quadtree stores line segments and subdivides until one segment remains per cell, which can become extremely unbalanced near corners or vertices.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Quadtree.md
+- Source URL: https://en.wikipedia.org/wiki/Quadtree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] t-pyramid-complete-quadtree-storable-as-implicit-array
+A T-pyramid is a complete quadtree where all leaves are at the pixel level and can be stored as an implicit array like a binary heap.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Quadtree.md
+- Source URL: https://en.wikipedia.org/wiki/Quadtree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] connected-component-labeling-on-quadtrees-uses-post-order-traversal-and-union-find
+Connected component labeling on quadtree-represented images uses post-order traversal and union-find to resolve label equivalences and assign final labels.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Quadtree.md
+- Source URL: https://en.wikipedia.org/wiki/Quadtree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] quorum-minimum-votes-required-to-authorize-distributed-operation
+A quorum is the minimum number of votes a distributed transaction must obtain to perform an operation.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Quorum_distributed_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Quorum_(distributed_computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] quorum-two-primary-uses-replica-control-and-commit-protocol
+Quorum-based techniques have two primary uses: replica control for managing concurrent access to replicated data and commit protocols for ensuring transaction atomicity during network partitions.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Quorum_distributed_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Quorum_(distributed_computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] commit-quorum-requires-at-least-one-site-prepared-to-commit
+A commit quorum requires at least one site prepared to commit plus waiting sites totaling at least Vc.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Quorum_distributed_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Quorum_(distributed_computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] abort-quorum-can-consist-entirely-of-waiting-sites
+An abort quorum can consist entirely of waiting sites, with zero sites prepared to abort.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Quorum_distributed_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Quorum_(distributed_computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] quorum-voting-requires-threshold-not-unanimous-agreement
+Quorum-based voting requires only a threshold of votes, not unanimous agreement from all sites.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Quorum_distributed_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Quorum_(distributed_computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] quorum-majority-partition-progress-minority-cannot-reach-quorum
+In a network partition, the majority partition can make progress under quorum systems while the minority partition cannot reach quorum.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Quorum_distributed_computing.md
+- Source URL: https://en.wikipedia.org/wiki/Quorum_(distributed_computing)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] quotient-filter-stores-remainders-plus-metadata-not-keys
+A quotient filter stores only fingerprint remainders plus three metadata bits per slot, not full original keys.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Quotient_filter.md
+- Source URL: https://en.wikipedia.org/wiki/Quotient_filter
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] quotient-filter-hard-collision-identical-fingerprint
+A hard collision in a quotient filter occurs when two distinct keys hash to the same fingerprint, meaning identical quotient and remainder.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Quotient_filter.md
+- Source URL: https://en.wikipedia.org/wiki/Quotient_filter
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] quotient-filter-soft-collision-same-quotient-distinct-remainder
+A soft collision in a quotient filter occurs when two keys have distinct fingerprints but the same quotient, producing the same slot with different remainders.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Quotient_filter.md
+- Source URL: https://en.wikipedia.org/wiki/Quotient_filter
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] quotient-filter-run-contiguous-same-quotient-sorted
+A run in a quotient filter is a contiguous set of slots holding remainders that share the same quotient, kept in sorted order.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Quotient_filter.md
+- Source URL: https://en.wikipedia.org/wiki/Quotient_filter
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] quotient-filter-cluster-contiguous-runs-from-canonical-slot
+A cluster in a quotient filter is a contiguous sequence of runs starting from a run whose first fingerprint occupies its canonical slot and terminating at an empty slot or the next cluster start.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Quotient_filter.md
+- Source URL: https://en.wikipedia.org/wiki/Quotient_filter
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] quotient-filter-lookup-scans-left-to-cluster-start-then-right
+Quotient filter lookup scans left from the canonical slot to find the cluster start, then scans right counting runs via the is_occupied and is_continuation bits.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Quotient_filter.md
+- Source URL: https://en.wikipedia.org/wiki/Quotient_filter
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] quotient-filter-proxy-for-database-keys-avoids-disk-io
+Quotient filters are used as fast in-memory proxies for database keys to avoid unnecessary disk I/O before accessing slow storage.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Quotient_filter.md
+- Source URL: https://en.wikipedia.org/wiki/Quotient_filter
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] r-tree-nodes-store-minimum-bounding-rectangles
+R-tree nodes store minimum bounding rectangles that enclose all objects in their subtree.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-R-tree.md
+- Source URL: https://en.wikipedia.org/wiki/R-tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] r-tree-filter-and-refine-principle
+R-trees use the Filter and Refine Principle: internal nodes filter out non-intersecting regions and leaf entries provide precise evaluation.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-R-tree.md
+- Source URL: https://en.wikipedia.org/wiki/R-tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] r-tree-insertion-chooses-least-enlargement
+R-tree insertion traverses from the root and at each level chooses the subtree requiring the least enlargement of its bounding box.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-R-tree.md
+- Source URL: https://en.wikipedia.org/wiki/R-tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] r-tree-root-split-increases-height
+In an R-tree, a root split increases the tree height by one.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-R-tree.md
+- Source URL: https://en.wikipedia.org/wiki/R-tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] r-tree-splitting-heuristics-quadratic-linear-greene-rstar
+R-tree splitting heuristics include QuadraticSplit, LinearSplit, Greene's Split, and the R*-tree topological split.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-R-tree.md
+- Source URL: https://en.wikipedia.org/wiki/R-tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] r-tree-bulk-loading-nearest-x-hilbert-str-omt
+R-tree bulk-loading methods include Nearest-X, Packed Hilbert R-tree, Sort-Tile-Recursive (STR), and Overlap Minimizing Top-down (OMT).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-R-tree.md
+- Source URL: https://en.wikipedia.org/wiki/R-tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] r-tree-spatial-analogue-of-btree
+An R-tree is the spatial analogue of a B-tree or B+-tree, using balanced page-based storage for multi-dimensional data.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-R-tree.md
+- Source URL: https://en.wikipedia.org/wiki/R-tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] x-tree-high-dimensional-supernodes
+The X-tree handles high-dimensional data by allowing super-nodes rather than forcing poor splits.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-R-tree.md
+- Source URL: https://en.wikipedia.org/wiki/R-tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] radix-tree-radix-parameter-r-equals-2-to-x
+The radix parameter r = 2^x controls a radix tree's branching factor; r=2 gives a binary trie and higher radix values reduce depth at the cost of potential sparseness.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Radix_tree.md
+- Source URL: https://en.wikipedia.org/wiki/Radix_tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] radix-tree-edge-labels-two-pointer-constant-space
+Radix tree edge labels can be stored in constant space using two pointers into the original string.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Radix_tree.md
+- Source URL: https://en.wikipedia.org/wiki/Radix_tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] radix-tree-supports-predecessor-successor-prefix-hash-cannot
+Radix trees support predecessor, successor, and prefix operations that hash tables cannot.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Radix_tree.md
+- Source URL: https://en.wikipedia.org/wiki/Radix_tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] radix-tree-hat-trie-hash-leaf-variant
+The HAT-trie is a cache-conscious variant that combines radix tree structure with hash table leaf nodes.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Radix_tree.md
+- Source URL: https://en.wikipedia.org/wiki/Radix_tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] radix-tree-black-white-variant-ranges-exceptions
+A black/white radix tree variant uses two-colored nodes to store large ranges with exceptions, where white means included and black means excluded.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Radix_tree.md
+- Source URL: https://en.wikipedia.org/wiki/Radix_tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] radix-tree-inverted-index-text-retrieval
+Radix trees are used in inverted indexes for text document indexing in information retrieval.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Radix_tree.md
+- Source URL: https://en.wikipedia.org/wiki/Radix_tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] radix-tree-relaxed-variant-valid-key-single-child
+A relaxed radix tree variant allows single-child parents when the parent represents a valid key.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Radix_tree.md
+- Source URL: https://en.wikipedia.org/wiki/Radix_tree
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] rate-limiting-hardware-appliances-operate-osi-layers-4-5
+Hardware rate-limiting appliances operate at OSI layers 4-5.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Rate_limiting.md
+- Source URL: https://en.wikipedia.org/wiki/Rate_limiting
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] rate-limiting-excess-requests-queued-or-dropped
+When rate limits are reached, excess requests are queued if capacity allows or dropped; queue overflow leads to request loss.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Rate_limiting.md
+- Source URL: https://en.wikipedia.org/wiki/Rate_limiting
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] rate-limiting-precision-resource-tradeoff
+Data center rate limiters face a precision versus resource footprint trade-off, where higher precision requires more memory and CPU.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Rate_limiting.md
+- Source URL: https://en.wikipedia.org/wiki/Rate_limiting
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] rate-limiting-single-zombie-20-requests-per-second
+A single compromised host in a DDoS attack can generate 20+ HTTP GET requests per second, providing a baseline for setting thresholds.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Rate_limiting.md
+- Source URL: https://en.wikipedia.org/wiki/Rate_limiting
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] rate-limiting-datacenter-sla-tenant-sharing
+In data centers, rate limiting enforces resource sharing per SLA across tenants.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Rate_limiting.md
+- Source URL: https://en.wikipedia.org/wiki/Rate_limiting
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] rate-limiting-fixed-window-boundary-spikes
+The fixed window counter rate-limiting algorithm is simple but susceptible to boundary spikes.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Rate_limiting.md
+- Source URL: https://en.wikipedia.org/wiki/Rate_limiting
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hrw-uniform-hash-balances-sites-equally
+A uniform hash function in HRW ensures each site is equally likely to be selected.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Rendezvous_hashing.md
+- Source URL: https://en.wikipedia.org/wiki/Rendezvous_hashing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hrw-skeleton-example-108-sites-16-hashes
+Skeleton HRW with 108 sites, cluster size m=4, and fanout f=3 forms 27 leaf clusters in 3 tiers and requires 16 hash computations from the root versus 108 for flat HRW.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Rendezvous_hashing.md
+- Source URL: https://en.wikipedia.org/wiki/Rendezvous_hashing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hrw-failure-next-ranked-in-leaf-cluster
+HRW failure handling picks the next-highest-ranked site within the same leaf cluster.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Rendezvous_hashing.md
+- Source URL: https://en.wikipedia.org/wiki/Rendezvous_hashing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hrw-replication-top-r-sites
+HRW replication assigns an object to the top r < m ranked sites.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Rendezvous_hashing.md
+- Source URL: https://en.wikipedia.org/wiki/Rendezvous_hashing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hrw-real-world-adopters-github-kafka-druid-ignite
+HRW is used by GitHub load balancer, Apache Kafka, Apache Druid, Apache Ignite, IBM Cloud Object Store, Twitter EventBus, Microsoft CARP, and Tahoe-LAFS.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Rendezvous_hashing.md
+- Source URL: https://en.wikipedia.org/wiki/Rendezvous_hashing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hrw-skeleton-parameters-trade-load-balance-vs-overhead
+In skeleton HRW, cluster size m trades load balance under failure against search overhead, m=n collapses to flat HRW, and fanout f determines tree height.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Rendezvous_hashing.md
+- Source URL: https://en.wikipedia.org/wiki/Rendezvous_hashing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] hrw-failure-redistribution-uniform-across-remaining-sites
+When an HRW site fails, its objects redistribute uniformly across the remaining n-1 sites, unlike consistent hashing where redistribution goes only to token-adjacent sites.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Rendezvous_hashing.md
+- Source URL: https://en.wikipedia.org/wiki/Rendezvous_hashing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] data-replication-stores-same-data-on-multiple-storage-devices
+Data replication stores the same data on multiple storage devices.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Replication_computer_science.md
+- Source URL: https://en.wikipedia.org/wiki/Replication_(computer_science)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] computation-replication-executes-same-task-multiple-times
+Computation replication executes the same task multiple times, either in space across devices or in time on a single device.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Replication_computer_science.md
+- Source URL: https://en.wikipedia.org/wiki/Replication_(computer_science)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] primary-backup-single-leader-handles-all-writes
+In primary-backup (single-leader) replication, one designated leader handles all writes while replicas serve reads.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Replication_computer_science.md
+- Source URL: https://en.wikipedia.org/wiki/Replication_(computer_science)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] replication-lag-causes-stale-reads-in-single-leader
+Replication lag can cause replicas in single-leader replication to serve stale data.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Replication_computer_science.md
+- Source URL: https://en.wikipedia.org/wiki/Replication_(computer_science)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] replication-transparency-hides-failover-from-users
+Replication transparency requires access to replicated entities to appear identical to accessing a single non-replicated entity, and failover should be hidden from users.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Replication_computer_science.md
+- Source URL: https://en.wikipedia.org/wiki/Replication_(computer_science)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] robots-txt-first-proposed-1994
+The robots.txt protocol was first proposed in 1994.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Robots_exclusion_standard.md
+- Source URL: https://en.wikipedia.org/wiki/Robots_exclusion_standard
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] robots-txt-empty-disallow-permits-all-and-disallow-slash-blocks-all
+In robots.txt, an empty Disallow or Allow: / permits everything, while Disallow: / blocks everything.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Robots_exclusion_standard.md
+- Source URL: https://en.wikipedia.org/wiki/Robots_exclusion_standard
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] robots-txt-ai-crawling-gptbot-blocking-2023
+As of 2023, 306 of the top 1,000 websites blocked OpenAI's GPTBot using robots.txt.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Robots_exclusion_standard.md
+- Source URL: https://en.wikipedia.org/wiki/Robots_exclusion_standard
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] robots-txt-rsl-2025-sets-ai-licensing-terms
+Really Simple Licensing (RSL), launched in 2025, allows publishers to set AI licensing terms within robots.txt; participants include Medium, Reddit, and Yahoo.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Robots_exclusion_standard.md
+- Source URL: https://en.wikipedia.org/wiki/Robots_exclusion_standard
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] robots-txt-sitemap-directive-references-sitemaps
+robots.txt can reference sitemaps via the Sitemap: directive.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Robots_exclusion_standard.md
+- Source URL: https://en.wikipedia.org/wiki/Robots_exclusion_standard
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] ap-v-meltwater-absence-robots-txt-not-license-to-copy
+In AP v. Meltwater (2013), the absence of robots.txt protection did not imply a license to copy content.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Robots_exclusion_standard.md
+- Source URL: https://en.wikipedia.org/wiki/Robots_exclusion_standard
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] sha2-designed-by-nsa-standardized-by-nist-fips-180-4
+SHA-2 was designed by the NSA and standardized by NIST in FIPS PUB 180-4.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-SHA-2.md
+- Source URL: https://en.wikipedia.org/wiki/SHA-2
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] sha2-uses-merkle-damgard-with-davies-meyer
+SHA-2 uses the Merkle–Damgård construction with Davies–Meyer compression.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-SHA-2.md
+- Source URL: https://en.wikipedia.org/wiki/SHA-2
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] sha2-message-schedule-expands-16-words-to-64-or-80
+SHA-2's message schedule expands 16 input words to 64 words for SHA-256 or 80 words for SHA-512 using rotation, shift, and XOR operations.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-SHA-2.md
+- Source URL: https://en.wikipedia.org/wiki/SHA-2
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] sha2-padding-appends-1-bit-zeros-and-big-endian-length
+SHA-2 padding appends a 1 bit, then K zero bits, then the message length as a 64-bit for SHA-256 or 128-bit for SHA-512 big-endian integer, making total length a multiple of 512 or 1024 bits.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-SHA-2.md
+- Source URL: https://en.wikipedia.org/wiki/SHA-2
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] sha2-avalanche-effect-flips-about-half-output-bits
+In SHA-2, a single-bit input change flips approximately 50% of output bits (avalanche effect).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-SHA-2.md
+- Source URL: https://en.wikipedia.org/wiki/SHA-2
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] sha2-preimage-brute-force-2L-collision-2L2
+For an L-bit SHA-2 digest, brute-force preimage resistance requires 2^L evaluations and collision resistance requires 2^(L/2) via the birthday attack.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-SHA-2.md
+- Source URL: https://en.wikipedia.org/wiki/SHA-2
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] sha224-truncates-sha256-omit-h7-sha384-truncates-sha512-omit-h6-h7
+SHA-224 is SHA-256 with different IVs and output truncated by omitting h7; SHA-384 is SHA-512 with different IVs and output truncated by omitting h6 and h7.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-SHA-2.md
+- Source URL: https://en.wikipedia.org/wiki/SHA-2
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] sha512-t-iv-generation-xor-a5-and-hash-sha512-t
+SHA-512/t uses an IV generation function that XORs initial values with 0xa5a5a5a5a5a5a5a5 and hashes the ASCII string SHA-512/t; SHA-512/384 is not allowed and SHA-384 should be used instead.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-SHA-2.md
+- Source URL: https://en.wikipedia.org/wiki/SHA-2
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] separation-of-concerns-divides-complex-problem-into-distinct-addressable-aspects
+Separation of concerns prescribes dividing a complex problem into distinct, independently addressable aspects or issues.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Separation_of_concerns.md
+- Source URL: https://en.wikipedia.org/wiki/Separation_of_concerns
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] soc-reduces-cognitive-load-by-focusing-on-one-aspect-at-a-time
+Separation of concerns reduces cognitive load by allowing developers to focus on one aspect at a time while treating other aspects as irrelevant from the current viewpoint.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Separation_of_concerns.md
+- Source URL: https://en.wikipedia.org/wiki/Separation_of_concerns
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] srp-is-class-level-application-of-soc
+The Single Responsibility Principle (SRP) is a class-level application of separation of concerns: each class should have one reason to change.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Separation_of_concerns.md
+- Source URL: https://en.wikipedia.org/wiki/Separation_of_concerns
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] soc-aims-to-minimize-coupling-between-concerns
+Separation of concerns aims to minimize coupling between concerns; poor separation increases inter-module dependencies.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Separation_of_concerns.md
+- Source URL: https://en.wikipedia.org/wiki/Separation_of_concerns
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] html-css-js-separate-content-presentation-behavior
+The classic web example of separation of concerns is HTML for structure/content, CSS for presentation/style, and JavaScript for behavior/interaction.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Separation_of_concerns.md
+- Source URL: https://en.wikipedia.org/wiki/Separation_of_concerns
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] internet-protocol-stack-smtp-tcp-separation
+The Internet protocol stack is a canonical separation-of-concerns example: SMTP does not care how TCP achieves reliability, and TCP does not care how packets are routed.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Separation_of_concerns.md
+- Source URL: https://en.wikipedia.org/wiki/Separation_of_concerns
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] schedule-is-ordered-list-of-transaction-operations
+A schedule (or history) is an ordered list or partial order of read, write, commit, and abort operations performed by concurrent transactions.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Serializability.md
+- Source URL: https://en.wikipedia.org/wiki/Serializability
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] serial-schedule-no-interleaving-limits-concurrency
+A serial schedule executes transactions one after another with no interleaving; it is always correct but limits concurrency.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Serializability.md
+- Source URL: https://en.wikipedia.org/wiki/Serializability
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] serializable-schedule-same-outcome-as-some-serial
+A serializable schedule produces the same outcome as some serial schedule even though operations may interleave, and is the primary correctness criterion for concurrent transactions.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Serializability.md
+- Source URL: https://en.wikipedia.org/wiki/Serializability
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] conflict-equivalence-same-conflicting-pair-order
+Two schedules are conflict-equivalent if they involve the same transactions with the same operations in the same per-transaction order, and all conflicting pairs appear in the same relative order; equivalently, one can be transformed into the other by swapping non-conflicting operations.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Serializability.md
+- Source URL: https://en.wikipedia.org/wiki/Serializability
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] recoverable-schedule-commits-after-read-source-commits
+A recoverable schedule requires a transaction to commit only after all transactions whose writes it has read have committed.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Serializability.md
+- Source URL: https://en.wikipedia.org/wiki/Serializability
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cascadeless-schedule-disallows-dirty-reads
+A cascadeless (ACA) schedule disallows dirty reads, allowing a transaction to read only values written by already-committed transactions, which prevents cascading aborts.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Serializability.md
+- Source URL: https://en.wikipedia.org/wiki/Serializability
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] strict-schedule-conflicting-ops-after-writer-commit-or-abort
+A strict schedule requires that if T1 writes an object, T1 must commit or abort before any conflicting operation by another transaction on that object, enabling efficient crash recovery.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Serializability.md
+- Source URL: https://en.wikipedia.org/wiki/Serializability
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] vertical-partitioning-splits-columns
+Vertical partitioning splits columns of a table, whereas horizontal partitioning splits rows.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Shard_database_architecture.md
+- Source URL: https://en.wikipedia.org/wiki/Shard_(database_architecture)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] shard-key-column-determines-row-shard-assignment
+Shard key selection chooses a column such as customer_region or user_id that determines which shard a row belongs to.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Shard_database_architecture.md
+- Source URL: https://en.wikipedia.org/wiki/Shard_(database_architecture)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] google-spanner-shards-across-paxos-state-machines
+Google Spanner shards data across Paxos state machines for global distribution.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Shard_database_architecture.md
+- Source URL: https://en.wikipedia.org/wiki/Shard_(database_architecture)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] vitess-provides-mysql-sharding-middleware-with-vschema
+Vitess provides a sharding middleware layer for MySQL with VSchema definitions.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Shard_database_architecture.md
+- Source URL: https://en.wikipedia.org/wiki/Shard_(database_architecture)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] elasticsearch-indices-automatically-divided-into-configurable-shards
+Elasticsearch automatically divides indices into a configurable number of shards.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Shard_database_architecture.md
+- Source URL: https://en.wikipedia.org/wiki/Shard_(database_architecture)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] negative-cycles-make-shortest-path-undefined
+Negative cycles make shortest paths undefined because a path can loop infinitely for a lower cost.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Shortest_path_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Shortest_path_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] single-source-shortest-path-finds-paths-from-one-source-to-all-vertices
+The single-source shortest path variant finds shortest paths from one source vertex to all other vertices.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Shortest_path_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Shortest_path_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dijkstra-binary-heap-complexity-e-plus-v-log-v
+Dijkstra's algorithm with a binary heap runs in O((E+V) log V) time for non-negative edge weights.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Shortest_path_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Shortest_path_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dijkstra-list-implementation-quadratic-time
+Dijkstra's algorithm with a list implementation runs in O(V²) time.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Shortest_path_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Shortest_path_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] thorup-linear-time-undirected-integer-weighted
+Thorup's algorithm achieves O(E) single-source shortest path for undirected graphs with integer weights and requires constant-time multiplication.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Shortest_path_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Shortest_path_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] residual-graph-contains-forward-capacity-and-backward-reversible-flow-edges
+A residual graph contains forward edges for remaining capacity and backward edges for flow that can be reversed.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Shortest_path_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Shortest_path_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] simhash-proposed-for-floc-federated-learning-of-cohorts
+SimHash was proposed for use in FLoC (Federated Learning of Cohorts).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-SimHash.md
+- Source URL: https://en.wikipedia.org/wiki/SimHash
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] w-shingling-common-feature-extraction-before-simhash
+w-shingling is commonly used as the feature extraction step before applying SimHash to text.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-SimHash.md
+- Source URL: https://en.wikipedia.org/wiki/SimHash
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] google-2006-evaluation-compared-minhash-and-simhash
+Google's 2006 evaluation compared MinHash and SimHash for locality-sensitive hashing use cases.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-SimHash.md
+- Source URL: https://en.wikipedia.org/wiki/SimHash
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] google-news-personalization-used-minhash
+Google News personalization used MinHash rather than SimHash.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-SimHash.md
+- Source URL: https://en.wikipedia.org/wiki/SimHash
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] skip-list-average-layer-count-log-base-one-over-p
+A skip list contains log_{1/p}(n) layers on average.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Skip_list.md
+- Source URL: https://en.wikipedia.org/wiki/Skip_list
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] skip-list-elements-appear-in-one-over-one-minus-p-lists-average
+Each skip list element appears in 1/(1-p) lists on average.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Skip_list.md
+- Source URL: https://en.wikipedia.org/wiki/Skip_list
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] skip-list-space-complexity-linear-average-nlogn-worst
+Skip lists use O(n) space on average and O(n log n) in the worst case.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Skip_list.md
+- Source URL: https://en.wikipedia.org/wiki/Skip_list
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] indexable-skip-list-stores-link-widths-for-logarithmic-positional-access
+An indexable skip list stores the width of each link to enable O(log n) positional index lookups instead of O(n).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Skip_list.md
+- Source URL: https://en.wikipedia.org/wiki/Skip_list
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] quasi-random-skip-list-levels-resist-adversarial-high-level-node-deletion
+Quasi-random skip list level construction protects against adversaries deleting high-level nodes to degrade performance.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Skip_list.md
+- Source URL: https://en.wikipedia.org/wiki/Skip_list
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] skip-list-search-drops-down-level-when-current-exceeds-target
+Skip list search starts at the top layer's head, moves right until the current element exceeds the target, then drops down one level.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Skip_list.md
+- Source URL: https://en.wikipedia.org/wiki/Skip_list
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] sliding-window-operates-at-data-link-and-transport-layers
+The sliding window protocol operates at the data link layer (OSI Layer 2) and the transport layer (TCP).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Sliding_window_protocol.md
+- Source URL: https://en.wikipedia.org/wiki/Sliding_window_protocol
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] sliding-window-transmit-constraint-nt-less-than-na-plus-wt
+A sliding window sender may send packet nt only if nt < na + wt, where na is the greatest ACK received and wt is the transmit window.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Sliding_window_protocol.md
+- Source URL: https://en.wikipedia.org/wiki/Sliding_window_protocol
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] sliding-window-receiver-accept-condition-nr-to-nr-plus-wr
+A sliding window receiver accepts packet x only if nr <= x < nr + wr.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Sliding_window_protocol.md
+- Source URL: https://en.wikipedia.org/wiki/Sliding_window_protocol
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] sliding-window-ack-contains-next-expected-packet-number
+A sliding window acknowledgment contains nr, the sequence number of the next expected packet, cumulatively acknowledging all prior packets.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Sliding_window_protocol.md
+- Source URL: https://en.wikipedia.org/wiki/Sliding_window_protocol
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] selective-repeat-hdlc-example-wt-plus-wr-le-8
+In the HDLC Selective Repeat example, wt + wr <= 8, for example wt = 6 and wr = 2.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Sliding_window_protocol.md
+- Source URL: https://en.wikipedia.org/wiki/Sliding_window_protocol
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] zmodem-and-uucp-g-use-sliding-windows-over-xmodem
+ZMODEM and UUCP-g use sliding windows for throughput improvement over non-windowed protocols like XMODEM.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Sliding_window_protocol.md
+- Source URL: https://en.wikipedia.org/wiki/Sliding_window_protocol
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] snowflake-created-by-twitter-for-distributed-systems
+Snowflake IDs are a 64-bit unique identifier format created by Twitter (now X) for use in distributed systems.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Snowflake_ID.md
+- Source URL: https://en.wikipedia.org/wiki/Snowflake_ID
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] snowflake-decentralized-generation-no-central-authority
+Snowflake IDs enable decentralized ID generation because the machine ID field eliminates the need for a central ID authority, allowing each node to generate IDs independently without coordination.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Snowflake_ID.md
+- Source URL: https://en.wikipedia.org/wiki/Snowflake_ID
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] snowflake-machine-id-extraction-formula
+The machine ID can be extracted from a Snowflake ID with machine_id = (snowflake_id >> 12) & 0x3FF, using a 10-bit mask.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Snowflake_ID.md
+- Source URL: https://en.wikipedia.org/wiki/Snowflake_ID
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] snowflake-sequence-extraction-formula
+The sequence number can be extracted from a Snowflake ID with sequence = snowflake_id & 0xFFF, using a 12-bit mask.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Snowflake_ID.md
+- Source URL: https://en.wikipedia.org/wiki/Snowflake_ID
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] snowflake-worked-example-tweet-1888944671579078978
+For tweet ID 1888944671579078978, the decoded Snowflake fields are timestamp 2025-02-10 13:34:39.256 UTC, machine ID 360, and sequence number 322.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Snowflake_ID.md
+- Source URL: https://en.wikipedia.org/wiki/Snowflake_ID
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] spatial-databases-extend-rdbms-with-spatial-types-indexes-queries
+Spatial databases extend general-purpose relational databases with spatial data types, spatial indexing, and spatial query capabilities.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Spatial_database.md
+- Source URL: https://en.wikipedia.org/wiki/Spatial_database
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] spatial-db-geodatabase-georeferenced-gis
+A geographic database (geodatabase) is a georeferenced spatial database used in GIS for storing data associated with locations on Earth.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Spatial_database.md
+- Source URL: https://en.wikipedia.org/wiki/Spatial_database
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] spatial-db-spatial-reference-system-coordinate-transform
+Every geographic location in a spatial database must be specified according to a coordinate system, and spatial databases track and transform between coordinate systems.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Spatial_database.md
+- Source URL: https://en.wikipedia.org/wiki/Spatial_database
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] spatial-db-vector-model-dominant-supports-raster
+Most spatial databases use the vector data model (points, lines, polygons), while some also support raster data storage.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Spatial_database.md
+- Source URL: https://en.wikipedia.org/wiki/Spatial_database
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] spatial-db-nosql-simplified-spatial-capabilities
+MongoDB, CouchDB, and Elasticsearch offer simplified spatial capabilities compared with spatial RDBMS extensions.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Spatial_database.md
+- Source URL: https://en.wikipedia.org/wiki/Spatial_database
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] spatial-db-mysql-spatial-limitations-versions
+MySQL had spatial limitations: MBR-only before version 5.5 and MyISAM-only before version 5.0.16.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Spatial_database.md
+- Source URL: https://en.wikipedia.org/wiki/Spatial_database
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] spatial-db-big-data-platforms-sedona-geomesa
+Apache Sedona and GeoMesa enable spatial processing on Hadoop/Spark at scale.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Spatial_database.md
+- Source URL: https://en.wikipedia.org/wiki/Spatial_database
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] stable-storage-enables-robust-software-recovery
+Stable storage enables software to be written that can recover correctly from hardware and power failures.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Stable_storage.md
+- Source URL: https://en.wikipedia.org/wiki/Stable_storage
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] stable-storage-is-hardware-architecture-classification
+Stable storage is a hardware/architecture classification, not a software interface.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Stable_storage.md
+- Source URL: https://en.wikipedia.org/wiki/Stable_storage
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] stable-storage-atomicity-distinct-from-durability
+The atomicity guarantee of stable storage is distinct from durability; it concerns consistency of individual write operations, not data persistence across reboots.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Stable_storage.md
+- Source URL: https://en.wikipedia.org/wiki/Stable_storage
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] strategy-pattern-encapsulates-algorithms-behind-common-interface
+The Strategy pattern encapsulates each algorithm in its own class behind a common interface, enabling independent variation of algorithms.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Strategy_pattern.md
+- Source URL: https://en.wikipedia.org/wiki/Strategy_pattern
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] strategy-pattern-eliminates-code-duplication
+Strategy pattern eliminates code duplication because strategies can be reused across multiple contexts and systems.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Strategy_pattern.md
+- Source URL: https://en.wikipedia.org/wiki/Strategy_pattern
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] strategy-pattern-implementation-mechanisms
+Strategy can be implemented using function pointers, first-class functions, class instances, or reflection depending on the language.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Strategy_pattern.md
+- Source URL: https://en.wikipedia.org/wiki/Strategy_pattern
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] strategy-pattern-is-application-of-dependency-injection
+The Strategy pattern is a specific application of dependency injection: the algorithm is injected into the context.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Strategy_pattern.md
+- Source URL: https://en.wikipedia.org/wiki/Strategy_pattern
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] strategy-pattern-cpp-policy-based-design
+Policy-based design is the C++ generalization of the Strategy pattern using templates rather than runtime polymorphism.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Strategy_pattern.md
+- Source URL: https://en.wikipedia.org/wiki/Strategy_pattern
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] strategy-pattern-gof-1994-page-315
+The Strategy pattern originates from the GoF book Design Patterns: Elements of Reusable Object-Oriented Software (1994), page 315.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Strategy_pattern.md
+- Source URL: https://en.wikipedia.org/wiki/Strategy_pattern
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] strategy-pattern-addresses-class-explosion
+The Strategy pattern addresses class explosion when behavior varies across subclasses, such as every car model needing its own brake implementation.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Strategy_pattern.md
+- Source URL: https://en.wikipedia.org/wiki/Strategy_pattern
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] stream-processing-paradigm-event-sequence-central
+Stream processing is a programming paradigm that treats sequences of events (streams) as the central objects of computation and encompasses dataflow programming, reactive programming, and distributed data processing.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Stream_processing.md
+- Source URL: https://en.wikipedia.org/wiki/Stream_processing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] stream-processing-read-write-restriction
+Stream processing imposes a read/write restriction: for each record, a kernel may only read input, perform operations, and write output, with no memory that is both readable and writable.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Stream_processing.md
+- Source URL: https://en.wikipedia.org/wiki/Stream_processing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] stream-processing-raftlib-kernel-dataflow
+RaftLib is a C++ stream processing framework that links compute kernels as a dataflow graph using C++ stream operators (>>), with kernels inheriting from raft::kernel.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Stream_processing.md
+- Source URL: https://en.wikipedia.org/wiki/Stream_processing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] stream-processing-gpus-most-widespread-consumer-stream-processors
+GPUs are the most widespread consumer stream processors.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Stream_processing.md
+- Source URL: https://en.wikipedia.org/wiki/Stream_processing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] stream-processing-pcie-latency-bottleneck-small-datasets
+Communication latency over PCI Express is the primary bottleneck limiting stream processor utility for small datasets.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Stream_processing.md
+- Source URL: https://en.wikipedia.org/wiki/Stream_processing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] stream-processing-gpu-pipeline-depth-over-200-stages
+GPU pipeline depths can exceed 200 stages, and setting changes at any stage are expensive.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Stream_processing.md
+- Source URL: https://en.wikipedia.org/wiki/Stream_processing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] stream-processing-memory-optimized-high-bandwidth-over-low-latency
+Stream processing memory systems are optimized for high bandwidth over low latency due to bulk read/write patterns.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Stream_processing.md
+- Source URL: https://en.wikipedia.org/wiki/Stream_processing
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] thread-safety-deadlock-guarantees-limited
+Thread safety guarantees cannot always include deadlock prevention because callbacks and architectural layering violations can introduce deadlocks independent of the library.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Thread_safety.md
+- Source URL: https://en.wikipedia.org/wiki/Thread_safety
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] partial-thread-safety-requires-application-consistency
+Libraries may offer partial thread safety such as safe concurrent reads but unsafe concurrent writes, and applications must use them consistently with documented guarantees.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Thread_safety.md
+- Source URL: https://en.wikipedia.org/wiki/Thread_safety
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] reentrancy-uses-local-variables-and-atomic-nonlocal-state
+Re-entrant code uses local stack variables instead of static or global variables and accesses all non-local state atomically.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Thread_safety.md
+- Source URL: https://en.wikipedia.org/wiki/Thread_safety
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] static-c-variables-shared-across-threads
+Static variables in C are shared across threads and are not on the stack, making them a common source of race conditions.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Thread_safety.md
+- Source URL: https://en.wikipedia.org/wiki/Thread_safety
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cpp-lock-free-atomics-thread-safe-reentrant
+C++ lock-free atomic operations are thread-safe and reentrant.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Thread_safety.md
+- Source URL: https://en.wikipedia.org/wiki/Thread_safety
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] priority-inversion-related-to-mutex-usage
+Priority inversion is a concurrency hazard related to mutex usage.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Thread_safety.md
+- Source URL: https://en.wikipedia.org/wiki/Thread_safety
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] toctou-definition-race-between-check-and-use
+TOCTOU is a race condition between checking system state and acting on that check, where the state can change and cause the action to proceed on stale information.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Time-of-check_to_time-of-use.md
+- Source URL: https://en.wikipedia.org/wiki/Time-of-check_to_time-of-use
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] toctou-prevalent-in-unix-filesystem-and-beyond
+TOCTOU bugs are especially prevalent in Unix filesystem operations but also occur in sockets, database transactions, and cloud infrastructure.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Time-of-check_to_time-of-use.md
+- Source URL: https://en.wikipedia.org/wiki/Time-of-check_to_time-of-use
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] filesystem-mazes-force-sleep-on-uncached-directory-reads
+File system mazes are an attack technique that forces the victim process to sleep on uncached directory reads, giving the attacker a window to modify state.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Time-of-check_to_time-of-use.md
+- Source URL: https://en.wikipedia.org/wiki/Time-of-check_to_time-of-use
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] algorithmic-complexity-attacks-force-victim-scheduling-quantum-in-single-syscall
+Algorithmic complexity attacks create many files with hash collisions to force the victim to spend its scheduling quantum in a single system call, enabling precise interleaving.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Time-of-check_to_time-of-use.md
+- Source URL: https://en.wikipedia.org/wiki/Time-of-check_to_time-of-use
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] filesystem-transactions-aim-multi-operation-atomicity
+Filesystem transactions, including research proposals Valor and TxOS and partial implementation NTFS TxF, aim to provide atomicity across multiple filesystem operations.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Time-of-check_to_time-of-use.md
+- Source URL: https://en.wikipedia.org/wiki/Time-of-check_to_time-of-use
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] toctou-violates-linearizability
+TOCTOU violations break linearizability, the consistency model where operations appear to take effect at a single instant.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Time-of-check_to_time-of-use.md
+- Source URL: https://en.wikipedia.org/wiki/Time-of-check_to_time-of-use
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] time-series-chronological-indexed-sequence
+A time series is a sequence of data points indexed in chronological order, typically at equally spaced intervals, representing discrete-time data.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Time_series.md
+- Source URL: https://en.wikipedia.org/wiki/Time_series
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] time-series-analysis-vs-forecasting
+Time series analysis extracts meaningful statistics and characteristics from temporal data, while time series forecasting uses models to predict future values from past observations.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Time_series.md
+- Source URL: https://en.wikipedia.org/wiki/Time_series
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] time-series-distinct-from-cross-sectional-and-spatial
+Time series analysis is distinct from cross-sectional studies, which have no natural ordering, and spatial data analysis, which has geographic ordering.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Time_series.md
+- Source URL: https://en.wikipedia.org/wiki/Time_series
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] stationarity-classified-strict-and-wide-sense
+Stationarity in time series is classified into strict stationarity and wide-sense or second-order stationarity.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Time_series.md
+- Source URL: https://en.wikipedia.org/wiki/Time_series
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] time-series-frequency-domain-vs-time-domain-methods
+Time series analysis methods divide by domain into frequency-domain methods such as spectral and wavelet analysis and time-domain methods such as autocorrelation, cross-correlation, and scaled correlation.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Time_series.md
+- Source URL: https://en.wikipedia.org/wiki/Time_series
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] time-series-parametric-vs-nonparametric
+Parametric time series methods assume structure and estimate parameters, such as AR and MA, while non-parametric methods estimate covariance or spectrum directly without structural assumptions.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Time_series.md
+- Source URL: https://en.wikipedia.org/wiki/Time_series
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] kalman-filter-time-domain-equivalent-to-frequency-domain
+The Kalman filter operates in the time domain and is equivalent to frequency-domain filtering and smoothing approaches.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Time_series.md
+- Source URL: https://en.wikipedia.org/wiki/Time_series
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] curve-fitting-interpolation-smoothing-regression-extrapolation
+Curve fitting distinguishes interpolation as exact fit between known points, smoothing as approximate fit, regression as statistical inference and uncertainty, and extrapolation as estimation beyond the observed range with higher uncertainty.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Time_series.md
+- Source URL: https://en.wikipedia.org/wiki/Time_series
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] time-series-data-timestamp-value-pairs
+Time series data consists of timestamp-value pairs and is also called profiles, curves, traces, or trends depending on the domain.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Time_series_database.md
+- Source URL: https://en.wikipedia.org/wiki/Time_series_database
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] tsdb-formal-definition-unordered-set-of-series
+A formal definition of a time series database is an unordered set of n time series possibly of different lengths.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Time_series_database.md
+- Source URL: https://en.wikipedia.org/wiki/Time_series_database
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] tsdb-retention-policy-example-granularity-tiers
+TSDB retention policies can configure rules such as keeping 1-second granularity for 7 days and 1-minute granularity for 1 year.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Time_series_database.md
+- Source URL: https://en.wikipedia.org/wiki/Time_series_database
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] tsdb-common-compression-schemes-delta-xor-dictionary
+Common TSDB compression schemes include delta encoding, XOR-based float compression such as Gorilla, and dictionary encoding.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Time_series_database.md
+- Source URL: https://en.wikipedia.org/wiki/Time_series_database
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] notable-tsdb-implementation-languages
+Notable open-source TSDBs and their implementation languages include InfluxDB (Go/Rust), Prometheus (Go), TimescaleDB (C, PostgreSQL extension), VictoriaMetrics (Go), ClickHouse (C++), and Apache IoTDB (Java).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Time_series_database.md
+- Source URL: https://en.wikipedia.org/wiki/Time_series_database
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] tsdb-licensing-apache-2-exceptions
+Most major TSDBs use Apache License 2.0, with notable exceptions including MongoDB under SSPL and InfluxDB under MIT for core with commercial clustering.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Time_series_database.md
+- Source URL: https://en.wikipedia.org/wiki/Time_series_database
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] token-bucket-token-represents-bytes-or-packet
+In the token bucket algorithm, each token represents a unit of bytes or a single packet, and packets consume tokens to be transmitted.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Token_bucket.md
+- Source URL: https://en.wikipedia.org/wiki/Token_bucket
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] token-bucket-adds-one-token-every-1-over-r-seconds
+The token bucket adds one token every 1/r seconds, where r is the token addition rate.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Token_bucket.md
+- Source URL: https://en.wikipedia.org/wiki/Token_bucket
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] token-bucket-low-resolution-clock-formula
+For low-resolution clocks updating every S milliseconds, the token bucket adds (r × S) / 1000 tokens per update interval.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Token_bucket.md
+- Source URL: https://en.wikipedia.org/wiki/Token_bucket
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] linux-htb-replaces-cbq
+Linux Hierarchical Token Bucket (HTB) replaces Class-Based Queueing (CBQ) as a faster queuing discipline.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Token_bucket.md
+- Source URL: https://en.wikipedia.org/wiki/Token_bucket
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] htb-top-level-rate-ceil-total-link-bandwidth
+In Linux HTB, the top-level class's rate and ceil should be set to the total available link bandwidth.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Token_bucket.md
+- Source URL: https://en.wikipedia.org/wiki/Token_bucket
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] token-bucket-used-for-database-io-flow-control
+Token bucket is used to limit database IO by defining tokens as a normalized sum of IO request weight and length, bounding a linear combination of IOPS and bandwidth.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Token_bucket.md
+- Source URL: https://en.wikipedia.org/wiki/Token_bucket
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] token-bucket-burstiness-jitter-or-burst-tolerance
+Token bucket burstiness can be expressed as jitter tolerance, how early a packet may arrive relative to the average rate, or burst tolerance, how much traffic above average may pass in a finite period.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Token_bucket.md
+- Source URL: https://en.wikipedia.org/wiki/Token_bucket
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] tombstone-is-marker-record-for-deleted-data
+A tombstone is a marker record created when data is deleted in an eventually consistent distributed data store.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Tombstone_data_store.md
+- Source URL: https://en.wikipedia.org/wiki/Tombstone_(data_store)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] tombstone-not-returned-in-client-queries
+Tombstone records are not returned in response to client queries.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Tombstone_data_store.md
+- Source URL: https://en.wikipedia.org/wiki/Tombstone_(data_store)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] tombstone-retained-until-replicas-learn-then-garbage-collected
+Tombstones are retained only long enough for all replicas to learn of the deletion, then garbage-collected.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Tombstone_data_store.md
+- Source URL: https://en.wikipedia.org/wiki/Tombstone_(data_store)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] compaction-physically-removes-expired-tombstones
+Compaction physically removes expired tombstones and reclaims storage.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Tombstone_data_store.md
+- Source URL: https://en.wikipedia.org/wiki/Tombstone_(data_store)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] eventual-consistency-propagation-delay-makes-physical-delete-unsafe
+Eventual consistency propagation delay means not all nodes learn of a deletion simultaneously, making a simple physical delete unsafe.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Tombstone_data_store.md
+- Source URL: https://en.wikipedia.org/wiki/Tombstone_(data_store)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] tombstones-general-across-distributed-datastores
+Tombstones are a general mechanism across distributed databases such as Cassandra and DynamoDB, not unique to any single system.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Tombstone_data_store.md
+- Source URL: https://en.wikipedia.org/wiki/Tombstone_(data_store)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] trie-is-tree-search-structure-for-strings
+A trie is a tree-based search data structure optimized for storing and retrieving strings.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Trie.md
+- Source URL: https://en.wikipedia.org/wiki/Trie
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] trie-nodes-store-keys-implicitly-via-position
+Trie nodes do not store their keys directly; a node's position in the tree implicitly defines its key, with edges representing individual characters.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Trie.md
+- Source URL: https://en.wikipedia.org/wiki/Trie
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] trie-root-represents-empty-string
+In a trie, the root node represents the empty string.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Trie.md
+- Source URL: https://en.wikipedia.org/wiki/Trie
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] trie-can-be-viewed-as-tree-shaped-dfa
+A trie can be viewed as a tree-shaped deterministic finite automaton (DFA).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Trie.md
+- Source URL: https://en.wikipedia.org/wiki/Trie
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] trie-used-for-prefix-operations
+Tries are used for prefix-based operations such as autocomplete, spell checking, and IP routing.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Trie.md
+- Source URL: https://en.wikipedia.org/wiki/Trie
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] patricia-tree-compressed-binary-trie-with-skip-numbers
+A Patricia tree is a compressed binary trie that uses binary encoding of keys and skip numbers to avoid traversing empty subtrees.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Trie.md
+- Source URL: https://en.wikipedia.org/wiki/Trie
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bitwise-trie-operates-on-individual-bits
+A bitwise trie operates on individual bits of fixed-length binary data such as integers and addresses.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Trie.md
+- Source URL: https://en.wikipedia.org/wiki/Trie
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] suffix-tree-is-trie-of-all-suffixes
+A suffix tree is a trie of all suffixes of a text and enables fast full-text search.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Trie.md
+- Source URL: https://en.wikipedia.org/wiki/Trie
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] 2pc-has-coordinator-and-participants
+2PC designates one coordinator node and treats all other nodes as participants or cohorts.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Two-phase_commit_protocol.md
+- Source URL: https://en.wikipedia.org/wiki/Two-phase_commit_protocol
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] 2pc-two-phases-voting-and-completion
+2PC consists of a commit-request or voting phase followed by a commit or completion phase.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Two-phase_commit_protocol.md
+- Source URL: https://en.wikipedia.org/wiki/Two-phase_commit_protocol
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] 2pc-not-to-be-confused-with-two-phase-locking
+Two-phase commit is a commitment protocol and is not the same as two-phase locking, which is a concurrency control protocol.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Two-phase_commit_protocol.md
+- Source URL: https://en.wikipedia.org/wiki/Two-phase_commit_protocol
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] xa-standard-uses-2pc-via-transaction-managers
+The X/Open XA standard is a distributed transaction processing interface that uses 2PC via transaction managers.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Two-phase_commit_protocol.md
+- Source URL: https://en.wikipedia.org/wiki/Two-phase_commit_protocol
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] tree-2pc-propagates-votes-up-decisions-down
+In tree 2PC, votes collect upward along the invocation tree and commit or abort decisions propagate downward.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Two-phase_commit_protocol.md
+- Source URL: https://en.wikipedia.org/wiki/Two-phase_commit_protocol
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dynamic-2pc-determines-coordinator-dynamically
+Dynamic 2PC has no predetermined coordinator; agreement messages race inward from leaves and the coordinator is determined dynamically at the collision point.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Two-phase_commit_protocol.md
+- Source URL: https://en.wikipedia.org/wiki/Two-phase_commit_protocol
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] presumed-commit-optimization-assumes-commit
+Presumed commit optimization in 2PC assumes commit unless abort evidence is found during recovery.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Two-phase_commit_protocol.md
+- Source URL: https://en.wikipedia.org/wiki/Two-phase_commit_protocol
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] uri-normalization-goal-equivalence-detection
+URI normalization modifies and standardizes URIs into a canonical form so syntactically different URIs referring to the same resource can be identified as equivalent.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-URL_normalization.md
+- Source URL: https://en.wikipedia.org/wiki/URL_normalization
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] uri-normalization-three-semantic-categories
+URI normalizations are categorized as semantics-preserving, usually semantics-preserving, or semantics-changing based on their impact.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-URL_normalization.md
+- Source URL: https://en.wikipedia.org/wiki/URL_normalization
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] remove-dot-segments-rfc3986-section-5-2-4
+The remove_dot_segments algorithm for URI normalization is specified in RFC 3986 Section 5.2.4.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-URL_normalization.md
+- Source URL: https://en.wikipedia.org/wiki/URL_normalization
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] trailing-slash-usually-preserves-only-confirmed-by-redirect
+Adding a trailing slash to a non-empty URI path usually preserves semantics but is only guaranteed if the server confirms it via redirect.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-URL_normalization.md
+- Source URL: https://en.wikipedia.org/wiki/URL_normalization
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dustbuster-detects-68-percent-redundant-uris
+The DustBuster algorithm detected up to 68% of redundant URIs in crawl logs.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-URL_normalization.md
+- Source URL: https://en.wikipedia.org/wiki/URL_normalization
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] uri-normalization-used-by-search-engines-and-crawlers
+URI normalization is used by search engines for deduplicating indexed pages and by web crawlers to avoid redundant fetches.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-URL_normalization.md
+- Source URL: https://en.wikipedia.org/wiki/URL_normalization
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] default-port-removal-scheme-specific-http-80-https-443
+Default port removal in URI normalization is scheme-based: port 80 for HTTP and 443 for HTTPS.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-URL_normalization.md
+- Source URL: https://en.wikipedia.org/wiki/URL_normalization
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] url-shortener-short-domain-plus-key-redirects
+URL shortening maps a long URL to a short domain plus generated key and uses HTTP redirects to send the browser to the original destination.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-URL_shortening.md
+- Source URL: https://en.wikipedia.org/wiki/URL_shortening
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] url-shortener-key-generation-methods
+URL shortener keys can be generated using base-36, base-62, hash functions, random number generation, or user-defined custom slugs.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-URL_shortening.md
+- Source URL: https://en.wikipedia.org/wiki/URL_shortening
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] url-shortener-use-cases-character-limit-print-qr-tracking
+URL shortening is used for character-limited messaging, print media, QR codes, click tracking, and aesthetic link beautification.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-URL_shortening.md
+- Source URL: https://en.wikipedia.org/wiki/URL_shortening
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] tinyurl-preview-prefix-reveals-destination
+Prefixing a TinyURL with preview. (for example, https://preview.tinyurl.com/8kmfp) reveals the destination before visiting.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-URL_shortening.md
+- Source URL: https://en.wikipedia.org/wiki/URL_shortening
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] tinyurl-launched-2002-first-major-service
+TinyURL launched in 2002 and was the first major URL shortening service.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-URL_shortening.md
+- Source URL: https://en.wikipedia.org/wiki/URL_shortening
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] url-shortener-301-works-project-internet-archive
+The 301 Works project, started in late 2009 by the Internet Archive, preserves short URLs from collaborating services against linkrot.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-URL_shortening.md
+- Source URL: https://en.wikipedia.org/wiki/URL_shortening
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] url-shortener-blocks-data-and-javascript-schemes
+URL shortening services block data: and javascript: URI schemes to prevent XSS and session hijacking attacks.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-URL_shortening.md
+- Source URL: https://en.wikipedia.org/wiki/URL_shortening
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] url-shortener-goo-gl-deprecated-2018-links-dying-2025
+Google's goo.gl URL shortener was deprecated in 2018 and its links were scheduled to die in 2025.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-URL_shortening.md
+- Source URL: https://en.wikipedia.org/wiki/URL_shortening
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] uuid-variant-1-bit-pattern-10xx-current-standard
+UUID Variant 1 uses bit pattern 10xx and is the current standard (RFC 9562/DCE 1.1, Leach-Salz).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Universally_unique_identifier.md
+- Source URL: https://en.wikipedia.org/wiki/Universally_unique_identifier
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] uuid-variant-2-bit-pattern-110x-legacy-microsoft-guid
+UUID Variant 2 uses bit pattern 110x and is the legacy Microsoft COM/DCOM GUID variant with different byte-ordering.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Universally_unique_identifier.md
+- Source URL: https://en.wikipedia.org/wiki/Universally_unique_identifier
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] uuid-variant-2-lacks-versions-6-7-8
+UUID Variant 2 does not have versions 6, 7, or 8.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Universally_unique_identifier.md
+- Source URL: https://en.wikipedia.org/wiki/Universally_unique_identifier
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] uuid-nil-uuid-all-zeros-no-value
+The Nil UUID is all zeros (00000000-0000-0000-0000-000000000000) and represents no value.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Universally_unique_identifier.md
+- Source URL: https://en.wikipedia.org/wiki/Universally_unique_identifier
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] uuid-max-uuid-all-ones-end-of-list
+The Max UUID is all ones (FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF) and represents end of list.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Universally_unique_identifier.md
+- Source URL: https://en.wikipedia.org/wiki/Universally_unique_identifier
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] uuid-v6-reordered-v1-lexically-sortable
+UUID version 6 reorders version 1 timestamp bits high-to-low and is lexically sortable.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Universally_unique_identifier.md
+- Source URL: https://en.wikipedia.org/wiki/Universally_unique_identifier
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] uuid-v8-custom-experimental-no-guaranteed-uniqueness
+UUID version 8 uses 122 opaque custom bits plus 6 version/variant bits and is experimental/vendor-specific with no guaranteed uniqueness.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Universally_unique_identifier.md
+- Source URL: https://en.wikipedia.org/wiki/Universally_unique_identifier
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] uuid-v7-timestamps-can-be-fuzzed-smeared
+UUID v7 timestamps can be fuzzed or smeared for monotonicity/privacy, and RFC 9562 does not mandate close adherence to actual Unix time.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Universally_unique_identifier.md
+- Source URL: https://en.wikipedia.org/wiki/Universally_unique_identifier
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] vector-clock-internal-event-increments-own-component
+An internal event at process i in a vector clock increments that process's own clock component by one.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Vector_clock.md
+- Source URL: https://en.wikipedia.org/wiki/Vector_clock
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] vector-clock-send-increments-own-clock-once
+A vector clock send operation increments the sender's own clock once and then sends the message with a copy of the vector.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Vector_clock.md
+- Source URL: https://en.wikipedia.org/wiki/Vector_clock
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] vector-clock-order-consistent-with-real-time
+If VC(a) < VC(b), then real time(a) < real time(b).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Vector_clock.md
+- Source URL: https://en.wikipedia.org/wiki/Vector_clock
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] plausible-clocks-constant-size-sacrifice-precision
+Plausible clocks (1999) are a constant-size alternative to vector clocks that sacrifices precision and may total-order concurrent events.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Vector_clock.md
+- Source URL: https://en.wikipedia.org/wiki/Vector_clock
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] chain-clocks-smaller-than-n-dynamic-process-count
+Chain clocks (2005) use smaller-than-n vectors and adapt to dynamic process counts.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Vector_clock.md
+- Source URL: https://en.wikipedia.org/wiki/Vector_clock
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bloom-clocks-probabilistic-fixed-size
+Bloom clocks (2019) are probabilistic Bloom-filter-based fixed-size clocks with possible false positives on causal ordering but guaranteed true negatives on concurrency.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Vector_clock.md
+- Source URL: https://en.wikipedia.org/wiki/Vector_clock
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] vector-timestamps-identify-consistent-cut-messages
+Mattern showed vector timestamps can identify which in-transit messages belong to a consistent global snapshot without dedicated marker messages.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Vector_clock.md
+- Source URL: https://en.wikipedia.org/wiki/Vector_clock
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] cerberus-uses-logical-clock-vectors-cross-shard-consistency
+The Cerberus protocol uses logical clock vectors to validate cross-shard transaction consistency without wall-clock synchronization.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Vector_clock.md
+- Source URL: https://en.wikipedia.org/wiki/Vector_clock
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] version-control-component-of-software-configuration-management
+Version control is a component of software configuration management, and a VCS automates tracking of file versions.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Version_control.md
+- Source URL: https://en.wikipedia.org/wiki/Version_control
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] vcs-working-copy-requires-explicit-commit
+A working copy is a local copy of files checked out from the repository, and changes to it must be explicitly committed back.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Version_control.md
+- Source URL: https://en.wikipedia.org/wiki/Version_control
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] vcs-repository-authoritative-store-all-revisions
+The repository is the authoritative data store holding all revisions and history.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Version_control.md
+- Source URL: https://en.wikipedia.org/wiki/Version_control
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] vcs-head-tip-latest-branch-revision
+HEAD or tip is the latest revision on a given branch.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Version_control.md
+- Source URL: https://en.wikipedia.org/wiki/Version_control
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] vcs-atomic-commits-ensure-repository-consistency
+Atomic commits ensure the repository stays consistent even if an operation is interrupted.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Version_control.md
+- Source URL: https://en.wikipedia.org/wiki/Version_control
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] vcs-baseline-label-tag-synonymous-snapshot-markers
+Baselines, labels, and tags are synonymous terms for identifying significant snapshots in revision history.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Version_control.md
+- Source URL: https://en.wikipedia.org/wiki/Version_control
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] vcs-forward-vs-reverse-integration-definitions
+Forward integration merges the trunk into a branch, while reverse integration merges a branch back into the trunk.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Version_control.md
+- Source URL: https://en.wikipedia.org/wiki/Version_control
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] vcs-blame-identifies-line-last-modifier
+Blame identifies the author and revision that last modified a particular line.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Version_control.md
+- Source URL: https://en.wikipedia.org/wiki/Version_control
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] version-vectors-generate-preorder-over-update-events
+Version vectors mathematically generate a preorder over update events.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Version_vector.md
+- Source URL: https://en.wikipedia.org/wiki/Version_vector
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] version-vector-local-update-increments-own-counter
+On a local update at replica r, a version vector increments V_r[r] by one.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Version_vector.md
+- Source URL: https://en.wikipedia.org/wiki/Version_vector
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] version-vector-comparison-rule-elementwise
+For version vectors, a < b iff every element of V_a is less than or equal to the corresponding element of V_b and at least one element is strictly less.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Version_vector.md
+- Source URL: https://en.wikipedia.org/wiki/Version_vector
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bounded-version-vectors-address-counter-growth
+Bounded version vectors solve the unbounded counter growth problem and require atomic pairwise synchronization.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Version_vector.md
+- Source URL: https://en.wikipedia.org/wiki/Version_vector
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] version-vectors-used-in-coda-ficus-filesystems
+Version vectors are used in distributed filesystems Coda and Ficus and are the basis for optimistic replication protocols.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Version_vector.md
+- Source URL: https://en.wikipedia.org/wiki/Version_vector
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] transcoding-digital-to-digital-conversion
+Transcoding is the direct digital-to-digital conversion of one encoding to another, applicable to video, audio, and character encoding data.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Video_transcoding.md
+- Source URL: https://en.wikipedia.org/wiki/Video_transcoding
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] transcoding-performed-when-target-lacks-support
+Transcoding is performed when a target device or workflow does not support the source format, when storage capacity requires reduced file sizes, or when converting obsolete formats to modern ones.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Video_transcoding.md
+- Source URL: https://en.wikipedia.org/wiki/Video_transcoding
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] lossy-to-lossless-transcoding-technically-lossless
+Lossy-to-lossless transcoding is technically lossless (no additional information lost), but the original quality lost in the first lossy encode is not recovered.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Video_transcoding.md
+- Source URL: https://en.wikipedia.org/wiki/Video_transcoding
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] bitrate-peeling-lowers-bitrate-without-reencoding
+Bitrate peeling is a technique to lower bitrate without full re-encoding, though quality is typically inferior to a proper re-encode (e.g., Vorbis).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Video_transcoding.md
+- Source URL: https://en.wikipedia.org/wiki/Video_transcoding
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] jpeg2000-lossless-compresses-digital-cinema-to-half
+JPEG2000 lossless can compress digital cinema frames to approximately half their original size.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Video_transcoding.md
+- Source URL: https://en.wikipedia.org/wiki/Video_transcoding
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] editing-workflow-decode-once-edit-encode-once
+For editing workflows, best practice is to decode once, make all edits, then encode — never repeatedly decode/re-encode.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Video_transcoding.md
+- Source URL: https://en.wikipedia.org/wiki/Video_transcoding
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] transcoding-produces-multiple-bitrate-versions-for-adaptive-streaming
+Transcoding produces multiple bitrate versions of content for adaptive bitrate streaming delivery.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Video_transcoding.md
+- Source URL: https://en.wikipedia.org/wiki/Video_transcoding
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] digital-cinema-uses-cineon-dpx-to-jpeg2000
+Digital cinema uses Cineon/DPX to JPEG2000 transcoding to address the ~8 TB storage challenge of uncompressed feature films.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Video_transcoding.md
+- Source URL: https://en.wikipedia.org/wiki/Video_transcoding
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] watermark-cookie-interchangeable-in-dirsync
+In DirSync implementations, the term 'cookie' is interchangeable with 'watermark'.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Watermark_data_synchronization.md
+- Source URL: https://en.wikipedia.org/wiki/Watermark_(data_synchronization)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] dirsync-watermark-concept-consistent-across-products
+DirSync control implementation varies across products, but the watermark concept is consistent across all of them.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Watermark_data_synchronization.md
+- Source URL: https://en.wikipedia.org/wiki/Watermark_(data_synchronization)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] watermarks-related-to-change-data-capture-and-event-sourcing
+Watermarks are related to change data capture, event sourcing, and log-based replication — all share the concept of a cursor through an ordered change stream.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Watermark_data_synchronization.md
+- Source URL: https://en.wikipedia.org/wiki/Watermark_(data_synchronization)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] identity-management-uses-watermarks-for-directory-sync
+Microsoft Identity Integration Server (MIIS) and Identity Lifecycle Manager (ILM) rely on watermarks for directory sync.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Watermark_data_synchronization.md
+- Source URL: https://en.wikipedia.org/wiki/Watermark_(data_synchronization)
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] freshness-age-revisit-cost-functions
+For re-visit policy, freshness is a binary cost function (copy matches or not) while age measures how outdated the local copy is.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Web_crawler.md
+- Source URL: https://en.wikipedia.org/wiki/Web_crawler
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] optimal-revisit-policy-penalizes-frequent-changes
+The optimal re-visit policy penalizes pages that change too often — it is neither uniform nor proportional, but closer to uniform.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Web_crawler.md
+- Source URL: https://en.wikipedia.org/wiki/Web_crawler
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] spider-traps-use-dynamic-urls-with-query-params
+Spider traps are dynamically generated URLs (containing `?`) that can cause infinite crawling loops.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Web_crawler.md
+- Source URL: https://en.wikipedia.org/wiki/Web_crawler
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] robots-txt-crawl-delay-parameter
+robots.txt supports a `Crawl-delay:` parameter to specify seconds between requests.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Web_crawler.md
+- Source URL: https://en.wikipedia.org/wiki/Web_crawler
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] http-head-request-checks-mime-type-before-get
+Crawlers use HTTP HEAD requests before GET to check MIME type and avoid downloading non-HTML resources.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Web_crawler.md
+- Source URL: https://en.wikipedia.org/wiki/Web_crawler
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] crawler-user-agent-header-identifies-crawler
+Crawlers identify themselves to web servers via the User-agent HTTP header.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Web_crawler.md
+- Source URL: https://en.wikipedia.org/wiki/Web_crawler
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] crawl-frontier-management-core-scheduling-problem
+Crawl frontier management is the core scheduling problem for web crawlers, requiring prioritization with partial information since the full web graph is unknown during crawling.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Web_crawler.md
+- Source URL: https://en.wikipedia.org/wiki/Web_crawler
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] wal-allows-page-cache-buffering-dirty-pages
+WAL allows the page cache to buffer updates to disk-resident pages while still guaranteeing durability, so dirty pages do not need to be flushed immediately.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Write-ahead_logging.md
+- Source URL: https://en.wikipedia.org/wiki/Write-ahead_logging
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] wal-crash-recovery-compares-log-to-database-state
+On restart after a crash, WAL-based systems compare the log against the database state to decide whether to undo incomplete operations, redo committed ones, or leave things as-is.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Write-ahead_logging.md
+- Source URL: https://en.wikipedia.org/wiki/Write-ahead_logging
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] wal-requires-stable-storage-guarantee
+WAL depends on the guarantee that once data is written to stable storage, it survives crashes.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Write-ahead_logging.md
+- Source URL: https://en.wikipedia.org/wiki/Write-ahead_logging
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] postgresql-wal-parameters-include-wal-level-checkpoint-timeout-max-wal-size
+PostgreSQL WAL is configured via parameters such as `wal_level`, `checkpoint_timeout`, and `max_wal_size`.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Write-ahead_logging.md
+- Source URL: https://en.wikipedia.org/wiki/Write-ahead_logging
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] shadow-paging-alternative-to-wal
+Shadow paging is the main alternative to WAL for atomic updates, trading index/block-list overhead for simpler recovery but worse write performance.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Write-ahead_logging.md
+- Source URL: https://en.wikipedia.org/wiki/Write-ahead_logging
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] yens-container-a-holds-confirmed-paths
+Container A in Yen's algorithm holds the confirmed k-shortest paths in order.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Yen27s_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Yen%27s_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] yens-spur-node-interior-nodes
+In Yen's algorithm, each interior node of the (k-1)-th shortest path serves as a potential deviation point (spur node).
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Yen27s_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Yen%27s_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] yens-space-complexity-on2-plus-kn
+Yen's algorithm has space complexity O(N^2 + KN), where N^2 is for the graph adjacency and KN is for storing up to K paths each of length up to N.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Yen27s_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Yen%27s_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] yens-heap-optimization-constant-factor
+Using a min-heap for container B in Yen's algorithm improves practical performance (constant-factor) but does not change asymptotic complexity.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Yen27s_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Yen%27s_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] yens-algorithm-iterative-not-recursive
+Yen's algorithm is iterative, not recursive: each k-th path depends on all previously found 1 through (k-1) paths.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Yen27s_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Yen%27s_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] yens-algorithm-maintains-a-and-b-containers
+Yen's algorithm maintains container A for confirmed k-shortest paths and container B for candidate deviation paths.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Yens_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Yen's_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] yens-algorithm-tries-each-non-sink-node-as-spur-node
+Yen's algorithm tries each node along the previous shortest path except the sink as a spur node.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Yens_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Yen's_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] yens-algorithm-restores-removed-graph-elements-after-spur-computation
+Yen's algorithm restores all temporarily removed edges and nodes after each spur path computation.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Yens_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Yen's_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] yens-algorithm-selects-lowest-cost-candidate-from-b
+After generating candidate deviation paths, Yen's algorithm moves the lowest-cost path in B to A as the next confirmed k-shortest path.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Yens_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Yen's_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] yens-algorithm-terminates-early-when-candidate-set-empty
+Yen's algorithm terminates early if candidate container B is empty, indicating no more candidate paths exist.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Yens_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Yen's_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] yens-algorithm-makes-kn-dijkstra-calls-worst-case
+Yen's algorithm makes up to K·N calls to Dijkstra in the worst case, where K is the number of paths and N is the number of nodes.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-Yens_algorithm.md
+- Source URL: https://en.wikipedia.org/wiki/Yen's_algorithm
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] youtube-1b-hours-watched-daily
+Over one billion hours of video are watched on YouTube daily.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-YouTube.md
+- Source URL: https://en.wikipedia.org/wiki/YouTube
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] youtube-14-8b-total-videos-mid-2024
+YouTube had approximately 14.8 billion total videos as of mid-2024.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-YouTube.md
+- Source URL: https://en.wikipedia.org/wiki/YouTube
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] youtube-16-percent-internet-traffic
+YouTube accounts for approximately 16% of all internet traffic.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-YouTube.md
+- Source URL: https://en.wikipedia.org/wiki/YouTube
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] youtube-revenue-model-adsense-premium-memberships-superchat
+YouTube's revenue model is primarily advertising via Google AdSense, supplemented by YouTube Premium subscriptions, channel memberships, and Super Chat donations.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-YouTube.md
+- Source URL: https://en.wikipedia.org/wiki/YouTube
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] youtube-uploader-retains-copyright-standard-license
+YouTube uploaders retain copyright under the standard license, with Creative Commons licensing optional.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-YouTube.md
+- Source URL: https://en.wikipedia.org/wiki/YouTube
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] youtube-public-dislike-counts-hidden-nov-2021
+YouTube hid public dislike counts in November 2021, citing cyberbullying concerns.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-YouTube.md
+- Source URL: https://en.wikipedia.org/wiki/YouTube
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+### [ACCEPT] youtube-viacom-v-youtube-resolved-2012-safe-harbor
+In Viacom v. YouTube, resolved in 2012, YouTube was found not liable for user-uploaded copyright infringement under safe harbor.
+- Source: /home/forge/workspace/entries/2026/06/19/wiki-YouTube.md
+- Source URL: https://en.wikipedia.org/wiki/YouTube
+- Model: openai:rits/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
